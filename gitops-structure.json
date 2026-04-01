@@ -1,0 +1,293 @@
+{
+  "generated": "2026-04-01T00:00:00Z",
+  "source_repo": "fleetdm/fleet",
+  "source_path": "it-and-security/",
+  "source_url": "https://github.com/fleetdm/fleet/tree/main/it-and-security",
+  "latest_commit": {
+    "sha": "1263ffc46b9f9f6f9c5089b1386296377883f819",
+    "short_sha": "1263ffc",
+    "message": "Update Claude desktop app policy versions to latest (#42659)",
+    "timestamp": "2026-03-30T10:43:13-05:00",
+    "commit_url": "https://github.com/fleetdm/fleet/commit/1263ffc46b9f9f6f9c5089b1386296377883f819"
+  },
+  "summary": {
+    "total_files": 136,
+    "platforms": ["all", "android", "ios", "ipados", "linux", "macos", "windows"],
+    "fleets": 7,
+    "policies": 30,
+    "configuration_profiles": 33,
+    "scripts": 28,
+    "software": 16,
+    "reports": 11,
+    "labels": 17
+  },
+  "fleets": [
+    {
+      "name": "workstations",
+      "file": "it-and-security/fleets/workstations.yml",
+      "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/fleets/workstations.yml"
+    },
+    {
+      "name": "servers",
+      "file": "it-and-security/fleets/servers.yml",
+      "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/fleets/servers.yml"
+    },
+    {
+      "name": "company-owned-mobile-devices",
+      "file": "it-and-security/fleets/company-owned-mobile-devices.yml",
+      "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/fleets/company-owned-mobile-devices.yml"
+    },
+    {
+      "name": "personal-mobile-devices",
+      "file": "it-and-security/fleets/personal-mobile-devices.yml",
+      "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/fleets/personal-mobile-devices.yml"
+    },
+    {
+      "name": "testing-and-qa",
+      "file": "it-and-security/fleets/testing-and-qa.yml",
+      "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/fleets/testing-and-qa.yml"
+    },
+    {
+      "name": "unassigned",
+      "file": "it-and-security/fleets/unassigned.yml",
+      "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/fleets/unassigned.yml"
+    }
+  ],
+  "global_config": {
+    "file": "it-and-security/default.yml",
+    "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/default.yml"
+  },
+  "platforms": {
+    "all": {
+      "agent_options": [
+        {
+          "name": "agent-options",
+          "file": "it-and-security/lib/all/agent-options/agent-options.yml",
+          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/all/agent-options/agent-options.yml"
+        },
+        {
+          "name": "servers-agent-options",
+          "file": "it-and-security/lib/all/agent-options/servers.agent-options.yml",
+          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/all/agent-options/servers.agent-options.yml"
+        }
+      ],
+      "labels": [
+        {"name": "apple-silicon-macos-hosts", "file": "it-and-security/lib/all/labels/apple-silicon-macos-hosts.yml"},
+        {"name": "arm-based-windows-hosts", "file": "it-and-security/lib/all/labels/arm-based-windows-hosts.yml"},
+        {"name": "debian-based-linux-hosts", "file": "it-and-security/lib/all/labels/debian-based-linux-hosts.yml"},
+        {"name": "department-customer-success", "file": "it-and-security/lib/all/labels/department-customer-success.yml"},
+        {"name": "department-engineering", "file": "it-and-security/lib/all/labels/department-engineering.yml"},
+        {"name": "department-executive", "file": "it-and-security/lib/all/labels/department-executive.yml"},
+        {"name": "department-finance", "file": "it-and-security/lib/all/labels/department-finance.yml"},
+        {"name": "department-information-technology", "file": "it-and-security/lib/all/labels/department-information-technology.yml"},
+        {"name": "department-marketing", "file": "it-and-security/lib/all/labels/department-marketing.yml"},
+        {"name": "department-people", "file": "it-and-security/lib/all/labels/department-people.yml"},
+        {"name": "department-product-design", "file": "it-and-security/lib/all/labels/department-product-design.yml"},
+        {"name": "department-sales", "file": "it-and-security/lib/all/labels/department-sales.yml"},
+        {"name": "keynote-14-installed", "file": "it-and-security/lib/all/labels/keynote-14-installed.yml"},
+        {"name": "macos-compatibility-extension-installed", "file": "it-and-security/lib/all/labels/macos-compatibility-extension-installed.yml"},
+        {"name": "macs-with-1password-installed", "file": "it-and-security/lib/all/labels/macs-with-1password-installed.yml"},
+        {"name": "macs-with-microsoft-autoupdate-installed", "file": "it-and-security/lib/all/labels/macs-with-microsoft-autoupdate-installed.yml"},
+        {"name": "nudge-test-devices", "file": "it-and-security/lib/all/labels/nudge-test-devices.yml"},
+        {"name": "rpm-based-linux-hosts", "file": "it-and-security/lib/all/labels/rpm-based-linux-hosts.yml"},
+        {"name": "santa-test-devices", "file": "it-and-security/lib/all/labels/santa-test-devices.yml"},
+        {"name": "team-g-mdm", "file": "it-and-security/lib/all/labels/team-g-mdm.yml"},
+        {"name": "team-g-software", "file": "it-and-security/lib/all/labels/team-g-software.yml"},
+        {"name": "virtual-machines", "file": "it-and-security/lib/all/labels/virtual-machines.yml"},
+        {"name": "x86-based-windows-hosts", "file": "it-and-security/lib/all/labels/x86-based-windows-hosts.yml"}
+      ],
+      "reports": [
+        {"name": "collect-fleetd-information", "file": "it-and-security/lib/all/reports/collect-fleetd-information.yml"},
+        {"name": "collect-known-vulnerable-chrome-extensions", "file": "it-and-security/lib/all/reports/collect-known-vulnerable-chrome-extensions.yml"},
+        {"name": "collect-operating-system-information", "file": "it-and-security/lib/all/reports/collect-operating-system-information.yml"},
+        {"name": "dex-queries", "file": "it-and-security/lib/all/reports/dex-queries.yml"}
+      ]
+    },
+    "macos": {
+      "configuration_profiles": [
+        {"name": "1password-managed-settings", "file": "it-and-security/lib/macos/configuration-profiles/1password-managed-settings.mobileconfig"},
+        {"name": "automatic-app-store-updates", "file": "it-and-security/lib/macos/configuration-profiles/automatic-app-store-updates.mobileconfig"},
+        {"name": "chrome-enrollment", "file": "it-and-security/lib/macos/configuration-profiles/chrome-enrollment.mobileconfig"},
+        {"name": "date-time", "file": "it-and-security/lib/macos/configuration-profiles/date-time.mobileconfig"},
+        {"name": "disable-bluetooth-file-sharing", "file": "it-and-security/lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig"},
+        {"name": "disable-content-caching", "file": "it-and-security/lib/macos/configuration-profiles/disable-content-caching.mobileconfig"},
+        {"name": "disable-guest-account", "file": "it-and-security/lib/macos/configuration-profiles/disable-guest-account.mobileconfig"},
+        {"name": "disable-guest-shares", "file": "it-and-security/lib/macos/configuration-profiles/disable-guest-shares.mobileconfig"},
+        {"name": "disable-internet-sharing", "file": "it-and-security/lib/macos/configuration-profiles/disable-internet-sharing.mobileconfig"},
+        {"name": "disable-media-sharing", "file": "it-and-security/lib/macos/configuration-profiles/disable-media-sharing.mobileconfig"},
+        {"name": "disable-safari-safefiles", "file": "it-and-security/lib/macos/configuration-profiles/disable-safari-safefiles.mobileconfig"},
+        {"name": "enable-doh", "file": "it-and-security/lib/macos/configuration-profiles/enable-doh.mobileconfig"},
+        {"name": "enable-firewall-logging", "file": "it-and-security/lib/macos/configuration-profiles/enable-firewall-logging.mobileconfig"},
+        {"name": "enable-gatekeeper", "file": "it-and-security/lib/macos/configuration-profiles/enable-gatekeeper.mobileconfig"},
+        {"name": "enforce-library-validation", "file": "it-and-security/lib/macos/configuration-profiles/enforce-library-validation.mobileconfig"},
+        {"name": "ensure-show-status-bar-is-enabled", "file": "it-and-security/lib/macos/configuration-profiles/ensure-show-status-bar-is-enabled.mobileconfig"},
+        {"name": "firewall", "file": "it-and-security/lib/macos/configuration-profiles/firewall.mobileconfig"},
+        {"name": "fleet-okta-conditional-access", "file": "it-and-security/lib/macos/configuration-profiles/fleet-okta-conditional-access.mobileconfig"},
+        {"name": "full-disk-access-for-fleetd", "file": "it-and-security/lib/macos/configuration-profiles/full-disk-access-for-fleetd.mobileconfig"},
+        {"name": "google-chrome-managed-bookmarks", "file": "it-and-security/lib/macos/configuration-profiles/google-chrome-managed-bookmarks.mobileconfig"},
+        {"name": "google-updater-background-task", "file": "it-and-security/lib/macos/configuration-profiles/google-updater-background-task.mobileconfig"},
+        {"name": "limit-ad-tracking", "file": "it-and-security/lib/macos/configuration-profiles/limit-ad-tracking.mobileconfig"},
+        {"name": "microsoft-autoupdate-settings", "file": "it-and-security/lib/macos/configuration-profiles/microsoft-autoupdate-settings.mobileconfig"},
+        {"name": "misc", "file": "it-and-security/lib/macos/configuration-profiles/misc.mobileconfig"},
+        {"name": "nudge-configuration", "file": "it-and-security/lib/macos/configuration-profiles/nudge-configuration.mobileconfig"},
+        {"name": "okta-verify-settings", "file": "it-and-security/lib/macos/configuration-profiles/okta-verify-settings.mobileconfig"},
+        {"name": "prevent-autologon", "file": "it-and-security/lib/macos/configuration-profiles/prevent-autologon.mobileconfig"},
+        {"name": "santa-configuration", "file": "it-and-security/lib/macos/configuration-profiles/santa-configuration.mobileconfig"},
+        {"name": "santa-rules", "file": "it-and-security/lib/macos/configuration-profiles/santa-rules.mobileconfig"},
+        {"name": "secure-terminal-keyboard", "file": "it-and-security/lib/macos/configuration-profiles/secure-terminal-keyboard.mobileconfig"}
+      ],
+      "declaration_profiles": [
+        {"name": "Passcode settings", "file": "it-and-security/lib/macos/declaration-profiles/Passcode settings.json"},
+        {"name": "Software Update settings", "file": "it-and-security/lib/macos/declaration-profiles/Software Update settings.json"}
+      ],
+      "policies": [
+        {"name": "1password-emergency-kit-check", "file": "it-and-security/lib/macos/policies/1password-emergency-kit-check.yml"},
+        {"name": "1password-installed", "file": "it-and-security/lib/macos/policies/1password-installed.yml"},
+        {"name": "all-software-updates-installed", "file": "it-and-security/lib/macos/policies/all-software-updates-installed.yml"},
+        {"name": "battery-health-check", "file": "it-and-security/lib/macos/policies/battery-health-check.yml"},
+        {"name": "disk-encryption-check", "file": "it-and-security/lib/macos/policies/disk-encryption-check.yml"},
+        {"name": "disk-space-check", "file": "it-and-security/lib/macos/policies/disk-space-check.yml"},
+        {"name": "enrollment-profile-up-to-date", "file": "it-and-security/lib/macos/policies/enrollment-profile-up-to-date.yml"},
+        {"name": "filevault-enabled", "file": "it-and-security/lib/macos/policies/filevault-enabled.yml"},
+        {"name": "install-macos-compatibility-extension", "file": "it-and-security/lib/macos/policies/install-macos-compatibility-extension.yml"},
+        {"name": "install-nudge", "file": "it-and-security/lib/macos/policies/install-nudge.yml"},
+        {"name": "install-santa-extension", "file": "it-and-security/lib/macos/policies/install-santa-extension.yml"},
+        {"name": "latest-macos", "file": "it-and-security/lib/macos/policies/latest-macos.yml"},
+        {"name": "update-1password", "file": "it-and-security/lib/macos/policies/update-1password.yml"},
+        {"name": "update-claude", "file": "it-and-security/lib/macos/policies/update-claude.yml"},
+        {"name": "update-firefox", "file": "it-and-security/lib/macos/policies/update-firefox.yml"},
+        {"name": "update-safari", "file": "it-and-security/lib/macos/policies/update-safari.yml"},
+        {"name": "update-slack", "file": "it-and-security/lib/macos/policies/update-slack.yml"}
+      ],
+      "scripts": [
+        {"name": "collect-fleetd-logs", "file": "it-and-security/lib/macos/scripts/collect-fleetd-logs.sh"},
+        {"name": "execute-disable-fleet-desktop", "file": "it-and-security/lib/macos/scripts/execute-disable-fleet-desktop.sh"},
+        {"name": "install-macos-compatibility-extension", "file": "it-and-security/lib/macos/scripts/install-macos-compatibility-extension.sh"},
+        {"name": "install-nudge", "file": "it-and-security/lib/macos/scripts/install-nudge.sh"},
+        {"name": "install-santa-extension", "file": "it-and-security/lib/macos/scripts/install-santa-extension.sh"},
+        {"name": "install-update-homebrew", "file": "it-and-security/lib/macos/scripts/install-update-homebrew.sh"},
+        {"name": "install-wine", "file": "it-and-security/lib/macos/scripts/install-wine.sh"},
+        {"name": "mdm-migration", "file": "it-and-security/lib/macos/scripts/mdm-migration.sh"},
+        {"name": "migrate-slack-preferences", "file": "it-and-security/lib/macos/scripts/migrate-slack-preferences.sh"},
+        {"name": "nudge-postinstall", "file": "it-and-security/lib/macos/scripts/nudge-postinstall.sh"},
+        {"name": "refetch-host", "file": "it-and-security/lib/macos/scripts/refetch-host.sh"},
+        {"name": "remove-old-nudge", "file": "it-and-security/lib/macos/scripts/remove-old-nudge.sh"},
+        {"name": "santa-block-script", "file": "it-and-security/lib/macos/scripts/santa-block-script.sh"},
+        {"name": "see-automatic-enrollment-profile", "file": "it-and-security/lib/macos/scripts/see-automatic-enrollment-profile.sh"},
+        {"name": "set-lock-screen-message", "file": "it-and-security/lib/macos/scripts/set-lock-screen-message.sh"},
+        {"name": "system-maintenance", "file": "it-and-security/lib/macos/scripts/system-maintenance.sh"},
+        {"name": "uninstall-fleetd-macos", "file": "it-and-security/lib/macos/scripts/uninstall-fleetd-macos.sh"},
+        {"name": "uninstall-santa-extension", "file": "it-and-security/lib/macos/scripts/uninstall-santa-extension.sh"},
+        {"name": "update-safari", "file": "it-and-security/lib/macos/scripts/update-safari.sh"}
+      ],
+      "software": [
+        {"name": "1password", "file": "it-and-security/lib/macos/software/1password.yml"},
+        {"name": "fleet-desktop", "file": "it-and-security/lib/macos/software/fleet-desktop.yml"},
+        {"name": "fleet-keynote-theme", "file": "it-and-security/lib/macos/software/fleet-keynote-theme.yml"},
+        {"name": "mozilla-firefox", "file": "it-and-security/lib/macos/software/mozilla-firefox.yml"},
+        {"name": "nudge-assets", "file": "it-and-security/lib/macos/software/nudge-assets.yml"},
+        {"name": "nudge", "file": "it-and-security/lib/macos/software/nudge.yml"},
+        {"name": "santa", "file": "it-and-security/lib/macos/software/santa.yml"},
+        {"name": "zoom", "file": "it-and-security/lib/macos/software/zoom.yml"}
+      ],
+      "reports": [
+        {"name": "collect-macos-27-incompatible-apps", "file": "it-and-security/lib/macos/reports/collect-macos-27-incompatible-apps.yml"},
+        {"name": "collect-macos-compatibility-data", "file": "it-and-security/lib/macos/reports/collect-macos-compatibility-data.yml"},
+        {"name": "collect-santa-denied-logs", "file": "it-and-security/lib/macos/reports/collect-santa-denied-logs.yml"},
+        {"name": "collect-xprotect-reports", "file": "it-and-security/lib/macos/reports/collect-xprotect-reports.yml"},
+        {"name": "detect-apns-certificate", "file": "it-and-security/lib/macos/reports/detect-apns-certificate.yml"},
+        {"name": "detect-apple-intelligence", "file": "it-and-security/lib/macos/reports/detect-apple-intelligence.yml"}
+      ]
+    },
+    "windows": {
+      "configuration_profiles": [
+        {"name": "Advanced PowerShell logging", "file": "it-and-security/lib/windows/configuration-profiles/Advanced PowerShell logging.xml"},
+        {"name": "Disable Guest account", "file": "it-and-security/lib/windows/configuration-profiles/Disable Guest account.xml"},
+        {"name": "Disable OneDrive", "file": "it-and-security/lib/windows/configuration-profiles/Disable OneDrive.xml"},
+        {"name": "Enable firewall", "file": "it-and-security/lib/windows/configuration-profiles/Enable firewall.xml"},
+        {"name": "Password settings", "file": "it-and-security/lib/windows/configuration-profiles/Password settings.xml"},
+        {"name": "Windows Defender compliance settings", "file": "it-and-security/lib/windows/configuration-profiles/Windows Defender compliance settings.xml"}
+      ],
+      "policies": [
+        {"name": "1password-installed", "file": "it-and-security/lib/windows/policies/1password-installed.yml"},
+        {"name": "all-windows-updates-installed", "file": "it-and-security/lib/windows/policies/all-windows-updates-installed.yml"},
+        {"name": "antivirus-signatures-up-to-date", "file": "it-and-security/lib/windows/policies/antivirus-signatures-up-to-date.yml"},
+        {"name": "battery-health-check", "file": "it-and-security/lib/windows/policies/battery-health-check.yml"},
+        {"name": "bitlocker-enabled", "file": "it-and-security/lib/windows/policies/bitlocker-enabled.yml"},
+        {"name": "disk-encryption-check", "file": "it-and-security/lib/windows/policies/disk-encryption-check.yml"},
+        {"name": "disk-space-check", "file": "it-and-security/lib/windows/policies/disk-space-check.yml"},
+        {"name": "update-1password", "file": "it-and-security/lib/windows/policies/update-1password.yml"},
+        {"name": "update-claude", "file": "it-and-security/lib/windows/policies/update-claude.yml"},
+        {"name": "update-firefox", "file": "it-and-security/lib/windows/policies/update-firefox.yml"},
+        {"name": "update-slack", "file": "it-and-security/lib/windows/policies/update-slack.yml"},
+        {"name": "windows-defender-compliance-check", "file": "it-and-security/lib/windows/policies/windows-defender-compliance-check.yml"}
+      ],
+      "scripts": [
+        {"name": "create-admin-user", "file": "it-and-security/lib/windows/scripts/create-admin-user.ps1"},
+        {"name": "default-exe-install-script", "file": "it-and-security/lib/windows/scripts/default-exe-install-script.ps1"},
+        {"name": "enable-ms-defender", "file": "it-and-security/lib/windows/scripts/enable-ms-defender.ps1"},
+        {"name": "install-bitdefender", "file": "it-and-security/lib/windows/scripts/install-bitdefender.ps1"},
+        {"name": "okta-verify-install", "file": "it-and-security/lib/windows/scripts/okta_verify_install.ps1"},
+        {"name": "okta-verify-uninstall", "file": "it-and-security/lib/windows/scripts/okta_verify_uninstall.ps1"},
+        {"name": "turn-off-mdm", "file": "it-and-security/lib/windows/scripts/turn-off-mdm.ps1"},
+        {"name": "uninstall-fleetd-windows", "file": "it-and-security/lib/windows/scripts/uninstall-fleetd-windows.ps1"},
+        {"name": "uninstall-slack", "file": "it-and-security/lib/windows/scripts/uninstall-slack.ps1"},
+        {"name": "uninstall-zoom", "file": "it-and-security/lib/windows/scripts/uninstall-zoom.ps1"}
+      ],
+      "software": [
+        {"name": "1password", "file": "it-and-security/lib/windows/software/1password.yml"},
+        {"name": "google-chrome-arm", "file": "it-and-security/lib/windows/software/google-chrome-arm.yml"},
+        {"name": "okta-verify", "file": "it-and-security/lib/windows/software/okta-verify.yml"},
+        {"name": "zoom-arm", "file": "it-and-security/lib/windows/software/zoom-arm.yml"},
+        {"name": "zoom", "file": "it-and-security/lib/windows/software/zoom.yml"}
+      ],
+      "reports": [
+        {"name": "all-arm-hosts", "file": "it-and-security/lib/windows/reports/all-arm-hosts.yml"},
+        {"name": "all-x86-hosts", "file": "it-and-security/lib/windows/reports/all-x86-hosts.yml"}
+      ]
+    },
+    "linux": {
+      "policies": [
+        {"name": "check-fleet-desktop-extension-enabled", "file": "it-and-security/lib/linux/policies/check-fleet-desktop-extension-enabled.yml"},
+        {"name": "disk-encryption-check", "file": "it-and-security/lib/linux/policies/disk-encryption-check.yml"},
+        {"name": "disk-space-check", "file": "it-and-security/lib/linux/policies/disk-space-check.yml"}
+      ],
+      "scripts": [
+        {"name": "change-password-linux", "file": "it-and-security/lib/linux/scripts/change-password-linux.sh"},
+        {"name": "install-fleet-desktop-required-extension", "file": "it-and-security/lib/linux/scripts/install-fleet-desktop-required-extension.sh"},
+        {"name": "uninstall-fleetd-linux", "file": "it-and-security/lib/linux/scripts/uninstall-fleetd-linux.sh"}
+      ],
+      "software": [
+        {"name": "1password-deb", "file": "it-and-security/lib/linux/software/1password-deb.yml"},
+        {"name": "1password-rpm", "file": "it-and-security/lib/linux/software/1password-rpm.yml"},
+        {"name": "slack-deb", "file": "it-and-security/lib/linux/software/slack-deb.yml"},
+        {"name": "slack-rpm", "file": "it-and-security/lib/linux/software/slack-rpm.yml"},
+        {"name": "zoom-deb", "file": "it-and-security/lib/linux/software/zoom-deb.yml"},
+        {"name": "zoom-rpm", "file": "it-and-security/lib/linux/software/zoom-rpm.yml"}
+      ],
+      "reports": [
+        {"name": "all-deb-hosts", "file": "it-and-security/lib/linux/reports/all-deb-hosts.yml"},
+        {"name": "all-rpm-hosts", "file": "it-and-security/lib/linux/reports/all-rpm-hosts.yml"}
+      ]
+    },
+    "ios": {
+      "configuration_profiles": [
+        {"name": "lock-screen-message", "file": "it-and-security/lib/ios/configuration-profiles/lock-screen-message.mobileconfig"},
+        {"name": "self-service", "file": "it-and-security/lib/ios/configuration-profiles/self-service.mobileconfig"}
+      ],
+      "declaration_profiles": [
+        {"name": "Passcode settings", "file": "it-and-security/lib/ios/declaration-profiles/Passcode settings.json"},
+        {"name": "Software Update settings", "file": "it-and-security/lib/ios/declaration-profiles/Software Update settings.json"}
+      ]
+    },
+    "ipados": {
+      "configuration_profiles": [
+        {"name": "lock-screen-message", "file": "it-and-security/lib/ipados/configuration-profiles/lock-screen-message.mobileconfig"}
+      ],
+      "declaration_profiles": [
+        {"name": "Passcode settings", "file": "it-and-security/lib/ipados/declaration-profiles/Passcode settings.json"},
+        {"name": "Software Update settings", "file": "it-and-security/lib/ipados/declaration-profiles/Software Update settings.json"}
+      ]
+    }
+  }
+}
