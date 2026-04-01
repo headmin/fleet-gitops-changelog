@@ -1,0 +1,78 @@
+name: Update changelog
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:        # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Checkout fleetdm/fleet
+        uses: actions/checkout@v4
+        with:
+          repository: fleetdm/fleet
+          path: fleet
+          fetch-depth: 0
+
+      - name: Generate changelog.json
+        run: |
+          cd fleet
+          git log \
+            --format='{"sha":"%H","short_sha":"%h","author":"%an","message":"%s","timestamp":"%aI"}' \
+            --name-only \
+            -- it-and-security/ \
+          | python3 -c "
+          import sys, json
+
+          entries = []
+          current = None
+
+          for line in sys.stdin:
+              line = line.strip()
+              if not line:
+                  continue
+              if line.startswith('{'):
+                  if current:
+                      entries.append(current)
+                  obj = json.loads(line)
+                  current = {
+                      'sha': obj['sha'],
+                      'short_sha': obj['short_sha'],
+                      'author': obj['author'],
+                      'message': obj['message'],
+                      'timestamp': obj['timestamp'],
+                      'files': []
+                  }
+              elif current:
+                  current['files'].append(line)
+
+          if current:
+              entries.append(current)
+
+          entries = entries[:1000]
+
+          with open('../changelog.json', 'w') as f:
+              json.dump(entries, f, indent=2)
+
+          print(f'Generated changelog.json with {len(entries)} commits')
+          "
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add changelog.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update changelog $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
