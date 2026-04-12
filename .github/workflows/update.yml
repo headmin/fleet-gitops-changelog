@@ -26,7 +26,7 @@ jobs:
         run: |
           cd fleet
           git log \
-            --format='{"sha":"%H","short_sha":"%h","author":"%an","message":"%s","timestamp":"%aI"}' \
+            --format='%x00%H%x01%h%x01%an%x01%s%x01%aI' \
             --name-only \
             -- it-and-security/ \
           | python3 -c "
@@ -35,6 +35,8 @@ jobs:
           from pathlib import Path
 
           # --- Parse git log into entries ---
+          # Git outputs NUL (%x00) at record start, SOH (%x01) between fields.
+          # This avoids JSON escaping issues from commit messages with quotes.
           entries = []
           current = None
 
@@ -42,18 +44,22 @@ jobs:
               line = line.strip()
               if not line:
                   continue
-              if line.startswith('{'):
+              if '\x00' in line:
                   if current:
                       entries.append(current)
-                  obj = json.loads(line)
-                  current = {
-                      'sha': obj['sha'],
-                      'short_sha': obj['short_sha'],
-                      'author': obj['author'],
-                      'message': obj['message'],
-                      'timestamp': obj['timestamp'],
-                      'files': []
-                  }
+                  record = line.lstrip('\x00')
+                  parts = record.split('\x01')
+                  if len(parts) >= 5:
+                      current = {
+                          'sha': parts[0],
+                          'short_sha': parts[1],
+                          'author': parts[2],
+                          'message': parts[3],
+                          'timestamp': parts[4],
+                          'files': []
+                      }
+                  else:
+                      current = None
               elif current:
                   current['files'].append(line)
 
