@@ -1,5 +1,17 @@
 [
   {
+    "sha": "8209dbebee6ee5e665c297ce960d1e9df199afdf",
+    "short_sha": "8209dbebee",
+    "author": "Allen Houchins",
+    "message": "Remove Edge and Suspicious Package entries (#43509)",
+    "timestamp": "2026-04-13T22:15:24-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
     "sha": "972e301a0e053e7ce957e8e9ae65a22580504beb",
     "short_sha": "972e301a0e",
     "author": "Allen Houchins",

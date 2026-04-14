@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-14T00:46:26Z",
+  "generated": "2026-04-14T06:44:50Z",
   "source_repo": "fleetdm/fleet",
   "source_path": "it-and-security/",
   "source_url": "https://github.com/fleetdm/fleet/tree/main/it-and-security",
   "latest_commit": {
-    "sha": "972e301a0e053e7ce957e8e9ae65a22580504beb",
-    "short_sha": "972e301a0e",
-    "message": "Add fleet apps, labels, and patch policies (#43473)",
-    "timestamp": "2026-04-13T14:18:06-05:00",
-    "commit_url": "https://github.com/fleetdm/fleet/commit/972e301a0e053e7ce957e8e9ae65a22580504beb"
+    "sha": "8209dbebee6ee5e665c297ce960d1e9df199afdf",
+    "short_sha": "8209dbebee",
+    "message": "Remove Edge and Suspicious Package entries (#43509)",
+    "timestamp": "2026-04-13T22:15:24-05:00",
+    "commit_url": "https://github.com/fleetdm/fleet/commit/8209dbebee6ee5e665c297ce960d1e9df199afdf"
   },
   "fleets": [
     {
