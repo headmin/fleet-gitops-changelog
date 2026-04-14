@@ -1,5 +1,29 @@
 [
   {
+    "sha": "972e301a0e053e7ce957e8e9ae65a22580504beb",
+    "short_sha": "972e301a0e",
+    "author": "Allen Houchins",
+    "message": "Add fleet apps, labels, and patch policies (#43473)",
+    "timestamp": "2026-04-13T14:18:06-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/all/labels/windows-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "4850918dfd228d273edf15c8d9b1dd45e817c94a",
+    "short_sha": "4850918dfd",
+    "author": "Henry Stamerjohann",
+    "message": "Add updated DEX queries (#43451)",
+    "timestamp": "2026-04-13T21:11:24+02:00",
+    "files": [
+      "it-and-security/lib/all/reports/dex-queries.yml"
+    ]
+  },
+  {
     "sha": "23df8aafab47236085da6d29c21d21159ad65600",
     "short_sha": "23df8aafab",
     "author": "github-actions[bot]",

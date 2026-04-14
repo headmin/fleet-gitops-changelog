@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-13T18:37:46Z",
+  "generated": "2026-04-14T00:46:26Z",
   "source_repo": "fleetdm/fleet",
   "source_path": "it-and-security/",
   "source_url": "https://github.com/fleetdm/fleet/tree/main/it-and-security",
   "latest_commit": {
-    "sha": "23df8aafab47236085da6d29c21d21159ad65600",
-    "short_sha": "23df8aafab",
-    "message": "Update macOS policy versions (#43398)",
-    "timestamp": "2026-04-10T09:31:16-05:00",
-    "commit_url": "https://github.com/fleetdm/fleet/commit/23df8aafab47236085da6d29c21d21159ad65600"
+    "sha": "972e301a0e053e7ce957e8e9ae65a22580504beb",
+    "short_sha": "972e301a0e",
+    "message": "Add fleet apps, labels, and patch policies (#43473)",
+    "timestamp": "2026-04-13T14:18:06-05:00",
+    "commit_url": "https://github.com/fleetdm/fleet/commit/972e301a0e053e7ce957e8e9ae65a22580504beb"
   },
   "fleets": [
     {
