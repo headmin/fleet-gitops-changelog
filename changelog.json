@@ -1,5 +1,87 @@
 [
   {
+    "sha": "7980b636a06b7c7971a43a0321da5028eb4f80cd",
+    "short_sha": "7980b636a0",
+    "author": "Allen Houchins",
+    "message": "Update workstations.yml (#43620)",
+    "timestamp": "2026-04-15T11:41:52-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "a4019b08ceeb1d432583a2d2a4d47642b2df368d",
+    "short_sha": "a4019b08ce",
+    "author": "Allen Houchins",
+    "message": "Update patch-fleet-maintained-apps.yml (#43618)",
+    "timestamp": "2026-04-15T10:46:12-05:00",
+    "files": [
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "e6bc0d0b952e0e87eff8109ff8c12330fff8bc12",
+    "short_sha": "e6bc0d0b95",
+    "author": "Allen Houchins",
+    "message": "Update patch-fleet-maintained-apps.yml (#43617)",
+    "timestamp": "2026-04-15T10:39:26-05:00",
+    "files": [
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "f6087a3998a7d8e62e3a062e9772413f43df8f54",
+    "short_sha": "f6087a3998",
+    "author": "Allen Houchins",
+    "message": "Update patch-fleet-maintained-apps.yml (#43615)",
+    "timestamp": "2026-04-15T10:24:09-05:00",
+    "files": [
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "6ba08e2bc0a9333f04133d914be35f866b8ef0f2",
+    "short_sha": "6ba08e2bc0",
+    "author": "Allen Houchins",
+    "message": "Update patch-fleet-maintained-apps.yml (#43614)",
+    "timestamp": "2026-04-15T10:18:09-05:00",
+    "files": [
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "2b8f67a072b69b32fa3cca8f54bb537752873058",
+    "short_sha": "2b8f67a072",
+    "author": "Allen Houchins",
+    "message": "Revert \"Temporarily disable FMA patch policies\" (#43612)",
+    "timestamp": "2026-04-15T09:53:51-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "31e8300670e5c1cf5e4f19519f8c82c9aabf2353",
+    "short_sha": "31e8300670",
+    "author": "Allen Houchins",
+    "message": "Temporarily disable FMA patch policies (#43611)",
+    "timestamp": "2026-04-15T09:49:53-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "f0bdd0498f49cca9d636257b6e4cf607cfb191f6",
+    "short_sha": "f0bdd0498f",
+    "author": "Allen Houchins",
+    "message": "Remove several x86 Windows apps, labels and policies (#43608)",
+    "timestamp": "2026-04-15T09:26:38-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/windows-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
     "sha": "94674f28daf2491781390d650bc0fc79bda149c7",
     "short_sha": "94674f28da",
     "author": "Allen Houchins",

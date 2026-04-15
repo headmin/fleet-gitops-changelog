@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-15T12:30:20Z",
+  "generated": "2026-04-15T18:31:27Z",
   "source_repo": "fleetdm/fleet",
   "source_path": "it-and-security/",
   "source_url": "https://github.com/fleetdm/fleet/tree/main/it-and-security",
   "latest_commit": {
-    "sha": "94674f28daf2491781390d650bc0fc79bda149c7",
-    "short_sha": "94674f28da",
-    "message": "Re-add iMazing Profile Editor as a macOS FMA (#43574)",
-    "timestamp": "2026-04-14T15:29:40-05:00",
-    "commit_url": "https://github.com/fleetdm/fleet/commit/94674f28daf2491781390d650bc0fc79bda149c7"
+    "sha": "7980b636a06b7c7971a43a0321da5028eb4f80cd",
+    "short_sha": "7980b636a0",
+    "message": "Update workstations.yml (#43620)",
+    "timestamp": "2026-04-15T11:41:52-05:00",
+    "commit_url": "https://github.com/fleetdm/fleet/commit/7980b636a06b7c7971a43a0321da5028eb4f80cd"
   },
   "fleets": [
     {
