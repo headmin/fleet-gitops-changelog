@@ -1,5 +1,29 @@
 [
   {
+    "sha": "94674f28daf2491781390d650bc0fc79bda149c7",
+    "short_sha": "94674f28da",
+    "author": "Allen Houchins",
+    "message": "Re-add iMazing Profile Editor as a macOS FMA (#43574)",
+    "timestamp": "2026-04-14T15:29:40-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "86b5eaf4a9be3d46ebc60760a0c3190aa23a0daf",
+    "short_sha": "86b5eaf4a9",
+    "author": "Allen Houchins",
+    "message": "Rename iMazing Profile Editor to iMazing in the FMA library (#43555)",
+    "timestamp": "2026-04-14T14:57:24-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
     "sha": "8209dbebee6ee5e665c297ce960d1e9df199afdf",
     "short_sha": "8209dbebee",
     "author": "Allen Houchins",
