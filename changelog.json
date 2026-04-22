@@ -1,5 +1,25 @@
 [
   {
+    "sha": "83dca8ce79a070100974756f40eeb89e6028ec0a",
+    "short_sha": "83dca8ce79",
+    "author": "Allen Houchins",
+    "message": "Fix display name formatting for Touch ID script (#43882)",
+    "timestamp": "2026-04-21T13:39:26-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "f07e1019861726f46fb86236647a73b005ca0c2c",
+    "short_sha": "f07e101986",
+    "author": "Allen Houchins",
+    "message": "Update enable-touch-id-sudo.sh (#43880)",
+    "timestamp": "2026-04-21T13:31:27-05:00",
+    "files": [
+      "it-and-security/lib/macos/scripts/enable-touch-id-sudo.sh"
+    ]
+  },
+  {
     "sha": "92488b2115a1fe77b153e7f5c383887a792b5520",
     "short_sha": "92488b2115",
     "author": "Allen Houchins",
