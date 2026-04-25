@@ -1,5 +1,138 @@
 [
   {
+    "sha": "474c6f3b2eb6716eaf7ac08b7aba58c698951d17",
+    "short_sha": "474c6f3b2e",
+    "author": "Allen Houchins",
+    "message": "Fix deprecation warnings (#44186)",
+    "timestamp": "2026-04-24T23:24:04-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/company-owned-mobile-devices.yml",
+      "it-and-security/fleets/personal-mobile-devices.yml",
+      "it-and-security/fleets/servers.yml",
+      "it-and-security/fleets/testing-and-qa.yml",
+      "it-and-security/fleets/unassigned.yml",
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "79874af4a39d72485bb1144bbed121ed3cb4e024",
+    "short_sha": "79874af4a3",
+    "author": "Allen Houchins",
+    "message": "Add Santa system extension policy and script (#43498)",
+    "timestamp": "2026-04-24T23:04:24-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/macos/policies/santa-endpoint-security-extension-active.yml",
+      "it-and-security/lib/macos/scripts/load-santa-system-extension.sh",
+      "it-and-security/lib/macos/software/santa.yml"
+    ]
+  },
+  {
+    "sha": "466ab4467f4749143ecbe45e9efab2ddd68b624b",
+    "short_sha": "466ab4467f",
+    "author": "Allen Houchins",
+    "message": "Enable Nudge auto-install and comment policy (#44185)",
+    "timestamp": "2026-04-24T22:39:28-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "7fde291af9cd4afb9f1bc05ed1c108570ce38d3f",
+    "short_sha": "7fde291af9",
+    "author": "Allen Houchins",
+    "message": "Enable 1Password in fleets and patch policies (#44182)",
+    "timestamp": "2026-04-24T22:20:57-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "caef4603b55cf722501e399d35b696181fa05792",
+    "short_sha": "caef4603b5",
+    "author": "Allen Houchins",
+    "message": "Disable 1Password auto-install and patch checks (#44181)",
+    "timestamp": "2026-04-24T22:10:07-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/macos/policies/1password-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/windows/policies/1password-installed.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "93a2543b4eeeb829acf8c4cdc8353e98795db5c8",
+    "short_sha": "93a2543b4e",
+    "author": "Allen Houchins",
+    "message": "Revert \"Comment out 1Password fleet policy and app\" (#44180)",
+    "timestamp": "2026-04-24T21:55:25-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "8dcc43d267eb6238192a5f27b811325f1388b474",
+    "short_sha": "8dcc43d267",
+    "author": "Allen Houchins",
+    "message": "Comment out 1Password fleet policy and app (#44178)",
+    "timestamp": "2026-04-24T21:41:43-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "a4229fbc4272423f5ce9ba554d29eaed0ce800df",
+    "short_sha": "a4229fbc42",
+    "author": "Allen Houchins",
+    "message": "Transition 1Password to Fleet-maintained app version (#44177)",
+    "timestamp": "2026-04-24T21:21:00-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/windows-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/macos/policies/1password-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/macos/policies/update-1password.yml",
+      "it-and-security/lib/windows/policies/1password-installed.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/windows/policies/update-1password.yml"
+    ]
+  },
+  {
+    "sha": "8cc7c3ccec264daf4241f53501e73e47bd32320d",
+    "short_sha": "8cc7c3ccec",
+    "author": "Allen Houchins",
+    "message": "Transition Nudge to Fleet-maintained app (#44176)",
+    "timestamp": "2026-04-24T21:13:59-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/macos/policies/install-nudge-assets.yml",
+      "it-and-security/lib/macos/policies/install-nudge.yml",
+      "it-and-security/lib/macos/policies/nudge-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/macos/scripts/install-nudge.sh"
+    ]
+  },
+  {
+    "sha": "6af2dece0558734a38d7db1fda100476a153c288",
+    "short_sha": "6af2dece05",
+    "author": "Allen Houchins",
+    "message": "Update santa-configuration.mobileconfig (#44175)",
+    "timestamp": "2026-04-24T20:56:54-05:00",
+    "files": [
+      "it-and-security/lib/macos/configuration-profiles/santa-configuration.mobileconfig"
+    ]
+  },
+  {
     "sha": "57b5d7e72bf4384e89280355f456a868da293a2a",
     "short_sha": "57b5d7e72b",
     "author": "Allen Houchins",
