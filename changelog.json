@@ -1,5 +1,16 @@
 [
   {
+    "sha": "e3a06135cee1d5b482532af04a71606921c3351e",
+    "short_sha": "e3a06135ce",
+    "author": "Allen Houchins",
+    "message": "Enable osquery eventing and macOS FIM config (#44215)",
+    "timestamp": "2026-04-27T13:17:47-05:00",
+    "files": [
+      "it-and-security/fleets/testing-and-qa.yml",
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
     "sha": "474c6f3b2eb6716eaf7ac08b7aba58c698951d17",
     "short_sha": "474c6f3b2e",
     "author": "Allen Houchins",
