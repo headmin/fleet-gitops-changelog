@@ -1,5 +1,19 @@
 [
   {
+    "sha": "a67f14d388ba614feafe1965b38b85142ee92db0",
+    "short_sha": "a67f14d388",
+    "author": "Allen Houchins",
+    "message": "Patch Adobe Acrobat automatically on workstation devices (#44316)",
+    "timestamp": "2026-04-29T20:30:27-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/all/labels/windows-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
     "sha": "2b3654607c95f7a5c84cfa72227f92146fb1444b",
     "short_sha": "2b3654607c",
     "author": "Allen Houchins",
