@@ -1,5 +1,25 @@
 [
   {
+    "sha": "69840387f0841d218def6b2b428160c865f77a2b",
+    "short_sha": "69840387f0",
+    "author": "Allen Houchins",
+    "message": "Pin appindicator extension, verify tarball & timeout (#44631)",
+    "timestamp": "2026-05-01T23:54:36-05:00",
+    "files": [
+      "it-and-security/lib/linux/scripts/install-fleet-desktop-required-extension.sh"
+    ]
+  },
+  {
+    "sha": "fa380635900a5e713c5dafbd1e0bfd7a8a89237e",
+    "short_sha": "fa38063590",
+    "author": "Allen Houchins",
+    "message": "Fix Fleet Desktop not launching on OpenSUSE 16 (#44482)",
+    "timestamp": "2026-05-01T23:26:56-05:00",
+    "files": [
+      "it-and-security/lib/linux/scripts/install-fleet-desktop-required-extension.sh"
+    ]
+  },
+  {
     "sha": "a67f14d388ba614feafe1965b38b85142ee92db0",
     "short_sha": "a67f14d388",
     "author": "Allen Houchins",
