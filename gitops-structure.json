@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-04T12:43:21Z",
+  "generated": "2026-05-04T18:40:11Z",
   "source_repo": "fleetdm/fleet",
   "source_path": "it-and-security/",
   "source_url": "https://github.com/fleetdm/fleet/tree/main/it-and-security",
   "latest_commit": {
-    "sha": "442f6d0df3831fc0af7ac3a365fcf7ba48f57b4f",
-    "short_sha": "442f6d0df3",
-    "message": "Add screen-lock MDM profiles and exclusion labels (#44581)",
-    "timestamp": "2026-05-03T21:57:32-05:00",
-    "commit_url": "https://github.com/fleetdm/fleet/commit/442f6d0df3831fc0af7ac3a365fcf7ba48f57b4f"
+    "sha": "0d35759b83be7c988924ed71bf52b0f8d7792b58",
+    "short_sha": "0d35759b83",
+    "message": "Add Fleet Desktop launch agent configuration profile (#44679)",
+    "timestamp": "2026-05-04T13:29:12-05:00",
+    "commit_url": "https://github.com/fleetdm/fleet/commit/0d35759b83be7c988924ed71bf52b0f8d7792b58"
   },
   "fleets": [
     {
@@ -144,6 +144,11 @@
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/all/labels/macs-with-fleet-desktop-installed.yml"
         },
         {
+          "name": "macs-with-fleet-desktop-launch-agent-profile",
+          "file": "it-and-security/lib/all/labels/macs-with-fleet-desktop-launch-agent-profile.yml",
+          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/all/labels/macs-with-fleet-desktop-launch-agent-profile.yml"
+        },
+        {
           "name": "macs-with-fleet-maintained-apps-installed",
           "file": "it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml",
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/all/labels/macs-with-fleet-maintained-apps-installed.yml"
@@ -152,11 +157,6 @@
           "name": "macs-with-microsoft-autoupdate-installed",
           "file": "it-and-security/lib/all/labels/macs-with-microsoft-autoupdate-installed.yml",
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/all/labels/macs-with-microsoft-autoupdate-installed.yml"
-        },
-        {
-          "name": "nudge-test-devices",
-          "file": "it-and-security/lib/all/labels/nudge-test-devices.yml",
-          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/all/labels/nudge-test-devices.yml"
         },
         {
           "name": "rpm-based-linux-hosts",
@@ -474,9 +474,9 @@
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/configuration-profiles/firewall.mobileconfig"
         },
         {
-          "name": "fleet-desktop-login-item",
-          "file": "it-and-security/lib/macos/configuration-profiles/fleet-desktop-login-item.mobileconfig",
-          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/configuration-profiles/fleet-desktop-login-item.mobileconfig"
+          "name": "fleet-desktop-launch-agent",
+          "file": "it-and-security/lib/macos/configuration-profiles/fleet-desktop-launch-agent.mobileconfig",
+          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/configuration-profiles/fleet-desktop-launch-agent.mobileconfig"
         },
         {
           "name": "fleet-okta-conditional-access",
@@ -607,11 +607,6 @@
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/policies/disk-space-check.yml"
         },
         {
-          "name": "enrollment-profile-up-to-date",
-          "file": "it-and-security/lib/macos/policies/enrollment-profile-up-to-date.yml",
-          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/policies/enrollment-profile-up-to-date.yml"
-        },
-        {
           "name": "firewall-enabled",
           "file": "it-and-security/lib/macos/policies/firewall-enabled.yml",
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/policies/firewall-enabled.yml"
@@ -620,6 +615,11 @@
           "name": "gatekeeper-enabled",
           "file": "it-and-security/lib/macos/policies/gatekeeper-enabled.yml",
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/policies/gatekeeper-enabled.yml"
+        },
+        {
+          "name": "install-fleet-desktop-launch-agent",
+          "file": "it-and-security/lib/macos/policies/install-fleet-desktop-launch-agent.yml",
+          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/policies/install-fleet-desktop-launch-agent.yml"
         },
         {
           "name": "install-nudge-assets",
@@ -675,11 +675,6 @@
           "name": "update-claude",
           "file": "it-and-security/lib/macos/policies/update-claude.yml",
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/policies/update-claude.yml"
-        },
-        {
-          "name": "update-fleet-desktop",
-          "file": "it-and-security/lib/macos/policies/update-fleet-desktop.yml",
-          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/policies/update-fleet-desktop.yml"
         },
         {
           "name": "update-safari",
@@ -763,9 +758,9 @@
           "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/software/1password.yml"
         },
         {
-          "name": "fleet-desktop",
-          "file": "it-and-security/lib/macos/software/fleet-desktop.yml",
-          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/software/fleet-desktop.yml"
+          "name": "fleet-desktop-launch-agent",
+          "file": "it-and-security/lib/macos/software/fleet-desktop-launch-agent.yml",
+          "url": "https://github.com/fleetdm/fleet/blob/main/it-and-security/lib/macos/software/fleet-desktop-launch-agent.yml"
         },
         {
           "name": "fleet-keynote-theme",
@@ -983,12 +978,12 @@
     "reports": 21,
     "configuration_profiles": 42,
     "declaration_profiles": 6,
-    "policies": 40,
+    "policies": 39,
     "scripts": 16,
     "software": 15,
     "commands": 1,
     "enrollment_profiles": 1,
     "misc": 1,
-    "total_files": 178
+    "total_files": 177
   }
 }

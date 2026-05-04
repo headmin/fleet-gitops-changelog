@@ -1,5 +1,81 @@
 [
   {
+    "sha": "0d35759b83be7c988924ed71bf52b0f8d7792b58",
+    "short_sha": "0d35759b83",
+    "author": "Allen Houchins",
+    "message": "Add Fleet Desktop launch agent configuration profile (#44679)",
+    "timestamp": "2026-05-04T13:29:12-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-desktop-launch-agent-profile.yml",
+      "it-and-security/lib/macos/configuration-profiles/fleet-desktop-launch-agent.mobileconfig",
+      "it-and-security/lib/macos/policies/install-fleet-desktop-launch-agent.yml",
+      "it-and-security/lib/macos/software/fleet-desktop-launch-agent.yml"
+    ]
+  },
+  {
+    "sha": "6a5c67dbdf072f626ccce432ab5419abfa68ba42",
+    "short_sha": "6a5c67dbdf",
+    "author": "Allen Houchins",
+    "message": "Remove enrollment profile policy and test label (#44683)",
+    "timestamp": "2026-05-04T13:15:58-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/testing-and-qa.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/nudge-test-devices.yml",
+      "it-and-security/lib/macos/policies/enrollment-profile-up-to-date.yml"
+    ]
+  },
+  {
+    "sha": "16e8557f4b7dc6ee9be442b0fe95c4d56948e762",
+    "short_sha": "16e8557f4b",
+    "author": "Allen Houchins",
+    "message": "Remove Fleet Desktop login item profile (#44673)",
+    "timestamp": "2026-05-04T10:56:42-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/macos/configuration-profiles/fleet-desktop-login-item.mobileconfig"
+    ]
+  },
+  {
+    "sha": "ad79c4a410927cb173363b136ec4b465cbc52ae3",
+    "short_sha": "ad79c4a410",
+    "author": "Allen Houchins",
+    "message": "Convert Fleet Desktop.app to FMA and patch policy (#44654)",
+    "timestamp": "2026-05-04T09:50:43-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-desktop-installed.yml",
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/macos/policies/update-fleet-desktop.yml",
+      "it-and-security/lib/macos/software/fleet-desktop.yml"
+    ]
+  },
+  {
+    "sha": "dc58f84c3f5936465cc04b8beef5e9d42b9c6182",
+    "short_sha": "dc58f84c3f",
+    "author": "kilo-code-bot[bot]",
+    "message": "Enable host expiry (90 days) for Workstations and mobile device teams (#44650)",
+    "timestamp": "2026-05-04T09:20:11-05:00",
+    "files": [
+      "it-and-security/fleets/company-owned-mobile-devices.yml",
+      "it-and-security/fleets/personal-mobile-devices.yml",
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "8a991b8a4c5f80908d11f54d1899cc217a713968",
+    "short_sha": "8a991b8a4c",
+    "author": "kilo-code-bot[bot]",
+    "message": "Enable host expiry for Testing & QA team (30 days) (#44649)",
+    "timestamp": "2026-05-04T09:13:09-05:00",
+    "files": [
+      "it-and-security/fleets/testing-and-qa.yml"
+    ]
+  },
+  {
     "sha": "442f6d0df3831fc0af7ac3a365fcf7ba48f57b4f",
     "short_sha": "442f6d0df3",
     "author": "Allen Houchins",
