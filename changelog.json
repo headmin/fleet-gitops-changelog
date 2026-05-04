@@ -1,5 +1,22 @@
 [
   {
+    "sha": "442f6d0df3831fc0af7ac3a365fcf7ba48f57b4f",
+    "short_sha": "442f6d0df3",
+    "author": "Allen Houchins",
+    "message": "Add screen-lock MDM profiles and exclusion labels (#44581)",
+    "timestamp": "2026-05-03T21:57:32-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macos-screen-lock-exclusions.yml",
+      "it-and-security/lib/all/labels/windows-screen-lock-exclusions.yml",
+      "it-and-security/lib/macos/configuration-profiles/screen-lock-inactivity.mobileconfig",
+      "it-and-security/lib/macos/policies/screen-lock-inactivity.yml",
+      "it-and-security/lib/windows/configuration-profiles/Screen lock timeout.xml",
+      "it-and-security/lib/windows/policies/screen-lock-timeout-configured.yml"
+    ]
+  },
+  {
     "sha": "69840387f0841d218def6b2b428160c865f77a2b",
     "short_sha": "69840387f0",
     "author": "Allen Houchins",
