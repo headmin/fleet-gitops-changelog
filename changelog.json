@@ -1,5 +1,35 @@
 [
   {
+    "sha": "c563c8b89cb964cd57c88c3ae55a7a86f807d6df",
+    "short_sha": "c563c8b89c",
+    "author": "Allen Houchins",
+    "message": "Add macOS configuration for Fleet Desktop launch agent (#44693)",
+    "timestamp": "2026-05-04T14:33:37-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-desktop-launch-agent-profile.yml",
+      "it-and-security/lib/macos/configuration-profiles/fleet-desktop-launch-agent.mobileconfig",
+      "it-and-security/lib/macos/policies/install-fleet-desktop-launch-agent.yml",
+      "it-and-security/lib/macos/software/fleet-desktop-launch-agent.yml"
+    ]
+  },
+  {
+    "sha": "4be56c10645353424b989c12ce45e5335330b0c2",
+    "short_sha": "4be56c1064",
+    "author": "Allen Houchins",
+    "message": "Revert \"Add Fleet Desktop launch agent configuration profile\" (#44688)",
+    "timestamp": "2026-05-04T13:40:09-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-desktop-launch-agent-profile.yml",
+      "it-and-security/lib/macos/configuration-profiles/fleet-desktop-launch-agent.mobileconfig",
+      "it-and-security/lib/macos/policies/install-fleet-desktop-launch-agent.yml",
+      "it-and-security/lib/macos/software/fleet-desktop-launch-agent.yml"
+    ]
+  },
+  {
     "sha": "0d35759b83be7c988924ed71bf52b0f8d7792b58",
     "short_sha": "0d35759b83",
     "author": "Allen Houchins",

@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-04T18:40:11Z",
+  "generated": "2026-05-05T00:48:42Z",
   "source_repo": "fleetdm/fleet",
   "source_path": "it-and-security/",
   "source_url": "https://github.com/fleetdm/fleet/tree/main/it-and-security",
   "latest_commit": {
-    "sha": "0d35759b83be7c988924ed71bf52b0f8d7792b58",
-    "short_sha": "0d35759b83",
-    "message": "Add Fleet Desktop launch agent configuration profile (#44679)",
-    "timestamp": "2026-05-04T13:29:12-05:00",
-    "commit_url": "https://github.com/fleetdm/fleet/commit/0d35759b83be7c988924ed71bf52b0f8d7792b58"
+    "sha": "c563c8b89cb964cd57c88c3ae55a7a86f807d6df",
+    "short_sha": "c563c8b89c",
+    "message": "Add macOS configuration for Fleet Desktop launch agent (#44693)",
+    "timestamp": "2026-05-04T14:33:37-05:00",
+    "commit_url": "https://github.com/fleetdm/fleet/commit/c563c8b89cb964cd57c88c3ae55a7a86f807d6df"
   },
   "fleets": [
     {
