@@ -1,5 +1,15 @@
 [
   {
+    "sha": "bfb6f3b010ec03ba3fa5631fcc3c91d23a27e623",
+    "short_sha": "bfb6f3b010",
+    "author": "Allen Houchins",
+    "message": "Enable Apple hardware attestation for workstations (#44860)",
+    "timestamp": "2026-05-06T13:04:07-05:00",
+    "files": [
+      "it-and-security/default.yml"
+    ]
+  },
+  {
     "sha": "791ebda4e6de78c8b3f00a4ef04157f7aedf482a",
     "short_sha": "791ebda4e6",
     "author": "Allen Houchins",
