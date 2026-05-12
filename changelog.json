@@ -1,5 +1,25 @@
 [
   {
+    "sha": "49993af29e2c558ea79524607b6cc3c13055a059",
+    "short_sha": "49993af29e",
+    "author": "Allen Houchins",
+    "message": "Update Okta Verify policy resolution and install flag (#45185)",
+    "timestamp": "2026-05-11T15:20:38-05:00",
+    "files": [
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
+    "sha": "89bbda05772e592e1cd08c61320912099b789734",
+    "short_sha": "89bbda0577",
+    "author": "Victor Lyuboslavsky",
+    "message": "Improve error handling in `create-admin-user.ps1` script (#45176)",
+    "timestamp": "2026-05-11T14:59:52-05:00",
+    "files": [
+      "it-and-security/lib/windows/scripts/create-admin-user.ps1"
+    ]
+  },
+  {
     "sha": "d56aa7136e0ec7456e9c0679693d9c38304cdc8c",
     "short_sha": "d56aa7136e",
     "author": "Allen Houchins",
