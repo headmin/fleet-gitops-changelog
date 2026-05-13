@@ -1,5 +1,41 @@
 [
   {
+    "sha": "ef996f2830a0865aac47835b1e867002adb750c4",
+    "short_sha": "ef996f2830",
+    "author": "Allen Houchins",
+    "message": "Remove quotes from policy resolution text (#45390)",
+    "timestamp": "2026-05-13T11:25:26-05:00",
+    "files": [
+      "it-and-security/lib/all/policies/npm-supply-chain-compromised-packages.yml"
+    ]
+  },
+  {
+    "sha": "d49251cc184e45358be1883ed9c42c81d9251ac7",
+    "short_sha": "d49251cc18",
+    "author": "Allen Houchins",
+    "message": "Remove platform constraint from npm package label (#45382)",
+    "timestamp": "2026-05-13T11:15:01-05:00",
+    "files": [
+      "it-and-security/lib/all/labels/hosts-with-npm-package-inventory.yml"
+    ]
+  },
+  {
+    "sha": "51968ceebbf923434fd24a791e3c31d132e6b3ab",
+    "short_sha": "51968ceebb",
+    "author": "fleetdm-bot",
+    "message": "Add compromised npm package detection policy to Workstations (#45264)",
+    "timestamp": "2026-05-13T10:10:42-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/hosts-with-npm-package-inventory.yml",
+      "it-and-security/lib/all/policies/npm-supply-chain-compromised-packages.yml",
+      "it-and-security/lib/all/policies/npm-user-npmrc-min-release-age.yml",
+      "it-and-security/lib/all/scripts/configure-npmrc-min-release-age.ps1",
+      "it-and-security/lib/all/scripts/configure-npmrc-min-release-age.sh"
+    ]
+  },
+  {
     "sha": "49993af29e2c558ea79524607b6cc3c13055a059",
     "short_sha": "49993af29e",
     "author": "Allen Houchins",
