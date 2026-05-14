@@ -1,5 +1,25 @@
 [
   {
+    "sha": "96b1ebde7b3dfd0278d71244297f2ef430614906",
+    "short_sha": "96b1ebde7b",
+    "author": "Allen Houchins",
+    "message": "Update icon for Fleet Desktop (#45508)",
+    "timestamp": "2026-05-14T12:47:21-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "a05cac2df7e8ba8f7339cd182106e84d2e3e8e4d",
+    "short_sha": "a05cac2df7",
+    "author": "Allen Houchins",
+    "message": "Add custom icon to Touch ID script-only package (#44477)",
+    "timestamp": "2026-05-14T11:13:18-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
     "sha": "ef996f2830a0865aac47835b1e867002adb750c4",
     "short_sha": "ef996f2830",
     "author": "Allen Houchins",
