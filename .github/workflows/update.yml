@@ -249,11 +249,117 @@ jobs:
           print(f'Generated gitops-structure.json')
           "
 
+      - name: Generate FMA app timeline
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          import urllib.request, urllib.error
+          import xml.etree.ElementTree as ET
+          import json, re, sys
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+
+          FEED_URL = 'https://fmalibrary.com/feed.xml'
+          # Two title shapes:
+          #   1. "AppName <version_from> → <version_to> (Platform)"     — update
+          #   2. "New App: AppName <version> (Platform)"                — added
+          UPDATE_RE = re.compile(r'^(.+?)\s+(\S+)\s*→\s*(\S+)\s*\((\w+)\)\s*$')
+          NEWAPP_RE = re.compile(r'^New App:\s*(.+?)\s+(\S+)\s*\((\w+)\)\s*$')
+          HREF_RE = re.compile(r'href="([^"]+)"')
+
+          try:
+              req = urllib.request.Request(
+                  FEED_URL,
+                  headers={'User-Agent': 'fleet-gitops-changelog/1.0'},
+              )
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  xml_bytes = resp.read()
+          except (urllib.error.URLError, TimeoutError) as e:
+              print(f'Failed to fetch {FEED_URL}: {e}', file=sys.stderr)
+              sys.exit(1)
+
+          root = ET.fromstring(xml_bytes)
+          channel = root.find('channel')
+          if channel is None:
+              print('Feed missing <channel>', file=sys.stderr)
+              sys.exit(1)
+
+          items = []
+          for item in channel.findall('item'):
+              title = (item.findtext('title') or '').strip()
+              guid = (item.findtext('guid') or '').strip()
+              pub = (item.findtext('pubDate') or '').strip()
+              desc = (item.findtext('description') or '').strip()
+
+              try:
+                  ts = parsedate_to_datetime(pub).isoformat() if pub else None
+              except (TypeError, ValueError):
+                  ts = None
+
+              app = title
+              vfrom = vto = platform = None
+              event_type = 'other'
+
+              m = UPDATE_RE.match(title)
+              if m:
+                  app, vfrom, vto, platform = m.groups()
+                  app = app.strip()
+                  platform = platform.lower()
+                  event_type = 'update'
+              else:
+                  m = NEWAPP_RE.match(title)
+                  if m:
+                      app, vto, platform = m.groups()
+                      app = app.strip()
+                      platform = platform.lower()
+                      event_type = 'added'
+
+              href = HREF_RE.search(desc)
+              download_url = href.group(1) if href else None
+
+              items.append({
+                  'id': guid,
+                  'title': title,
+                  'event_type': event_type,
+                  'app': app,
+                  'platform': platform,
+                  'version_from': vfrom,
+                  'version_to': vto,
+                  'timestamp': ts,
+                  'download_url': download_url,
+              })
+
+          items.sort(key=lambda x: x['timestamp'] or '', reverse=True)
+
+          output = {
+              'generated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+              'source': FEED_URL,
+              'source_title': (channel.findtext('title') or '').strip(),
+              'count': len(items),
+              'items': items,
+          }
+
+          with open('fma-timeline.json', 'w') as f:
+              json.dump(output, f, indent=2)
+          print(f'Generated fma-timeline.json with {len(items)} items')
+
+          with open('fma-timeline.jsonl', 'w') as f:
+              for it in items:
+                  f.write(json.dumps(it) + '\n')
+          print(f'Generated fma-timeline.jsonl with {len(items)} records')
+          PY
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add changelog.json changelog.jsonl gitops-structure.json
+          if [ -f fma-timeline.json ]; then
+            git add fma-timeline.json
+          fi
+          if [ -f fma-timeline.jsonl ]; then
+            git add fma-timeline.jsonl
+          fi
           if git diff --cached --quiet; then
             echo "No changes"
           else
