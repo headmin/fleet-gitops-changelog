@@ -1,9 +1,53 @@
 {
-  "generated": "2026-05-16T12:29:11Z",
+  "generated": "2026-05-16T18:25:17Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "expressvpn/darwin-14.1.0.13058-14.1.1.13156",
+      "title": "ExpressVPN 14.1.0.13058 \u2192 14.1.1.13156 (Mac)",
+      "event_type": "update",
+      "app": "ExpressVPN",
+      "platform": "mac",
+      "version_from": "14.1.0.13058",
+      "version_to": "14.1.1.13156",
+      "timestamp": "2026-05-16T13:35:13+00:00",
+      "download_url": "https://www.expressvpn.works/clients/mac/expressvpn-macos-universal-14.1.1.13156_release.zip"
+    },
+    {
+      "id": "postman/windows-12.10.5-12.10.6",
+      "title": "Postman 12.10.5 \u2192 12.10.6 (Windows)",
+      "event_type": "update",
+      "app": "Postman",
+      "platform": "windows",
+      "version_from": "12.10.5",
+      "version_to": "12.10.6",
+      "timestamp": "2026-05-16T13:35:13+00:00",
+      "download_url": "https://dl.pstmn.io/download/version/12.10.6/windows_64"
+    },
+    {
+      "id": "linear/darwin-1.30.0-1.30.2",
+      "title": "Linear 1.30.0 \u2192 1.30.2 (Mac)",
+      "event_type": "update",
+      "app": "Linear",
+      "platform": "mac",
+      "version_from": "1.30.0",
+      "version_to": "1.30.2",
+      "timestamp": "2026-05-16T13:35:13+00:00",
+      "download_url": "https://releases.linear.app/Linear-1.30.2-universal.dmg"
+    },
+    {
+      "id": "camtasia/windows-26.1.1.16676-26.1.2.16723",
+      "title": "Camtasia 26.1.1.16676 \u2192 26.1.2.16723 (Windows)",
+      "event_type": "update",
+      "app": "Camtasia",
+      "platform": "windows",
+      "version_from": "26.1.1.16676",
+      "version_to": "26.1.2.16723",
+      "timestamp": "2026-05-16T13:35:13+00:00",
+      "download_url": "https://download.techsmith.com/camtasiastudio/releases/2612/camtasia.msi"
+    },
     {
       "id": "warp/darwin-0.2026.05.13.09.15.01-0.2026.05.13.09.15.03",
       "title": "Warp 0.2026.05.13.09.15.01 \u2192 0.2026.05.13.09.15.03 (Mac)",
@@ -5186,6 +5230,17 @@
       "download_url": "https://releases.arc.net/release/Arc-1.143.2-79250.zip"
     },
     {
+      "id": "arc/darwin-1.142.1-1.143.0",
+      "title": "Arc 1.142.1 \u2192 1.143.0 (Mac)",
+      "event_type": "update",
+      "app": "Arc",
+      "platform": "mac",
+      "version_from": "1.142.1",
+      "version_to": "1.143.0",
+      "timestamp": "2026-04-18T13:30:51+00:00",
+      "download_url": "https://releases.arc.net/release/Arc-1.143.0-79160.zip"
+    },
+    {
       "id": "warp/darwin-0.2026.04.08.08.36.05-0.2026.04.15.08.45.02",
       "title": "Warp 0.2026.04.08.08.36.05 \u2192 0.2026.04.15.08.45.02 (Mac)",
       "event_type": "update",
@@ -5428,28 +5483,6 @@
       "download_url": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSilentSetup.exe"
     },
     {
-      "id": "arc/darwin-1.142.1-1.143.0",
-      "title": "Arc 1.142.1 \u2192 1.143.0 (Mac)",
-      "event_type": "update",
-      "app": "Arc",
-      "platform": "mac",
-      "version_from": "1.142.1",
-      "version_to": "1.143.0",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://releases.arc.net/release/Arc-1.143.0-79160.zip"
-    },
-    {
-      "id": "keka/darwin-1.6.2-1.6.3",
-      "title": "Keka 1.6.2 \u2192 1.6.3 (Mac)",
-      "event_type": "update",
-      "app": "Keka",
-      "platform": "mac",
-      "version_from": "1.6.2",
-      "version_to": "1.6.3",
-      "timestamp": "2026-04-16T15:38:00+00:00",
-      "download_url": "https://github.com/aonez/Keka/releases/download/v1.6.3/Keka-1.6.3.dmg"
-    },
-    {
       "id": "egnyte/darwin-1.15.0-1.16.0",
       "title": "Egnyte 1.15.0 \u2192 1.16.0 (Mac)",
       "event_type": "update",
@@ -5461,48 +5494,15 @@
       "download_url": "https://egnyte-cdn.egnyte.com/desktopapp/mac/en-us/1.16.0/Egnyte_1.16.0_2332.dmg"
     },
     {
-      "id": "gitkraken/darwin-11.10.0-12.0.0",
-      "title": "GitKraken 11.10.0 \u2192 12.0.0 (Mac)",
+      "id": "keka/darwin-1.6.2-1.6.3",
+      "title": "Keka 1.6.2 \u2192 1.6.3 (Mac)",
       "event_type": "update",
-      "app": "GitKraken",
+      "app": "Keka",
       "platform": "mac",
-      "version_from": "11.10.0",
-      "version_to": "12.0.0",
-      "timestamp": "2026-04-16T14:41:35+00:00",
-      "download_url": "https://api.gitkraken.dev/releases/production/darwin/arm64/12.0.0/GitKraken-v12.0.0.zip"
-    },
-    {
-      "id": "cursor/windows-3.1.14-3.1.15",
-      "title": "Cursor 3.1.14 \u2192 3.1.15 (Windows)",
-      "event_type": "update",
-      "app": "Cursor",
-      "platform": "windows",
-      "version_from": "3.1.14",
-      "version_to": "3.1.15",
-      "timestamp": "2026-04-16T14:41:35+00:00",
-      "download_url": "https://downloads.cursor.com/production/3a67af7b780e0bfc8d32aefa96b8ff1cb8817f88/win32/x64/system-setup/CursorSetup-x64-3.1.15.exe"
-    },
-    {
-      "id": "google-drive/darwin-123.0-124.0",
-      "title": "Google Drive 123.0 \u2192 124.0 (Mac)",
-      "event_type": "update",
-      "app": "Google Drive",
-      "platform": "mac",
-      "version_from": "123.0",
-      "version_to": "124.0",
-      "timestamp": "2026-04-16T14:41:35+00:00",
-      "download_url": "https://dl.google.com/drive-file-stream/5-percent/GoogleDrive.dmg"
-    },
-    {
-      "id": "zed/darwin-0.231.2-0.232.2",
-      "title": "Zed 0.231.2 \u2192 0.232.2 (Mac)",
-      "event_type": "update",
-      "app": "Zed",
-      "platform": "mac",
-      "version_from": "0.231.2",
-      "version_to": "0.232.2",
-      "timestamp": "2026-04-16T14:41:35+00:00",
-      "download_url": "https://zed.dev/api/releases/stable/0.232.2/Zed-aarch64.dmg"
+      "version_from": "1.6.2",
+      "version_to": "1.6.3",
+      "timestamp": "2026-04-16T15:38:00+00:00",
+      "download_url": "https://github.com/aonez/Keka/releases/download/v1.6.3/Keka-1.6.3.dmg"
     }
   ]
 }
