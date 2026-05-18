@@ -1,9 +1,53 @@
 {
-  "generated": "2026-05-18T13:24:24Z",
+  "generated": "2026-05-18T18:43:32Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "splashtop-streamer/darwin-3.8.2.0-3.8.4.0",
+      "title": "Splashtop Streamer 3.8.2.0 \u2192 3.8.4.0 (Mac)",
+      "event_type": "update",
+      "app": "Splashtop Streamer",
+      "platform": "mac",
+      "version_from": "3.8.2.0",
+      "version_to": "3.8.4.0",
+      "timestamp": "2026-05-18T15:10:19+00:00",
+      "download_url": "https://d17kmd0va0f0mp.cloudfront.net/mac/Splashtop_Streamer_Mac_INSTALLER_v3.8.4.0.dmg"
+    },
+    {
+      "id": "postman/darwin-12.10.6-12.11.0",
+      "title": "Postman 12.10.6 \u2192 12.11.0 (Mac)",
+      "event_type": "update",
+      "app": "Postman",
+      "platform": "mac",
+      "version_from": "12.10.6",
+      "version_to": "12.11.0",
+      "timestamp": "2026-05-18T15:10:19+00:00",
+      "download_url": "https://dl.pstmn.io/download/version/12.11.0/osx_arm64"
+    },
+    {
+      "id": "tableplus/darwin-6.9.6-7.0.0",
+      "title": "TablePlus 6.9.6 \u2192 7.0.0 (Mac)",
+      "event_type": "update",
+      "app": "TablePlus",
+      "platform": "mac",
+      "version_from": "6.9.6",
+      "version_to": "7.0.0",
+      "timestamp": "2026-05-18T15:10:19+00:00",
+      "download_url": "https://files.tableplus.com/macos/700/TablePlus.dmg"
+    },
+    {
+      "id": "postman/windows-12.10.6-12.11.0",
+      "title": "Postman 12.10.6 \u2192 12.11.0 (Windows)",
+      "event_type": "update",
+      "app": "Postman",
+      "platform": "windows",
+      "version_from": "12.10.6",
+      "version_to": "12.11.0",
+      "timestamp": "2026-05-18T15:10:19+00:00",
+      "download_url": "https://dl.pstmn.io/download/version/12.11.0/windows_64"
+    },
     {
       "id": "dbeaver-community/darwin-26.0.4-26.0.5",
       "title": "DBeaver 26.0.4 \u2192 26.0.5 (Mac)",
@@ -5263,15 +5307,15 @@
       "download_url": "https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/stable/abcd9c8664da5af505557f3b327b5537400635f2/Windsurf-darwin-arm64-2.0.61.dmg"
     },
     {
-      "id": "brave-browser/windows-147.1.89.132-147.1.89.137",
-      "title": "Brave 147.1.89.132 \u2192 147.1.89.137 (Windows)",
+      "id": "granola/darwin-7.128.0-7.140.1",
+      "title": "Granola 7.128.0 \u2192 7.140.1 (Mac)",
       "event_type": "update",
-      "app": "Brave",
-      "platform": "windows",
-      "version_from": "147.1.89.132",
-      "version_to": "147.1.89.137",
+      "app": "Granola",
+      "platform": "mac",
+      "version_from": "7.128.0",
+      "version_to": "7.140.1",
       "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSilentSetup.exe"
+      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.140.1/Granola-7.140.1-mac-universal.dmg"
     },
     {
       "id": "notion-calendar/darwin-1.132.0-1.133.0",
@@ -5283,6 +5327,17 @@
       "version_to": "1.133.0",
       "timestamp": "2026-04-18T13:30:51+00:00",
       "download_url": "https://calendar-desktop-release.notion-static.com/Notion%20Calendar-darwin-arm64-1.133.0.zip"
+    },
+    {
+      "id": "brave-browser/windows-147.1.89.132-147.1.89.137",
+      "title": "Brave 147.1.89.132 \u2192 147.1.89.137 (Windows)",
+      "event_type": "update",
+      "app": "Brave",
+      "platform": "windows",
+      "version_from": "147.1.89.132",
+      "version_to": "147.1.89.137",
+      "timestamp": "2026-04-18T13:30:51+00:00",
+      "download_url": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSilentSetup.exe"
     },
     {
       "id": "microsoft-auto-update/darwin-4.82-4.83",
@@ -5318,17 +5373,6 @@
       "download_url": "https://dl.pstmn.io/download/version/12.6.8/windows_64"
     },
     {
-      "id": "granola/darwin-7.128.0-7.140.1",
-      "title": "Granola 7.128.0 \u2192 7.140.1 (Mac)",
-      "event_type": "update",
-      "app": "Granola",
-      "platform": "mac",
-      "version_from": "7.128.0",
-      "version_to": "7.140.1",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.140.1/Granola-7.140.1-mac-universal.dmg"
-    },
-    {
       "id": "parallels/darwin-26.3.0-26.3.1",
       "title": "Parallels Desktop 26.3.0 \u2192 26.3.1 (Mac)",
       "event_type": "update",
@@ -5349,6 +5393,28 @@
       "version_to": "147.1.89.137",
       "timestamp": "2026-04-18T13:30:51+00:00",
       "download_url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable-arm64/189.137/Brave-Browser-arm64.dmg"
+    },
+    {
+      "id": "iina/darwin-1.4.1-1.4.2",
+      "title": "IINA 1.4.1 \u2192 1.4.2 (Mac)",
+      "event_type": "update",
+      "app": "IINA",
+      "platform": "mac",
+      "version_from": "1.4.1",
+      "version_to": "1.4.2",
+      "timestamp": "2026-04-18T13:30:51+00:00",
+      "download_url": "https://dl-portal.iina.io/IINA.v1.4.2.dmg"
+    },
+    {
+      "id": "microsoft-edge/darwin-147.0.3912.60-147.0.3912.72",
+      "title": "Microsoft Edge 147.0.3912.60 \u2192 147.0.3912.72 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft Edge",
+      "platform": "mac",
+      "version_from": "147.0.3912.60",
+      "version_to": "147.0.3912.72",
+      "timestamp": "2026-04-18T13:30:51+00:00",
+      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/897aa370-de25-41e0-9664-a7944796d7ee/MicrosoftEdge-147.0.3912.72.dmg"
     },
     {
       "id": "warp/darwin-0.2026.04.08.08.36.05-0.2026.04.15.08.45.02",
@@ -5382,6 +5448,17 @@
       "version_to": "1.143.0",
       "timestamp": "2026-04-18T13:30:51+00:00",
       "download_url": "https://releases.arc.net/release/Arc-1.143.0-79160.zip"
+    },
+    {
+      "id": "microsoft-edge/windows-147.0.3912.60-147.0.3912.72",
+      "title": "Microsoft Edge 147.0.3912.60 \u2192 147.0.3912.72 (Windows)",
+      "event_type": "update",
+      "app": "Microsoft Edge",
+      "platform": "windows",
+      "version_from": "147.0.3912.60",
+      "version_to": "147.0.3912.72",
+      "timestamp": "2026-04-18T13:30:51+00:00",
+      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a7793e3c-0595-419c-bfc9-a891c92c6e53/MicrosoftEdgeEnterpriseX64.msi"
     },
     {
       "id": "nordvpn/darwin-10.0.3-10.0.4",
@@ -5426,83 +5503,6 @@
       "version_to": "126.3.12",
       "timestamp": "2026-04-18T13:30:51+00:00",
       "download_url": "https://desktop.figma.com/win/build/Figma-126.3.12.exe"
-    },
-    {
-      "id": "microsoft-edge/windows-147.0.3912.60-147.0.3912.72",
-      "title": "Microsoft Edge 147.0.3912.60 \u2192 147.0.3912.72 (Windows)",
-      "event_type": "update",
-      "app": "Microsoft Edge",
-      "platform": "windows",
-      "version_from": "147.0.3912.60",
-      "version_to": "147.0.3912.72",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a7793e3c-0595-419c-bfc9-a891c92c6e53/MicrosoftEdgeEnterpriseX64.msi"
-    },
-    {
-      "id": "iina/darwin-1.4.1-1.4.2",
-      "title": "IINA 1.4.1 \u2192 1.4.2 (Mac)",
-      "event_type": "update",
-      "app": "IINA",
-      "platform": "mac",
-      "version_from": "1.4.1",
-      "version_to": "1.4.2",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://dl-portal.iina.io/IINA.v1.4.2.dmg"
-    },
-    {
-      "id": "microsoft-edge/darwin-147.0.3912.60-147.0.3912.72",
-      "title": "Microsoft Edge 147.0.3912.60 \u2192 147.0.3912.72 (Mac)",
-      "event_type": "update",
-      "app": "Microsoft Edge",
-      "platform": "mac",
-      "version_from": "147.0.3912.60",
-      "version_to": "147.0.3912.72",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/897aa370-de25-41e0-9664-a7944796d7ee/MicrosoftEdge-147.0.3912.72.dmg"
-    },
-    {
-      "id": "ollama/windows-0.20.7-0.21.0",
-      "title": "Ollama 0.20.7 \u2192 0.21.0 (Windows)",
-      "event_type": "update",
-      "app": "Ollama",
-      "platform": "windows",
-      "version_from": "0.20.7",
-      "version_to": "0.21.0",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://github.com/ollama/ollama/releases/download/v0.21.0/OllamaSetup.exe"
-    },
-    {
-      "id": "claude/darwin-1.2773.0-1.3109.0",
-      "title": "Claude 1.2773.0 \u2192 1.3109.0 (Mac)",
-      "event_type": "update",
-      "app": "Claude",
-      "platform": "mac",
-      "version_from": "1.2773.0",
-      "version_to": "1.3109.0",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.3109.0/Claude-35cbf6530e05912137624cde0f075dc7f121fa60.zip"
-    },
-    {
-      "id": "claude/windows-1.2773.0-1.3109.0",
-      "title": "Claude 1.2773.0 \u2192 1.3109.0 (Windows)",
-      "event_type": "update",
-      "app": "Claude",
-      "platform": "windows",
-      "version_from": "1.2773.0",
-      "version_to": "1.3109.0",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://downloads.claude.ai/releases/win32/x64/1.3109.0/Claude-35cbf6530e05912137624cde0f075dc7f121fa60.msix"
-    },
-    {
-      "id": "ollama/darwin-0.20.7-0.21.0",
-      "title": "Ollama 0.20.7 \u2192 0.21.0 (Mac)",
-      "event_type": "update",
-      "app": "Ollama",
-      "platform": "mac",
-      "version_from": "0.20.7",
-      "version_to": "0.21.0",
-      "timestamp": "2026-04-18T13:30:51+00:00",
-      "download_url": "https://github.com/ollama/ollama/releases/download/v0.21.0/Ollama-darwin.zip"
     }
   ]
 }
