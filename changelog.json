@@ -1,5 +1,15 @@
 [
   {
+    "sha": "75295ae163a98048c9f4d381ac2475f395e130ec",
+    "short_sha": "75295ae163",
+    "author": "Allen Houchins",
+    "message": "Update npm supply chain compromised packages list (#45817)",
+    "timestamp": "2026-05-19T11:16:53-05:00",
+    "files": [
+      "it-and-security/lib/all/policies/npm-supply-chain-compromised-packages.yml"
+    ]
+  },
+  {
     "sha": "96b1ebde7b3dfd0278d71244297f2ef430614906",
     "short_sha": "96b1ebde7b",
     "author": "Allen Houchins",
