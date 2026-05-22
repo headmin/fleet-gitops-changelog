@@ -1,9 +1,20 @@
 {
-  "generated": "2026-05-21T18:45:05Z",
+  "generated": "2026-05-22T00:57:52Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "claude/windows-1.8089.1-1.8555.0",
+      "title": "Claude 1.8089.1 \u2192 1.8555.0 (Windows)",
+      "event_type": "update",
+      "app": "Claude",
+      "platform": "windows",
+      "version_from": "1.8089.1",
+      "version_to": "1.8555.0",
+      "timestamp": "2026-05-21T22:33:36+00:00",
+      "download_url": "https://downloads.claude.ai/releases/win32/x64/1.8555.0/Claude-8245b7a72393fec67fa946b26a825bfbd3f947b3.msix"
+    },
     {
       "id": "santa/darwin-2026.3-2026.4",
       "title": "Santa 2026.3 \u2192 2026.4 (Mac)",
@@ -5439,37 +5450,15 @@
       "download_url": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
     },
     {
-      "id": "obs/darwin-32.1.1-32.1.2",
-      "title": "OBS 32.1.1 \u2192 32.1.2 (Mac)",
+      "id": "postman/windows-12.7.0-12.7.4",
+      "title": "Postman 12.7.0 \u2192 12.7.4 (Windows)",
       "event_type": "update",
-      "app": "OBS",
-      "platform": "mac",
-      "version_from": "32.1.1",
-      "version_to": "32.1.2",
-      "timestamp": "2026-04-22T15:32:55+00:00",
-      "download_url": "https://cdn-fastly.obsproject.com/downloads/obs-studio-32.1.2-macos-apple.dmg"
-    },
-    {
-      "id": "firefox/windows-149.0.2-150.0",
-      "title": "Mozilla Firefox 149.0.2 \u2192 150.0 (Windows)",
-      "event_type": "update",
-      "app": "Mozilla Firefox",
+      "app": "Postman",
       "platform": "windows",
-      "version_from": "149.0.2",
-      "version_to": "150.0",
+      "version_from": "12.7.0",
+      "version_to": "12.7.4",
       "timestamp": "2026-04-22T15:32:55+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/150.0/win64/en-US/Firefox%20Setup%20150.0.exe"
-    },
-    {
-      "id": "thunderbird/windows-149.0.2-150.0",
-      "title": "Thunderbird 149.0.2 \u2192 150.0 (Windows)",
-      "event_type": "update",
-      "app": "Thunderbird",
-      "platform": "windows",
-      "version_from": "149.0.2",
-      "version_to": "150.0",
-      "timestamp": "2026-04-22T15:32:55+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/150.0/win64/en-US/Thunderbird%20Setup%20150.0.exe"
+      "download_url": "https://dl.pstmn.io/download/version/12.7.4/windows_64"
     },
     {
       "id": "windsurf/darwin-2.0.63-2.0.67",
@@ -5494,15 +5483,26 @@
       "download_url": "https://update.code.visualstudio.com/1.117.0/darwin-arm64/stable"
     },
     {
-      "id": "microsoft-teams/darwin-26072.605.4546.510-26072.608.4595.8484",
-      "title": "Microsoft Teams 26072.605.4546.510 \u2192 26072.608.4595.8484 (Mac)",
+      "id": "obs/darwin-32.1.1-32.1.2",
+      "title": "OBS 32.1.1 \u2192 32.1.2 (Mac)",
       "event_type": "update",
-      "app": "Microsoft Teams",
+      "app": "OBS",
       "platform": "mac",
-      "version_from": "26072.605.4546.510",
-      "version_to": "26072.608.4595.8484",
+      "version_from": "32.1.1",
+      "version_to": "32.1.2",
       "timestamp": "2026-04-22T15:32:55+00:00",
-      "download_url": "https://statics.teams.cdn.office.net/production-osx/26072.608.4595.8484/MicrosoftTeams.pkg"
+      "download_url": "https://cdn-fastly.obsproject.com/downloads/obs-studio-32.1.2-macos-apple.dmg"
+    },
+    {
+      "id": "thunderbird/windows-149.0.2-150.0",
+      "title": "Thunderbird 149.0.2 \u2192 150.0 (Windows)",
+      "event_type": "update",
+      "app": "Thunderbird",
+      "platform": "windows",
+      "version_from": "149.0.2",
+      "version_to": "150.0",
+      "timestamp": "2026-04-22T15:32:55+00:00",
+      "download_url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/150.0/win64/en-US/Thunderbird%20Setup%20150.0.exe"
     }
   ]
 }
