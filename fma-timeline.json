@@ -1,9 +1,75 @@
 {
-  "generated": "2026-05-23T18:27:15Z",
+  "generated": "2026-05-24T00:59:05Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "claude/darwin-1.8555.1-1.8555.2",
+      "title": "Claude 1.8555.1 \u2192 1.8555.2 (Mac)",
+      "event_type": "update",
+      "app": "Claude",
+      "platform": "mac",
+      "version_from": "1.8555.1",
+      "version_to": "1.8555.2",
+      "timestamp": "2026-05-23T22:21:02+00:00",
+      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.8555.2/Claude-a476c316c741715263e34f9c9d2bc45b6d0f21c7.zip"
+    },
+    {
+      "id": "cursor/darwin-3.5.17-3.5.33",
+      "title": "Cursor 3.5.17 \u2192 3.5.33 (Mac)",
+      "event_type": "update",
+      "app": "Cursor",
+      "platform": "mac",
+      "version_from": "3.5.17",
+      "version_to": "3.5.33",
+      "timestamp": "2026-05-23T22:21:02+00:00",
+      "download_url": "https://downloads.cursor.com/production/aac81804b986d739acab348ed96b8bea6e83cc57/darwin/arm64/Cursor-darwin-arm64.zip"
+    },
+    {
+      "id": "claude/windows-1.8555.1-1.8555.2",
+      "title": "Claude 1.8555.1 \u2192 1.8555.2 (Windows)",
+      "event_type": "update",
+      "app": "Claude",
+      "platform": "windows",
+      "version_from": "1.8555.1",
+      "version_to": "1.8555.2",
+      "timestamp": "2026-05-23T22:21:02+00:00",
+      "download_url": "https://downloads.claude.ai/releases/win32/x64/1.8555.2/Claude-a476c316c741715263e34f9c9d2bc45b6d0f21c7.msix"
+    },
+    {
+      "id": "coteditor/darwin-7.0.3-7.0.4",
+      "title": "CotEditor 7.0.3 \u2192 7.0.4 (Mac)",
+      "event_type": "update",
+      "app": "CotEditor",
+      "platform": "mac",
+      "version_from": "7.0.3",
+      "version_to": "7.0.4",
+      "timestamp": "2026-05-23T22:21:02+00:00",
+      "download_url": "https://github.com/coteditor/CotEditor/releases/download/7.0.4/CotEditor_7.0.4.dmg"
+    },
+    {
+      "id": "iina/darwin-1.4.2-1.4.3",
+      "title": "IINA 1.4.2 \u2192 1.4.3 (Mac)",
+      "event_type": "update",
+      "app": "IINA",
+      "platform": "mac",
+      "version_from": "1.4.2",
+      "version_to": "1.4.3",
+      "timestamp": "2026-05-23T22:21:02+00:00",
+      "download_url": "https://dl.iina.io/IINA.v1.4.3.dmg"
+    },
+    {
+      "id": "cursor/windows-3.5.17-3.5.33",
+      "title": "Cursor 3.5.17 \u2192 3.5.33 (Windows)",
+      "event_type": "update",
+      "app": "Cursor",
+      "platform": "windows",
+      "version_from": "3.5.17",
+      "version_to": "3.5.33",
+      "timestamp": "2026-05-23T22:21:02+00:00",
+      "download_url": "https://downloads.cursor.com/production/aac81804b986d739acab348ed96b8bea6e83cc57/win32/x64/system-setup/CursorSetup-x64-3.5.33.exe"
+    },
     {
       "id": "claude/windows-1.8555.0-1.8555.1",
       "title": "Claude 1.8555.0 \u2192 1.8555.1 (Windows)",
@@ -5329,114 +5395,15 @@
       "download_url": "https://github.com/zen-browser/desktop/releases/download/1.19.8b/zen.macos-universal.dmg"
     },
     {
-      "id": "ollama/windows-0.21.0-0.21.2",
-      "title": "Ollama 0.21.0 \u2192 0.21.2 (Windows)",
+      "id": "rubymine/darwin-2026.1-2026.1.1",
+      "title": "RubyMine 2026.1 \u2192 2026.1.1 (Mac)",
       "event_type": "update",
-      "app": "Ollama",
-      "platform": "windows",
-      "version_from": "0.21.0",
-      "version_to": "0.21.2",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://github.com/ollama/ollama/releases/download/v0.21.2/OllamaSetup.exe"
-    },
-    {
-      "id": "granola/darwin-7.147.1-7.155.1",
-      "title": "Granola 7.147.1 \u2192 7.155.1 (Mac)",
-      "event_type": "update",
-      "app": "Granola",
-      "platform": "mac",
-      "version_from": "7.147.1",
-      "version_to": "7.155.1",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.155.1/Granola-7.155.1-mac-universal.dmg"
-    },
-    {
-      "id": "postman/darwin-12.7.5-12.7.6",
-      "title": "Postman 12.7.5 \u2192 12.7.6 (Mac)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "mac",
-      "version_from": "12.7.5",
-      "version_to": "12.7.6",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.7.6/osx_arm64"
-    },
-    {
-      "id": "brave-browser/windows-147.1.89.137-147.1.89.143",
-      "title": "Brave 147.1.89.137 \u2192 147.1.89.143 (Windows)",
-      "event_type": "update",
-      "app": "Brave",
-      "platform": "windows",
-      "version_from": "147.1.89.137",
-      "version_to": "147.1.89.143",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://github.com/brave/brave-browser/releases/download/v1.89.143/BraveBrowserStandaloneSilentSetup.exe"
-    },
-    {
-      "id": "ollama/darwin-0.21.1-0.21.2",
-      "title": "Ollama 0.21.1 \u2192 0.21.2 (Mac)",
-      "event_type": "update",
-      "app": "Ollama",
-      "platform": "mac",
-      "version_from": "0.21.1",
-      "version_to": "0.21.2",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://github.com/ollama/ollama/releases/download/v0.21.2/Ollama-darwin.zip"
-    },
-    {
-      "id": "brave-browser/darwin-147.1.89.141-147.1.89.143",
-      "title": "Brave 147.1.89.141 \u2192 147.1.89.143 (Mac)",
-      "event_type": "update",
-      "app": "Brave",
-      "platform": "mac",
-      "version_from": "147.1.89.141",
-      "version_to": "147.1.89.143",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable-arm64/189.143/Brave-Browser-arm64.dmg"
-    },
-    {
-      "id": "microsoft-powerpoint/darwin-16.108-16.108.1",
-      "title": "Microsoft PowerPoint 16.108 \u2192 16.108.1 (Mac)",
-      "event_type": "update",
-      "app": "Microsoft PowerPoint",
-      "platform": "mac",
-      "version_from": "16.108",
-      "version_to": "16.108.1",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.108.26041915_Installer.pkg"
-    },
-    {
-      "id": "postman/windows-12.7.5-12.7.6",
-      "title": "Postman 12.7.5 \u2192 12.7.6 (Windows)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "windows",
-      "version_from": "12.7.5",
-      "version_to": "12.7.6",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.7.6/windows_64"
-    },
-    {
-      "id": "goland/darwin-2026.1-2026.1.1",
-      "title": "GoLand 2026.1 \u2192 2026.1.1 (Mac)",
-      "event_type": "update",
-      "app": "GoLand",
+      "app": "RubyMine",
       "platform": "mac",
       "version_from": "2026.1",
       "version_to": "2026.1.1",
       "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://download.jetbrains.com/go/goland-2026.1.1-aarch64.dmg"
-    },
-    {
-      "id": "rustrover/darwin-2026.1-2026.1.1",
-      "title": "RustRover 2026.1 \u2192 2026.1.1 (Mac)",
-      "event_type": "update",
-      "app": "RustRover",
-      "platform": "mac",
-      "version_from": "2026.1",
-      "version_to": "2026.1.1",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://download.jetbrains.com/rustrover/RustRover-2026.1.1-aarch64.dmg"
+      "download_url": "https://download.jetbrains.com/ruby/RubyMine-2026.1.1-aarch64.dmg"
     },
     {
       "id": "granola/windows-7.147.1-7.155.1",
@@ -5459,6 +5426,17 @@
       "version_to": "16.108.1",
       "timestamp": "2026-04-24T15:31:19+00:00",
       "download_url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.108.26041915_Installer.pkg"
+    },
+    {
+      "id": "ollama/windows-0.21.0-0.21.2",
+      "title": "Ollama 0.21.0 \u2192 0.21.2 (Windows)",
+      "event_type": "update",
+      "app": "Ollama",
+      "platform": "windows",
+      "version_from": "0.21.0",
+      "version_to": "0.21.2",
+      "timestamp": "2026-04-24T15:31:19+00:00",
+      "download_url": "https://github.com/ollama/ollama/releases/download/v0.21.2/OllamaSetup.exe"
     },
     {
       "id": "microsoft-outlook/darwin-16.108-16.108.1",
@@ -5503,6 +5481,28 @@
       "version_to": "2026.1.1",
       "timestamp": "2026-04-24T15:31:19+00:00",
       "download_url": "https://download.jetbrains.com/webstorm/WebStorm-2026.1.1-aarch64.dmg"
+    },
+    {
+      "id": "arc/darwin-1.143.2-1.144.0",
+      "title": "Arc 1.143.2 \u2192 1.144.0 (Mac)",
+      "event_type": "update",
+      "app": "Arc",
+      "platform": "mac",
+      "version_from": "1.143.2",
+      "version_to": "1.144.0",
+      "timestamp": "2026-04-24T15:31:19+00:00",
+      "download_url": "https://releases.arc.net/release/Arc-1.144.0-79514.zip"
+    },
+    {
+      "id": "rustrover/darwin-2026.1-2026.1.1",
+      "title": "RustRover 2026.1 \u2192 2026.1.1 (Mac)",
+      "event_type": "update",
+      "app": "RustRover",
+      "platform": "mac",
+      "version_from": "2026.1",
+      "version_to": "2026.1.1",
+      "timestamp": "2026-04-24T15:31:19+00:00",
+      "download_url": "https://download.jetbrains.com/rustrover/RustRover-2026.1.1-aarch64.dmg"
     }
   ]
 }
