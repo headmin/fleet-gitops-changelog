@@ -1,9 +1,20 @@
 {
-  "generated": "2026-05-25T01:00:20Z",
+  "generated": "2026-05-25T07:44:43Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "zen/darwin-1.19.13b-1.20b",
+      "title": "Zen Browser 1.19.13b \u2192 1.20b (Mac)",
+      "event_type": "update",
+      "app": "Zen Browser",
+      "platform": "mac",
+      "version_from": "1.19.13b",
+      "version_to": "1.20b",
+      "timestamp": "2026-05-25T01:51:31+00:00",
+      "download_url": "https://github.com/zen-browser/desktop/releases/download/1.20b/zen.macos-universal.dmg"
+    },
     {
       "id": "notion/windows-7.14.0-7.18.0",
       "title": "Notion 7.14.0 \u2192 7.18.0 (Windows)",
@@ -5428,37 +5439,15 @@
       "download_url": "https://github.com/zen-browser/desktop/releases/download/1.19.8b/zen.macos-universal.dmg"
     },
     {
-      "id": "protonvpn/darwin-6.4.0-6.5.0",
-      "title": "ProtonVPN 6.4.0 \u2192 6.5.0 (Mac)",
+      "id": "clion/darwin-2026.1-2026.1.1",
+      "title": "CLion 2026.1 \u2192 2026.1.1 (Mac)",
       "event_type": "update",
-      "app": "ProtonVPN",
-      "platform": "mac",
-      "version_from": "6.4.0",
-      "version_to": "6.5.0",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://vpn.protondownload.com/download/macos/6.5.0/ProtonVPN_mac_v6.5.0.dmg"
-    },
-    {
-      "id": "webstorm/darwin-2026.1-2026.1.1",
-      "title": "WebStorm 2026.1 \u2192 2026.1.1 (Mac)",
-      "event_type": "update",
-      "app": "WebStorm",
+      "app": "CLion",
       "platform": "mac",
       "version_from": "2026.1",
       "version_to": "2026.1.1",
       "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://download.jetbrains.com/webstorm/WebStorm-2026.1.1-aarch64.dmg"
-    },
-    {
-      "id": "arc/darwin-1.143.2-1.144.0",
-      "title": "Arc 1.143.2 \u2192 1.144.0 (Mac)",
-      "event_type": "update",
-      "app": "Arc",
-      "platform": "mac",
-      "version_from": "1.143.2",
-      "version_to": "1.144.0",
-      "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://releases.arc.net/release/Arc-1.144.0-79514.zip"
+      "download_url": "https://download.jetbrains.com/cpp/CLion-2026.1.1-aarch64.dmg"
     },
     {
       "id": "rubymine/darwin-2026.1-2026.1.1",
@@ -5494,15 +5483,26 @@
       "download_url": "https://download.jetbrains.com/webide/PhpStorm-2026.1.1-aarch64.dmg"
     },
     {
-      "id": "clockify/darwin-2.12.3-2.12.4",
-      "title": "Clockify Desktop 2.12.3 \u2192 2.12.4 (Mac)",
+      "id": "protonvpn/darwin-6.4.0-6.5.0",
+      "title": "ProtonVPN 6.4.0 \u2192 6.5.0 (Mac)",
       "event_type": "update",
-      "app": "Clockify Desktop",
+      "app": "ProtonVPN",
       "platform": "mac",
-      "version_from": "2.12.3",
-      "version_to": "2.12.4",
+      "version_from": "6.4.0",
+      "version_to": "6.5.0",
       "timestamp": "2026-04-24T15:31:19+00:00",
-      "download_url": "https://clockify.me/downloads/ClockifyDesktop.zip"
+      "download_url": "https://vpn.protondownload.com/download/macos/6.5.0/ProtonVPN_mac_v6.5.0.dmg"
+    },
+    {
+      "id": "arc/darwin-1.143.2-1.144.0",
+      "title": "Arc 1.143.2 \u2192 1.144.0 (Mac)",
+      "event_type": "update",
+      "app": "Arc",
+      "platform": "mac",
+      "version_from": "1.143.2",
+      "version_to": "1.144.0",
+      "timestamp": "2026-04-24T15:31:19+00:00",
+      "download_url": "https://releases.arc.net/release/Arc-1.144.0-79514.zip"
     }
   ]
 }
