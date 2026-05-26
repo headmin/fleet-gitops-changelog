@@ -1,9 +1,20 @@
 {
-  "generated": "2026-05-26T13:10:10Z",
+  "generated": "2026-05-26T18:55:16Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "google-gemini/darwin-1.51.0.245-1.60.2.323",
+      "title": "Gemini 1.51.0.245 \u2192 1.60.2.323 (Mac)",
+      "event_type": "update",
+      "app": "Gemini",
+      "platform": "mac",
+      "version_from": "1.51.0.245",
+      "version_to": "1.60.2.323",
+      "timestamp": "2026-05-26T15:08:08+00:00",
+      "download_url": "https://dl.google.com/release2/j33ro/release/Gemini.dmg"
+    },
     {
       "id": "zed/darwin-1.3.6-1.3.7",
       "title": "Zed 1.3.6 \u2192 1.3.7 (Mac)",
@@ -5472,28 +5483,6 @@
       "download_url": "https://github.com/telegramdesktop/tdesktop/releases/download/v6.7.8/tsetup-x64.6.7.8.exe"
     },
     {
-      "id": "zen/darwin-1.19.8b-1.19.9b",
-      "title": "Zen Browser 1.19.8b \u2192 1.19.9b (Mac)",
-      "event_type": "update",
-      "app": "Zen Browser",
-      "platform": "mac",
-      "version_from": "1.19.8b",
-      "version_to": "1.19.9b",
-      "timestamp": "2026-04-25T03:09:24+00:00",
-      "download_url": "https://github.com/zen-browser/desktop/releases/download/1.19.9b/zen.macos-universal.dmg"
-    },
-    {
-      "id": "cursor/darwin-3.1.17-3.2.10",
-      "title": "Cursor 3.1.17 \u2192 3.2.10 (Mac)",
-      "event_type": "update",
-      "app": "Cursor",
-      "platform": "mac",
-      "version_from": "3.1.17",
-      "version_to": "3.2.10",
-      "timestamp": "2026-04-25T03:09:24+00:00",
-      "download_url": "https://downloads.cursor.com/production/87903b25fe9074e35b9ba372ed5bf14de5835962/darwin/arm64/Cursor-darwin-arm64.zip"
-    },
-    {
       "id": "cursor/windows-3.1.17-3.2.10",
       "title": "Cursor 3.1.17 \u2192 3.2.10 (Windows)",
       "event_type": "update",
@@ -5503,6 +5492,17 @@
       "version_to": "3.2.10",
       "timestamp": "2026-04-25T03:09:24+00:00",
       "download_url": "https://downloads.cursor.com/production/87903b25fe9074e35b9ba372ed5bf14de5835962/win32/x64/system-setup/CursorSetup-x64-3.2.10.exe"
+    },
+    {
+      "id": "zen/darwin-1.19.8b-1.19.9b",
+      "title": "Zen Browser 1.19.8b \u2192 1.19.9b (Mac)",
+      "event_type": "update",
+      "app": "Zen Browser",
+      "platform": "mac",
+      "version_from": "1.19.8b",
+      "version_to": "1.19.9b",
+      "timestamp": "2026-04-25T03:09:24+00:00",
+      "download_url": "https://github.com/zen-browser/desktop/releases/download/1.19.9b/zen.macos-universal.dmg"
     }
   ]
 }
