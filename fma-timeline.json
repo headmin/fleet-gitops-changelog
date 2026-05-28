@@ -1,9 +1,31 @@
 {
-  "generated": "2026-05-27T18:54:38Z",
+  "generated": "2026-05-28T00:54:10Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "gotomeeting/windows--10.19.0.19950",
+      "title": "New App: GoToMeeting 10.19.0.19950 (Windows)",
+      "event_type": "added",
+      "app": "GoToMeeting",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "10.19.0.19950",
+      "timestamp": "2026-05-27T18:53:18+00:00",
+      "download_url": "https://link.gotomeeting.com/latest-msi"
+    },
+    {
+      "id": "gotomeeting/darwin--19950",
+      "title": "New App: GoToMeeting 19950 (Mac)",
+      "event_type": "added",
+      "app": "GoToMeeting",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "19950",
+      "timestamp": "2026-05-27T18:53:18+00:00",
+      "download_url": "https://builds.cdn.getgo.com/builds/g2m/19950/GoToMeeting.dmg"
+    },
     {
       "id": "p4v/windows--242.61.2",
       "title": "New App: P4V 242.61.2 (Windows)",
@@ -5373,59 +5395,15 @@
       "download_url": "https://download.todesktop.com/200315glz2793v6/Linear%201.28.13%20-%20Build%20260318pho1bttxr-arm64-mac.zip"
     },
     {
-      "id": "opera/darwin-130.0-131.0",
-      "title": "Opera 130.0 \u2192 131.0 (Mac)",
-      "event_type": "update",
-      "app": "Opera",
-      "platform": "mac",
-      "version_from": "130.0",
-      "version_to": "131.0",
-      "timestamp": "2026-04-29T15:44:13+00:00",
-      "download_url": "https://get.geo.opera.com/pub/opera/desktop/131.0.5877.5/mac/Opera_131.0.5877.5_Setup.dmg"
-    },
-    {
-      "id": "raycast/darwin-1.104.13-1.104.14",
-      "title": "Raycast 1.104.13 \u2192 1.104.14 (Mac)",
-      "event_type": "update",
-      "app": "Raycast",
-      "platform": "mac",
-      "version_from": "1.104.13",
-      "version_to": "1.104.14",
-      "timestamp": "2026-04-29T15:44:13+00:00",
-      "download_url": "https://releases.raycast.com/releases/1.104.14/download?build=arm"
-    },
-    {
-      "id": "postman/windows-12.8.1-12.8.3",
-      "title": "Postman 12.8.1 \u2192 12.8.3 (Windows)",
+      "id": "postman/darwin-12.8.1-12.8.3",
+      "title": "Postman 12.8.1 \u2192 12.8.3 (Mac)",
       "event_type": "update",
       "app": "Postman",
-      "platform": "windows",
+      "platform": "mac",
       "version_from": "12.8.1",
       "version_to": "12.8.3",
       "timestamp": "2026-04-29T15:44:13+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.8.3/windows_64"
-    },
-    {
-      "id": "claude/windows-1.4758.0-1.5354.0",
-      "title": "Claude 1.4758.0 \u2192 1.5354.0 (Windows)",
-      "event_type": "update",
-      "app": "Claude",
-      "platform": "windows",
-      "version_from": "1.4758.0",
-      "version_to": "1.5354.0",
-      "timestamp": "2026-04-29T15:44:13+00:00",
-      "download_url": "https://downloads.claude.ai/releases/win32/x64/1.5354.0/Claude-9a9e3d5a4a368f0f49a80dc303b0ed1a18bfedad.msix"
-    },
-    {
-      "id": "google-chrome/darwin-147.0.7727.117-147.0.7727.138",
-      "title": "Google Chrome 147.0.7727.117 \u2192 147.0.7727.138 (Mac)",
-      "event_type": "update",
-      "app": "Google Chrome",
-      "platform": "mac",
-      "version_from": "147.0.7727.117",
-      "version_to": "147.0.7727.138",
-      "timestamp": "2026-04-29T15:44:13+00:00",
-      "download_url": "https://dl.google.com/dl/chrome/mac/universal/stable/gcem/GoogleChrome.pkg"
+      "download_url": "https://dl.pstmn.io/download/version/12.8.3/osx_arm64"
     },
     {
       "id": "windsurf/darwin-2.0.67-2.1.29",
@@ -5494,15 +5472,37 @@
       "download_url": "https://download.sketch.com/sketch-2026.1.2-228390.zip"
     },
     {
-      "id": "microsoft-excel/darwin-16.108.1-16.108.2",
-      "title": "Microsoft Excel 16.108.1 \u2192 16.108.2 (Mac)",
+      "id": "opera/darwin-130.0-131.0",
+      "title": "Opera 130.0 \u2192 131.0 (Mac)",
       "event_type": "update",
-      "app": "Microsoft Excel",
+      "app": "Opera",
       "platform": "mac",
-      "version_from": "16.108.1",
-      "version_to": "16.108.2",
+      "version_from": "130.0",
+      "version_to": "131.0",
       "timestamp": "2026-04-29T15:44:13+00:00",
-      "download_url": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.108.26042616_Installer.pkg"
+      "download_url": "https://get.geo.opera.com/pub/opera/desktop/131.0.5877.5/mac/Opera_131.0.5877.5_Setup.dmg"
+    },
+    {
+      "id": "cursor/darwin-3.2.11-3.2.16",
+      "title": "Cursor 3.2.11 \u2192 3.2.16 (Mac)",
+      "event_type": "update",
+      "app": "Cursor",
+      "platform": "mac",
+      "version_from": "3.2.11",
+      "version_to": "3.2.16",
+      "timestamp": "2026-04-29T15:44:13+00:00",
+      "download_url": "https://downloads.cursor.com/production/3e548838cf824b70851dd3ef27d0c6aae371b3f6/darwin/arm64/Cursor-darwin-arm64.zip"
+    },
+    {
+      "id": "google-chrome/darwin-147.0.7727.117-147.0.7727.138",
+      "title": "Google Chrome 147.0.7727.117 \u2192 147.0.7727.138 (Mac)",
+      "event_type": "update",
+      "app": "Google Chrome",
+      "platform": "mac",
+      "version_from": "147.0.7727.117",
+      "version_to": "147.0.7727.138",
+      "timestamp": "2026-04-29T15:44:13+00:00",
+      "download_url": "https://dl.google.com/dl/chrome/mac/universal/stable/gcem/GoogleChrome.pkg"
     }
   ]
 }
