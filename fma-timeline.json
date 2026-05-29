@@ -1,9 +1,163 @@
 {
-  "generated": "2026-05-28T18:59:28Z",
+  "generated": "2026-05-29T01:01:42Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "notepad++/windows-8.9.5-8.9.6",
+      "title": "Notepad++ 8.9.5 \u2192 8.9.6 (Windows)",
+      "event_type": "update",
+      "app": "Notepad++",
+      "platform": "windows",
+      "version_from": "8.9.5",
+      "version_to": "8.9.6",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.6/npp.8.9.6.Installer.x64.exe"
+    },
+    {
+      "id": "arc/darwin-1.148.0-1.149.0",
+      "title": "Arc 1.148.0 \u2192 1.149.0 (Mac)",
+      "event_type": "update",
+      "app": "Arc",
+      "platform": "mac",
+      "version_from": "1.148.0",
+      "version_to": "1.149.0",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://releases.arc.net/release/Arc-1.149.0-81456.zip"
+    },
+    {
+      "id": "parallels/darwin-26.3.2-26.3.3",
+      "title": "Parallels Desktop 26.3.2 \u2192 26.3.3 (Mac)",
+      "event_type": "update",
+      "app": "Parallels Desktop",
+      "platform": "mac",
+      "version_from": "26.3.2",
+      "version_to": "26.3.3",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://download.parallels.com/desktop/v26/26.3.3-57507/ParallelsDesktop-26.3.3-57507.dmg"
+    },
+    {
+      "id": "grammarly-desktop/darwin-1.167.0-1.167.1",
+      "title": "Grammarly Desktop 1.167.0 \u2192 1.167.1 (Mac)",
+      "event_type": "update",
+      "app": "Grammarly Desktop",
+      "platform": "mac",
+      "version_from": "1.167.0",
+      "version_to": "1.167.1",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://download-mac.grammarly.com/versions/1.167.1.0/Grammarly.dmg"
+    },
+    {
+      "id": "power-bi/windows-2.153.1206.0-2.154.956.0",
+      "title": "Power BI 2.153.1206.0 \u2192 2.154.956.0 (Windows)",
+      "event_type": "update",
+      "app": "Power BI",
+      "platform": "windows",
+      "version_from": "2.153.1206.0",
+      "version_to": "2.154.956.0",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://download.microsoft.com/download/8/8/0/880bca75-79dd-466a-927d-1abf1f5454b0/PBIDesktopSetup_x64.exe"
+    },
+    {
+      "id": "claude/darwin-1.9255.2-1.9659.1",
+      "title": "Claude 1.9255.2 \u2192 1.9659.1 (Mac)",
+      "event_type": "update",
+      "app": "Claude",
+      "platform": "mac",
+      "version_from": "1.9255.2",
+      "version_to": "1.9659.1",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.9659.1/Claude-193bcb17691a9a10334d7013382ef6ec26c126bc.zip"
+    },
+    {
+      "id": "granola/darwin-7.269.1-7.277.1",
+      "title": "Granola 7.269.1 \u2192 7.277.1 (Mac)",
+      "event_type": "update",
+      "app": "Granola",
+      "platform": "mac",
+      "version_from": "7.269.1",
+      "version_to": "7.277.1",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.277.1/Granola-7.277.1-mac-universal.dmg"
+    },
+    {
+      "id": "granola/windows-7.269.1-7.277.1",
+      "title": "Granola 7.269.1 \u2192 7.277.1 (Windows)",
+      "event_type": "update",
+      "app": "Granola",
+      "platform": "windows",
+      "version_from": "7.269.1",
+      "version_to": "7.277.1",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.277.1/Granola-7.277.1-win-x64.exe"
+    },
+    {
+      "id": "dialpad/darwin-2605.0.4-2605.1.0",
+      "title": "Dialpad 2605.0.4 \u2192 2605.1.0 (Mac)",
+      "event_type": "update",
+      "app": "Dialpad",
+      "platform": "mac",
+      "version_from": "2605.0.4",
+      "version_to": "2605.1.0",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://download.dialpad.com/osx/arm64/dialpad.pkg"
+    },
+    {
+      "id": "camtasia/darwin-2026.1.0-2026.1.2",
+      "title": "Camtasia 2026.1.0 \u2192 2026.1.2 (Mac)",
+      "event_type": "update",
+      "app": "Camtasia",
+      "platform": "mac",
+      "version_from": "2026.1.0",
+      "version_to": "2026.1.2",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://download.techsmith.com/camtasiamac/releases/2026.1.2/Camtasia.dmg"
+    },
+    {
+      "id": "brave-browser/darwin-148.1.90.124-148.1.90.128",
+      "title": "Brave 148.1.90.124 \u2192 148.1.90.128 (Mac)",
+      "event_type": "update",
+      "app": "Brave",
+      "platform": "mac",
+      "version_from": "148.1.90.124",
+      "version_to": "148.1.90.128",
+      "timestamp": "2026-05-28T21:43:28+00:00",
+      "download_url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable-arm64/190.128/Brave-Browser-arm64.dmg"
+    },
+    {
+      "id": "power-bi/windows--2.153.1206.0",
+      "title": "New App: Power BI 2.153.1206.0 (Windows)",
+      "event_type": "added",
+      "app": "Power BI",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "2.153.1206.0",
+      "timestamp": "2026-05-28T18:59:18+00:00",
+      "download_url": "https://download.microsoft.com/download/8/8/0/880BCA75-79DD-466A-927D-1ABF1F5454B0/PBIDesktopSetup-2026-04_x64.exe"
+    },
+    {
+      "id": "canva/windows--1.122.0",
+      "title": "New App: Canva 1.122.0 (Windows)",
+      "event_type": "added",
+      "app": "Canva",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "1.122.0",
+      "timestamp": "2026-05-28T18:59:18+00:00",
+      "download_url": "https://desktop-release.canva.com/Canva%20Setup%201.122.0.exe"
+    },
+    {
+      "id": "raycast/darwin-1.104.18-1.104.19",
+      "title": "Raycast 1.104.18 \u2192 1.104.19 (Mac)",
+      "event_type": "update",
+      "app": "Raycast",
+      "platform": "mac",
+      "version_from": "1.104.18",
+      "version_to": "1.104.19",
+      "timestamp": "2026-05-28T18:59:18+00:00",
+      "download_url": "https://releases.raycast.com/releases/1.104.19/download?build=arm"
+    },
     {
       "id": "bruno/windows--3.4.2",
       "title": "New App: Bruno 3.4.2 (Windows)",
@@ -5307,6 +5461,17 @@
       "download_url": "https://cavalry.studio/downloads/latest/Cavalry.dmg"
     },
     {
+      "id": "asana/darwin-2.6.0-2.7.1",
+      "title": "Asana 2.6.0 \u2192 2.7.1 (Mac)",
+      "event_type": "update",
+      "app": "Asana",
+      "platform": "mac",
+      "version_from": "2.6.0",
+      "version_to": "2.7.1",
+      "timestamp": "2026-05-05T18:37:29+00:00",
+      "download_url": "https://desktop-downloads.asana.com/darwin_arm64/prod/v2.7.1/Asana-darwin-arm64-2.7.1.zip"
+    },
+    {
       "id": "asana/windows-2.6.0-2.7.1",
       "title": "Asana 2.6.0 \u2192 2.7.1 (Windows)",
       "event_type": "update",
@@ -5329,28 +5494,6 @@
       "download_url": "https://dl.pstmn.io/download/version/12.9.2/windows_64"
     },
     {
-      "id": "asana/darwin-2.6.0-2.7.1",
-      "title": "Asana 2.6.0 \u2192 2.7.1 (Mac)",
-      "event_type": "update",
-      "app": "Asana",
-      "platform": "mac",
-      "version_from": "2.6.0",
-      "version_to": "2.7.1",
-      "timestamp": "2026-05-05T18:37:29+00:00",
-      "download_url": "https://desktop-downloads.asana.com/darwin_arm64/prod/v2.7.1/Asana-darwin-arm64-2.7.1.zip"
-    },
-    {
-      "id": "anka-virtualization/darwin-3.8.6-3.9.0",
-      "title": "Anka 3.8.6 \u2192 3.9.0 (Mac)",
-      "event_type": "update",
-      "app": "Anka",
-      "platform": "mac",
-      "version_from": "3.8.6",
-      "version_to": "3.9.0",
-      "timestamp": "2026-05-05T15:42:00+00:00",
-      "download_url": "https://downloads.veertu.com/anka/Anka-3.9.0.215.pkg"
-    },
-    {
       "id": "tower/darwin-15.1-16.0",
       "title": "Tower 15.1 \u2192 16.0 (Mac)",
       "event_type": "update",
@@ -5360,149 +5503,6 @@
       "version_to": "16.0",
       "timestamp": "2026-05-05T15:42:00+00:00",
       "download_url": "https://www.git-tower.com/apps/tower3-mac/534-1e48e030/Tower-16.0-534.zip"
-    },
-    {
-      "id": "rancher/darwin-1.22.0-1.22.2",
-      "title": "Rancher Desktop 1.22.0 \u2192 1.22.2 (Mac)",
-      "event_type": "update",
-      "app": "Rancher Desktop",
-      "platform": "mac",
-      "version_from": "1.22.0",
-      "version_to": "1.22.2",
-      "timestamp": "2026-05-05T15:42:00+00:00",
-      "download_url": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.22.2/Rancher.Desktop-1.22.2.aarch64.dmg"
-    },
-    {
-      "id": "grammarly-desktop/darwin-1.163.1-1.164.0",
-      "title": "Grammarly Desktop 1.163.1 \u2192 1.164.0 (Mac)",
-      "event_type": "update",
-      "app": "Grammarly Desktop",
-      "platform": "mac",
-      "version_from": "1.163.1",
-      "version_to": "1.164.0",
-      "timestamp": "2026-05-05T15:42:00+00:00",
-      "download_url": "https://download-mac.grammarly.com/versions/1.164.0.0/Grammarly.dmg"
-    },
-    {
-      "id": "discord/darwin-0.0.388-0.0.389",
-      "title": "Discord 0.0.388 \u2192 0.0.389 (Mac)",
-      "event_type": "update",
-      "app": "Discord",
-      "platform": "mac",
-      "version_from": "0.0.388",
-      "version_to": "0.0.389",
-      "timestamp": "2026-05-05T15:42:00+00:00",
-      "download_url": "https://dl.discordapp.net/apps/osx/0.0.389/Discord.dmg"
-    },
-    {
-      "id": "discord/windows-1.0.9235-1.0.9236",
-      "title": "Discord 1.0.9235 \u2192 1.0.9236 (Windows)",
-      "event_type": "update",
-      "app": "Discord",
-      "platform": "windows",
-      "version_from": "1.0.9235",
-      "version_to": "1.0.9236",
-      "timestamp": "2026-05-05T15:42:00+00:00",
-      "download_url": "https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9236/DiscordSetup.exe"
-    },
-    {
-      "id": "postman/darwin-12.9.0-12.9.2",
-      "title": "Postman 12.9.0 \u2192 12.9.2 (Mac)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "mac",
-      "version_from": "12.9.0",
-      "version_to": "12.9.2",
-      "timestamp": "2026-05-05T15:42:00+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.9.2/osx_arm64"
-    },
-    {
-      "id": "nextcloud/darwin-33.0.3-33.0.4",
-      "title": "Nextcloud 33.0.3 \u2192 33.0.4 (Mac)",
-      "event_type": "update",
-      "app": "Nextcloud",
-      "platform": "mac",
-      "version_from": "33.0.3",
-      "version_to": "33.0.4",
-      "timestamp": "2026-05-05T15:42:00+00:00",
-      "download_url": "https://github.com/nextcloud-releases/desktop/releases/download/v33.0.4/Nextcloud-33.0.4.pkg"
-    },
-    {
-      "id": "anydesk/darwin-9.6.5-9.7.0",
-      "title": "AnyDesk 9.6.5 \u2192 9.7.0 (Mac)",
-      "event_type": "update",
-      "app": "AnyDesk",
-      "platform": "mac",
-      "version_from": "9.6.5",
-      "version_to": "9.7.0",
-      "timestamp": "2026-05-04T17:36:20+00:00",
-      "download_url": "https://download.anydesk.com/anydesk.dmg"
-    },
-    {
-      "id": "fleet-desktop/darwin-1.1.0-1.2.0",
-      "title": "Fleet Desktop 1.1.0 \u2192 1.2.0 (Mac)",
-      "event_type": "update",
-      "app": "Fleet Desktop",
-      "platform": "mac",
-      "version_from": "1.1.0",
-      "version_to": "1.2.0",
-      "timestamp": "2026-05-04T16:39:01+00:00",
-      "download_url": "https://github.com/allenhouchins/fleet-desktop/releases/download/v1.2.0/fleet_desktop-v1.2.0.pkg"
-    },
-    {
-      "id": "adobe-acrobat-reader/darwin-26.001.21431-26.001.21529",
-      "title": "Adobe Acrobat Reader 26.001.21431 \u2192 26.001.21529 (Mac)",
-      "event_type": "update",
-      "app": "Adobe Acrobat Reader",
-      "platform": "mac",
-      "version_from": "26.001.21431",
-      "version_to": "26.001.21529",
-      "timestamp": "2026-05-04T15:45:52+00:00",
-      "download_url": "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2600121529/AcroRdrDC_2600121529_MUI.dmg"
-    },
-    {
-      "id": "cursor/darwin-3.2.16-3.2.21",
-      "title": "Cursor 3.2.16 \u2192 3.2.21 (Mac)",
-      "event_type": "update",
-      "app": "Cursor",
-      "platform": "mac",
-      "version_from": "3.2.16",
-      "version_to": "3.2.21",
-      "timestamp": "2026-05-04T15:45:52+00:00",
-      "download_url": "https://downloads.cursor.com/production/806df57ed3b6f1ee0175140d38039a38574ec722/darwin/arm64/Cursor-darwin-arm64.zip"
-    },
-    {
-      "id": "zed/darwin-1.0.0-1.0.1",
-      "title": "Zed 1.0.0 \u2192 1.0.1 (Mac)",
-      "event_type": "update",
-      "app": "Zed",
-      "platform": "mac",
-      "version_from": "1.0.0",
-      "version_to": "1.0.1",
-      "timestamp": "2026-05-04T15:45:52+00:00",
-      "download_url": "https://zed.dev/api/releases/stable/1.0.1/Zed-aarch64.dmg"
-    },
-    {
-      "id": "ollama/windows-0.22.1-0.23.0",
-      "title": "Ollama 0.22.1 \u2192 0.23.0 (Windows)",
-      "event_type": "update",
-      "app": "Ollama",
-      "platform": "windows",
-      "version_from": "0.22.1",
-      "version_to": "0.23.0",
-      "timestamp": "2026-05-04T15:45:52+00:00",
-      "download_url": "https://github.com/ollama/ollama/releases/download/v0.23.0/OllamaSetup.exe"
-    },
-    {
-      "id": "cursor/windows-3.2.16-3.2.21",
-      "title": "Cursor 3.2.16 \u2192 3.2.21 (Windows)",
-      "event_type": "update",
-      "app": "Cursor",
-      "platform": "windows",
-      "version_from": "3.2.16",
-      "version_to": "3.2.21",
-      "timestamp": "2026-05-04T15:45:52+00:00",
-      "download_url": "https://downloads.cursor.com/production/806df57ed3b6f1ee0175140d38039a38574ec722/win32/x64/system-setup/CursorSetup-x64-3.2.21.exe"
     }
   ]
 }
