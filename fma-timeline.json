@@ -1,9 +1,152 @@
 {
-  "generated": "2026-05-30T00:57:28Z",
+  "generated": "2026-05-30T07:08:56Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "rustdesk/darwin--1.4.6",
+      "title": "New App: RustDesk 1.4.6 (Mac)",
+      "event_type": "added",
+      "app": "RustDesk",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "1.4.6",
+      "timestamp": "2026-05-30T05:22:18+00:00",
+      "download_url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-aarch64.dmg"
+    },
+    {
+      "id": "bitwarden/windows-2026.4.0-2026.5.0",
+      "title": "Bitwarden 2026.4.0 \u2192 2026.5.0 (Windows)",
+      "event_type": "update",
+      "app": "Bitwarden",
+      "platform": "windows",
+      "version_from": "2026.4.0",
+      "version_to": "2026.5.0",
+      "timestamp": "2026-05-30T03:13:04+00:00",
+      "download_url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.5.0/Bitwarden-Installer-2026.5.0.exe"
+    },
+    {
+      "id": "cycling74-max/darwin--9.1.4",
+      "title": "New App: Max 9.1.4 (Mac)",
+      "event_type": "added",
+      "app": "Max",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "9.1.4",
+      "timestamp": "2026-05-30T03:13:04+00:00",
+      "download_url": "https://downloads.cdn.cycling74.com/max9/Max914_260407.dmg"
+    },
+    {
+      "id": "another-redis-desktop-manager/windows--1.7.1",
+      "title": "New App: Another Redis Desktop Manager 1.7.1 (Windows)",
+      "event_type": "added",
+      "app": "Another Redis Desktop Manager",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "1.7.1",
+      "timestamp": "2026-05-30T03:13:04+00:00",
+      "download_url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-win-1.7.1-x64.exe"
+    },
+    {
+      "id": "another-redis-desktop-manager/darwin--1.7.1",
+      "title": "New App: Another Redis Desktop Manager 1.7.1 (Mac)",
+      "event_type": "added",
+      "app": "Another Redis Desktop Manager",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "1.7.1",
+      "timestamp": "2026-05-30T03:13:04+00:00",
+      "download_url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-mac-1.7.1-arm64.dmg"
+    },
+    {
+      "id": "cursor/darwin-3.5.38-3.6.21",
+      "title": "Cursor 3.5.38 \u2192 3.6.21 (Mac)",
+      "event_type": "update",
+      "app": "Cursor",
+      "platform": "mac",
+      "version_from": "3.5.38",
+      "version_to": "3.6.21",
+      "timestamp": "2026-05-30T01:42:56+00:00",
+      "download_url": "https://downloads.cursor.com/production/e7a7e93f4d75f8272503ecf33cedbaae10114a15/darwin/arm64/Cursor-darwin-arm64.zip"
+    },
+    {
+      "id": "microsoft-teams/darwin-26106.2113.4690.1073-26120.3106.4725.800",
+      "title": "Microsoft Teams 26106.2113.4690.1073 \u2192 26120.3106.4725.800 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft Teams",
+      "platform": "mac",
+      "version_from": "26106.2113.4690.1073",
+      "version_to": "26120.3106.4725.800",
+      "timestamp": "2026-05-30T01:42:56+00:00",
+      "download_url": "https://statics.teams.cdn.office.net/production-osx/26120.3106.4725.800/MicrosoftTeams.pkg"
+    },
+    {
+      "id": "keka/darwin-1.6.4-1.6.5",
+      "title": "Keka 1.6.4 \u2192 1.6.5 (Mac)",
+      "event_type": "update",
+      "app": "Keka",
+      "platform": "mac",
+      "version_from": "1.6.4",
+      "version_to": "1.6.5",
+      "timestamp": "2026-05-30T01:42:56+00:00",
+      "download_url": "https://github.com/aonez/Keka/releases/download/v1.6.5/Keka-1.6.5.dmg"
+    },
+    {
+      "id": "cryptomator/windows--1.19.2",
+      "title": "New App: Cryptomator 1.19.2 (Windows)",
+      "event_type": "added",
+      "app": "Cryptomator",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "1.19.2",
+      "timestamp": "2026-05-30T01:42:56+00:00",
+      "download_url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.2/Cryptomator-1.19.2-x64.msi"
+    },
+    {
+      "id": "aws-cli/windows-2.34.56-2.34.57",
+      "title": "AWS Command Line Interface v2 2.34.56 \u2192 2.34.57 (Windows)",
+      "event_type": "update",
+      "app": "AWS Command Line Interface v2",
+      "platform": "windows",
+      "version_from": "2.34.56",
+      "version_to": "2.34.57",
+      "timestamp": "2026-05-30T01:42:56+00:00",
+      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.34.57.msi"
+    },
+    {
+      "id": "chatgpt-atlas/darwin-1.2026.119.1-1.2026.126.0",
+      "title": "ChatGPT Atlas 1.2026.119.1 \u2192 1.2026.126.0 (Mac)",
+      "event_type": "update",
+      "app": "ChatGPT Atlas",
+      "platform": "mac",
+      "version_from": "1.2026.119.1",
+      "version_to": "1.2026.126.0",
+      "timestamp": "2026-05-30T01:42:56+00:00",
+      "download_url": "https://persistent.oaistatic.com/atlas/public/ChatGPT_Atlas_Desktop_public_1.2026.126.0_20260529183006000.dmg"
+    },
+    {
+      "id": "android-studio/windows--2025.3.4.7",
+      "title": "New App: Android Studio 2025.3.4.7 (Windows)",
+      "event_type": "added",
+      "app": "Android Studio",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "2025.3.4.7",
+      "timestamp": "2026-05-30T01:42:56+00:00",
+      "download_url": "https://edgedl.me.gvt1.com/android/studio/install/2025.3.4.7/android-studio-panda4-patch1-windows.exe"
+    },
+    {
+      "id": "cryptomator/darwin--1.19.2",
+      "title": "New App: Cryptomator 1.19.2 (Mac)",
+      "event_type": "added",
+      "app": "Cryptomator",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "1.19.2",
+      "timestamp": "2026-05-30T01:42:56+00:00",
+      "download_url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.2/Cryptomator-1.19.2-arm64.dmg"
+    },
     {
       "id": "todoist-app/windows-9.27.1-9.28.0",
       "title": "Todoist 9.27.1 \u2192 9.28.0 (Windows)",
@@ -5274,6 +5417,17 @@
       "download_url": "https://downloads.cursor.com/production/80b138a7a0a948e1a798e9ed7867d76a1ba9a318/win32/x64/system-setup/CursorSetup-x64-3.3.27.exe"
     },
     {
+      "id": "raycast/darwin-1.104.15-1.104.16",
+      "title": "Raycast 1.104.15 \u2192 1.104.16 (Mac)",
+      "event_type": "update",
+      "app": "Raycast",
+      "platform": "mac",
+      "version_from": "1.104.15",
+      "version_to": "1.104.16",
+      "timestamp": "2026-05-08T21:26:27+00:00",
+      "download_url": "https://releases.raycast.com/releases/1.104.16/download?build=arm"
+    },
+    {
       "id": "clickup/darwin-3.5.185-3.5.208",
       "title": "ClickUp 3.5.185 \u2192 3.5.208 (Mac)",
       "event_type": "update",
@@ -5329,17 +5483,6 @@
       "download_url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/150.0.2/win64/en-US/Thunderbird%20Setup%20150.0.2.exe"
     },
     {
-      "id": "raycast/darwin-1.104.15-1.104.16",
-      "title": "Raycast 1.104.15 \u2192 1.104.16 (Mac)",
-      "event_type": "update",
-      "app": "Raycast",
-      "platform": "mac",
-      "version_from": "1.104.15",
-      "version_to": "1.104.16",
-      "timestamp": "2026-05-08T21:26:27+00:00",
-      "download_url": "https://releases.raycast.com/releases/1.104.16/download?build=arm"
-    },
-    {
       "id": "postman/windows-12.9.4-12.9.7",
       "title": "Postman 12.9.4 \u2192 12.9.7 (Windows)",
       "event_type": "update",
@@ -5360,149 +5503,6 @@
       "version_to": "7.162.6",
       "timestamp": "2026-05-08T15:38:33+00:00",
       "download_url": "https://dr2v7l5emb758.cloudfront.net/7.162.6/Granola-7.162.6-mac-universal.dmg"
-    },
-    {
-      "id": "cursor/darwin-3.3.22-3.3.27",
-      "title": "Cursor 3.3.22 \u2192 3.3.27 (Mac)",
-      "event_type": "update",
-      "app": "Cursor",
-      "platform": "mac",
-      "version_from": "3.3.22",
-      "version_to": "3.3.27",
-      "timestamp": "2026-05-08T14:40:56+00:00",
-      "download_url": "https://downloads.cursor.com/production/80b138a7a0a948e1a798e9ed7867d76a1ba9a318/darwin/arm64/Cursor-darwin-arm64.zip"
-    },
-    {
-      "id": "ollama/darwin-0.23.1-0.23.2",
-      "title": "Ollama 0.23.1 \u2192 0.23.2 (Mac)",
-      "event_type": "update",
-      "app": "Ollama",
-      "platform": "mac",
-      "version_from": "0.23.1",
-      "version_to": "0.23.2",
-      "timestamp": "2026-05-08T14:40:56+00:00",
-      "download_url": "https://github.com/ollama/ollama/releases/download/v0.23.2/Ollama-darwin.zip"
-    },
-    {
-      "id": "firefox/windows-150.0.1-150.0.2",
-      "title": "Mozilla Firefox 150.0.1 \u2192 150.0.2 (Windows)",
-      "event_type": "update",
-      "app": "Mozilla Firefox",
-      "platform": "windows",
-      "version_from": "150.0.1",
-      "version_to": "150.0.2",
-      "timestamp": "2026-05-08T14:40:56+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/150.0.2/win64/en-US/Firefox%20Setup%20150.0.2.exe"
-    },
-    {
-      "id": "google-drive/darwin-124.0-125.0",
-      "title": "Google Drive 124.0 \u2192 125.0 (Mac)",
-      "event_type": "update",
-      "app": "Google Drive",
-      "platform": "mac",
-      "version_from": "124.0",
-      "version_to": "125.0",
-      "timestamp": "2026-05-08T14:40:56+00:00",
-      "download_url": "https://dl.google.com/drive-file-stream/5-percent/GoogleDrive.dmg"
-    },
-    {
-      "id": "postman/darwin-12.9.3-12.9.7",
-      "title": "Postman 12.9.3 \u2192 12.9.7 (Mac)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "mac",
-      "version_from": "12.9.3",
-      "version_to": "12.9.7",
-      "timestamp": "2026-05-08T14:40:56+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.9.7/osx_arm64"
-    },
-    {
-      "id": "dialpad/darwin-2604.0.0-2605.0.2",
-      "title": "Dialpad 2604.0.0 \u2192 2605.0.2 (Mac)",
-      "event_type": "update",
-      "app": "Dialpad",
-      "platform": "mac",
-      "version_from": "2604.0.0",
-      "version_to": "2605.0.2",
-      "timestamp": "2026-05-08T03:10:51+00:00",
-      "download_url": "https://download.dialpad.com/osx/arm64/dialpad.pkg"
-    },
-    {
-      "id": "tor-browser/darwin-15.0.12-15.0.13",
-      "title": "Tor Browser 15.0.12 \u2192 15.0.13 (Mac)",
-      "event_type": "update",
-      "app": "Tor Browser",
-      "platform": "mac",
-      "version_from": "15.0.12",
-      "version_to": "15.0.13",
-      "timestamp": "2026-05-08T03:10:51+00:00",
-      "download_url": "https://www.torproject.org/dist/torbrowser/15.0.13/tor-browser-macos-15.0.13.dmg"
-    },
-    {
-      "id": "claude/darwin-1.6259.1-1.6608.0",
-      "title": "Claude 1.6259.1 \u2192 1.6608.0 (Mac)",
-      "event_type": "update",
-      "app": "Claude",
-      "platform": "mac",
-      "version_from": "1.6259.1",
-      "version_to": "1.6608.0",
-      "timestamp": "2026-05-08T03:10:51+00:00",
-      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.6608.0/Claude-f65729daa9bbf1994963463204a556d0431e6054.zip"
-    },
-    {
-      "id": "microsoft-edge/darwin-147.0.3912.98-148.0.3967.54",
-      "title": "Microsoft Edge 147.0.3912.98 \u2192 148.0.3967.54 (Mac)",
-      "event_type": "update",
-      "app": "Microsoft Edge",
-      "platform": "mac",
-      "version_from": "147.0.3912.98",
-      "version_to": "148.0.3967.54",
-      "timestamp": "2026-05-07T21:24:46+00:00",
-      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cdfa4ae5-32af-4de8-911f-737254ab5e1a/MicrosoftEdge-148.0.3967.54.dmg"
-    },
-    {
-      "id": "firefox/darwin-150.0.1-150.0.2",
-      "title": "Mozilla Firefox 150.0.1 \u2192 150.0.2 (Mac)",
-      "event_type": "update",
-      "app": "Mozilla Firefox",
-      "platform": "mac",
-      "version_from": "150.0.1",
-      "version_to": "150.0.2",
-      "timestamp": "2026-05-07T19:36:21+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/150.0.2/mac/en-US/Firefox%20150.0.2.dmg"
-    },
-    {
-      "id": "firefox@esr/darwin-140.10.1-140.10.2",
-      "title": "Mozilla Firefox ESR 140.10.1 \u2192 140.10.2 (Mac)",
-      "event_type": "update",
-      "app": "Mozilla Firefox ESR",
-      "platform": "mac",
-      "version_from": "140.10.1",
-      "version_to": "140.10.2",
-      "timestamp": "2026-05-07T19:36:21+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.10.2esr/mac/en-US/Firefox%20140.10.2esr.dmg"
-    },
-    {
-      "id": "arc/darwin-1.145.0-1.146.0",
-      "title": "Arc 1.145.0 \u2192 1.146.0 (Mac)",
-      "event_type": "update",
-      "app": "Arc",
-      "platform": "mac",
-      "version_from": "1.145.0",
-      "version_to": "1.146.0",
-      "timestamp": "2026-05-07T19:36:21+00:00",
-      "download_url": "https://releases.arc.net/release/Arc-1.146.0-80402.zip"
-    },
-    {
-      "id": "brave-browser/darwin-147.1.89.145-148.1.90.121",
-      "title": "Brave 147.1.89.145 \u2192 148.1.90.121 (Mac)",
-      "event_type": "update",
-      "app": "Brave",
-      "platform": "mac",
-      "version_from": "147.1.89.145",
-      "version_to": "148.1.90.121",
-      "timestamp": "2026-05-07T19:36:21+00:00",
-      "download_url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable-arm64/190.121/Brave-Browser-arm64.dmg"
     }
   ]
 }
