@@ -1,9 +1,64 @@
 {
-  "generated": "2026-06-02T01:04:56Z",
+  "generated": "2026-06-02T07:48:39Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "genesys-cloud/darwin-2.49.25-2.50.28",
+      "title": "Genesys Cloud 2.49.25 \u2192 2.50.28 (Mac)",
+      "event_type": "update",
+      "app": "Genesys Cloud",
+      "platform": "mac",
+      "version_from": "2.49.25",
+      "version_to": "2.50.28",
+      "timestamp": "2026-06-02T03:18:21+00:00",
+      "download_url": "https://app.mypurecloud.com/directory-mac/build-assets/2.50.28-181/genesys-cloud-mac-2.50.28.dmg"
+    },
+    {
+      "id": "notion/darwin-7.19.0-7.20.0",
+      "title": "Notion 7.19.0 \u2192 7.20.0 (Mac)",
+      "event_type": "update",
+      "app": "Notion",
+      "platform": "mac",
+      "version_from": "7.19.0",
+      "version_to": "7.20.0",
+      "timestamp": "2026-06-02T03:18:21+00:00",
+      "download_url": "https://desktop-release.notion-static.com/Notion-7.20.0-arm64.dmg"
+    },
+    {
+      "id": "github/darwin-3.5.11-3.5.12",
+      "title": "GitHub Desktop 3.5.11 \u2192 3.5.12 (Mac)",
+      "event_type": "update",
+      "app": "GitHub Desktop",
+      "platform": "mac",
+      "version_from": "3.5.11",
+      "version_to": "3.5.12",
+      "timestamp": "2026-06-02T03:18:21+00:00",
+      "download_url": "https://desktop.githubusercontent.com/releases/3.5.12-c6aad713/GitHubDesktop-arm64.zip"
+    },
+    {
+      "id": "chatgpt/darwin-1.2026.118-1.2026.119",
+      "title": "ChatGPT Desktop 1.2026.118 \u2192 1.2026.119 (Mac)",
+      "event_type": "update",
+      "app": "ChatGPT Desktop",
+      "platform": "mac",
+      "version_from": "1.2026.118",
+      "version_to": "1.2026.119",
+      "timestamp": "2026-06-02T03:18:21+00:00",
+      "download_url": "https://persistent.oaistatic.com/sidekick/public/ChatGPT_Desktop_public_1.2026.119_1780053722.dmg"
+    },
+    {
+      "id": "tailscale-app/darwin-1.98.2-1.98.5",
+      "title": "Tailscale 1.98.2 \u2192 1.98.5 (Mac)",
+      "event_type": "update",
+      "app": "Tailscale",
+      "platform": "mac",
+      "version_from": "1.98.2",
+      "version_to": "1.98.5",
+      "timestamp": "2026-06-02T03:18:21+00:00",
+      "download_url": "https://pkgs.tailscale.com/stable/Tailscale-1.98.5-macos.pkg"
+    },
     {
       "id": "loom/darwin-0.351.1-0.351.2",
       "title": "Loom 0.351.1 \u2192 0.351.2 (Mac)",
@@ -5439,70 +5494,15 @@
       "download_url": "https://downloads.claude.ai/releases/win32/x64/1.6608.1/Claude-f156d01489166df990fe362e0a219bf5099a1857.msix"
     },
     {
-      "id": "zen/darwin-1.19.11b-1.19.12b",
-      "title": "Zen Browser 1.19.11b \u2192 1.19.12b (Mac)",
+      "id": "signal/darwin-8.9.0-8.9.1",
+      "title": "Signal 8.9.0 \u2192 8.9.1 (Mac)",
       "event_type": "update",
-      "app": "Zen Browser",
+      "app": "Signal",
       "platform": "mac",
-      "version_from": "1.19.11b",
-      "version_to": "1.19.12b",
+      "version_from": "8.9.0",
+      "version_to": "8.9.1",
       "timestamp": "2026-05-09T12:25:59+00:00",
-      "download_url": "https://github.com/zen-browser/desktop/releases/download/1.19.12b/zen.macos-universal.dmg"
-    },
-    {
-      "id": "zotero/windows-9.0.2-9.0.3",
-      "title": "Zotero 9.0.2 \u2192 9.0.3 (Windows)",
-      "event_type": "update",
-      "app": "Zotero",
-      "platform": "windows",
-      "version_from": "9.0.2",
-      "version_to": "9.0.3",
-      "timestamp": "2026-05-09T12:25:59+00:00",
-      "download_url": "https://download.zotero.org/client/release/9.0.3/Zotero-9.0.3_x64_setup.exe"
-    },
-    {
-      "id": "claude/darwin-1.6608.0-1.6608.2",
-      "title": "Claude 1.6608.0 \u2192 1.6608.2 (Mac)",
-      "event_type": "update",
-      "app": "Claude",
-      "platform": "mac",
-      "version_from": "1.6608.0",
-      "version_to": "1.6608.2",
-      "timestamp": "2026-05-09T12:25:59+00:00",
-      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.6608.2/Claude-ebf1a166e82541b54229aa620d117c60923a939a.zip"
-    },
-    {
-      "id": "microsoft-edge/windows-147.0.3912.98-148.0.3967.54",
-      "title": "Microsoft Edge 147.0.3912.98 \u2192 148.0.3967.54 (Windows)",
-      "event_type": "update",
-      "app": "Microsoft Edge",
-      "platform": "windows",
-      "version_from": "147.0.3912.98",
-      "version_to": "148.0.3967.54",
-      "timestamp": "2026-05-09T12:25:59+00:00",
-      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c94fae2-b0f4-4415-bb95-dae4c4c7189d/MicrosoftEdgeEnterpriseX64.msi"
-    },
-    {
-      "id": "firefox@esr/windows-140.10.1-140.10.2",
-      "title": "Mozilla Firefox ESR 140.10.1 \u2192 140.10.2 (Windows)",
-      "event_type": "update",
-      "app": "Mozilla Firefox ESR",
-      "platform": "windows",
-      "version_from": "140.10.1",
-      "version_to": "140.10.2",
-      "timestamp": "2026-05-09T12:25:59+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.10.2esr/win64/en-US/Firefox%20Setup%20140.10.2esr.exe"
-    },
-    {
-      "id": "spotify/windows-1.2.88.483.g8aa8628e-1.2.89.539.gfb3c63a3",
-      "title": "Spotify 1.2.88.483.g8aa8628e \u2192 1.2.89.539.gfb3c63a3 (Windows)",
-      "event_type": "update",
-      "app": "Spotify",
-      "platform": "windows",
-      "version_from": "1.2.88.483.g8aa8628e",
-      "version_to": "1.2.89.539.gfb3c63a3",
-      "timestamp": "2026-05-09T12:25:59+00:00",
-      "download_url": "https://download.scdn.co/SpotifyFullSetupX64.exe"
+      "download_url": "https://updates.signal.org/desktop/signal-desktop-mac-arm64-8.9.1.zip"
     }
   ]
 }
