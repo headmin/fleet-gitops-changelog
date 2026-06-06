@@ -1,9 +1,86 @@
 {
-  "generated": "2026-06-06T00:58:53Z",
+  "generated": "2026-06-06T07:12:34Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "ollama/windows-0.30.4-0.30.6",
+      "title": "Ollama 0.30.4 \u2192 0.30.6 (Windows)",
+      "event_type": "update",
+      "app": "Ollama",
+      "platform": "windows",
+      "version_from": "0.30.4",
+      "version_to": "0.30.6",
+      "timestamp": "2026-06-06T03:13:19+00:00",
+      "download_url": "https://github.com/ollama/ollama/releases/download/v0.30.6/OllamaSetup.exe"
+    },
+    {
+      "id": "claude/windows-1.11187.1-1.11187.4",
+      "title": "Claude 1.11187.1 \u2192 1.11187.4 (Windows)",
+      "event_type": "update",
+      "app": "Claude",
+      "platform": "windows",
+      "version_from": "1.11187.1",
+      "version_to": "1.11187.4",
+      "timestamp": "2026-06-06T03:13:19+00:00",
+      "download_url": "https://downloads.claude.ai/releases/win32/x64/1.11187.4/Claude-58400536f3ccde1cff9a129de6c3112dc8cb489a.msix"
+    },
+    {
+      "id": "ollama/darwin-0.30.5-0.30.6",
+      "title": "Ollama 0.30.5 \u2192 0.30.6 (Mac)",
+      "event_type": "update",
+      "app": "Ollama",
+      "platform": "mac",
+      "version_from": "0.30.5",
+      "version_to": "0.30.6",
+      "timestamp": "2026-06-06T01:46:08+00:00",
+      "download_url": "https://github.com/ollama/ollama/releases/download/v0.30.6/Ollama-darwin.zip"
+    },
+    {
+      "id": "fork/windows-2.19.0-2.20.0",
+      "title": "Fork 2.19.0 \u2192 2.20.0 (Windows)",
+      "event_type": "update",
+      "app": "Fork",
+      "platform": "windows",
+      "version_from": "2.19.0",
+      "version_to": "2.20.0",
+      "timestamp": "2026-06-06T01:46:08+00:00",
+      "download_url": "https://cdn.fork.dev/win/Fork-2.20.0.exe"
+    },
+    {
+      "id": "cursor/darwin-3.6.31-3.7.12",
+      "title": "Cursor 3.6.31 \u2192 3.7.12 (Mac)",
+      "event_type": "update",
+      "app": "Cursor",
+      "platform": "mac",
+      "version_from": "3.6.31",
+      "version_to": "3.7.12",
+      "timestamp": "2026-06-06T01:46:08+00:00",
+      "download_url": "https://downloads.cursor.com/production/b887a26c4f70bd8136bfffeda812b24194ec9ce0/darwin/arm64/Cursor-darwin-arm64.zip"
+    },
+    {
+      "id": "figma/darwin-126.4.12-126.4.13",
+      "title": "Figma 126.4.12 \u2192 126.4.13 (Mac)",
+      "event_type": "update",
+      "app": "Figma",
+      "platform": "mac",
+      "version_from": "126.4.12",
+      "version_to": "126.4.13",
+      "timestamp": "2026-06-06T01:46:08+00:00",
+      "download_url": "https://desktop.figma.com/mac-arm/Figma-126.4.13.zip"
+    },
+    {
+      "id": "claude/darwin-1.11187.2-1.11187.4",
+      "title": "Claude 1.11187.2 \u2192 1.11187.4 (Mac)",
+      "event_type": "update",
+      "app": "Claude",
+      "platform": "mac",
+      "version_from": "1.11187.2",
+      "version_to": "1.11187.4",
+      "timestamp": "2026-06-06T01:46:08+00:00",
+      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.11187.4/Claude-58400536f3ccde1cff9a129de6c3112dc8cb489a.zip"
+    },
     {
       "id": "powershell/windows--7.6.2.0",
       "title": "New App: PowerShell 7.6.2.0 (Windows)",
@@ -5329,6 +5406,17 @@
       "download_url": "https://github.com/nextcloud-releases/desktop/releases/download/v33.0.5/Nextcloud-33.0.5.pkg"
     },
     {
+      "id": "postman/darwin-12.11.0-12.11.2",
+      "title": "Postman 12.11.0 \u2192 12.11.2 (Mac)",
+      "event_type": "update",
+      "app": "Postman",
+      "platform": "mac",
+      "version_from": "12.11.0",
+      "version_to": "12.11.2",
+      "timestamp": "2026-05-19T15:11:13+00:00",
+      "download_url": "https://dl.pstmn.io/download/version/12.11.2/osx_arm64"
+    },
+    {
       "id": "blender/windows-5.1.1-5.1.2",
       "title": "Blender 5.1.1 \u2192 5.1.2 (Windows)",
       "event_type": "update",
@@ -5362,72 +5450,6 @@
       "download_url": "https://releases.warp.dev/stable/v0.2026.05.18.05.32.stable_02/Warp.dmg"
     },
     {
-      "id": "postman/darwin-12.11.0-12.11.2",
-      "title": "Postman 12.11.0 \u2192 12.11.2 (Mac)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "mac",
-      "version_from": "12.11.0",
-      "version_to": "12.11.2",
-      "timestamp": "2026-05-19T15:11:13+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.11.2/osx_arm64"
-    },
-    {
-      "id": "clion/darwin-2026.1.1-2026.1.2",
-      "title": "CLion 2026.1.1 \u2192 2026.1.2 (Mac)",
-      "event_type": "update",
-      "app": "CLion",
-      "platform": "mac",
-      "version_from": "2026.1.1",
-      "version_to": "2026.1.2",
-      "timestamp": "2026-05-19T01:45:56+00:00",
-      "download_url": "https://download.jetbrains.com/cpp/CLion-2026.1.2-aarch64.dmg"
-    },
-    {
-      "id": "discord/darwin-0.0.390-0.0.391",
-      "title": "Discord 0.0.390 \u2192 0.0.391 (Mac)",
-      "event_type": "update",
-      "app": "Discord",
-      "platform": "mac",
-      "version_from": "0.0.390",
-      "version_to": "0.0.391",
-      "timestamp": "2026-05-19T01:45:56+00:00",
-      "download_url": "https://dl.discordapp.net/apps/osx/0.0.391/Discord.dmg"
-    },
-    {
-      "id": "elgato-stream-deck/darwin-7.4.1-7.4.2",
-      "title": "Elgato Stream Deck 7.4.1 \u2192 7.4.2 (Mac)",
-      "event_type": "update",
-      "app": "Elgato Stream Deck",
-      "platform": "mac",
-      "version_from": "7.4.1",
-      "version_to": "7.4.2",
-      "timestamp": "2026-05-19T01:45:56+00:00",
-      "download_url": "https://edge.elgato.com/egc/macos/sd/Stream_Deck_7.4.2.22730.pkg"
-    },
-    {
-      "id": "claude/darwin-1.7196.1-1.7196.3",
-      "title": "Claude 1.7196.1 \u2192 1.7196.3 (Mac)",
-      "event_type": "update",
-      "app": "Claude",
-      "platform": "mac",
-      "version_from": "1.7196.1",
-      "version_to": "1.7196.3",
-      "timestamp": "2026-05-19T01:45:56+00:00",
-      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.7196.3/Claude-ca0c62bc1d73c3f4d2f37816bd25565587fb4443.zip"
-    },
-    {
-      "id": "drawio/darwin-30.0.1-30.0.2",
-      "title": "draw.io 30.0.1 \u2192 30.0.2 (Mac)",
-      "event_type": "update",
-      "app": "draw.io",
-      "platform": "mac",
-      "version_from": "30.0.1",
-      "version_to": "30.0.2",
-      "timestamp": "2026-05-19T01:45:56+00:00",
-      "download_url": "https://github.com/jgraph/drawio-desktop/releases/download/v30.0.2/draw.io-arm64-30.0.2.dmg"
-    },
-    {
       "id": "microsoft-teams/darwin-26106.2108.4669.9776-26106.2113.4690.1073",
       "title": "Microsoft Teams 26106.2108.4669.9776 \u2192 26106.2113.4690.1073 (Mac)",
       "event_type": "update",
@@ -5437,28 +5459,6 @@
       "version_to": "26106.2113.4690.1073",
       "timestamp": "2026-05-19T01:45:56+00:00",
       "download_url": "https://statics.teams.cdn.office.net/production-osx/26106.2113.4690.1073/MicrosoftTeams.pkg"
-    },
-    {
-      "id": "discord/windows-1.0.9237-1.0.9238",
-      "title": "Discord 1.0.9237 \u2192 1.0.9238 (Windows)",
-      "event_type": "update",
-      "app": "Discord",
-      "platform": "windows",
-      "version_from": "1.0.9237",
-      "version_to": "1.0.9238",
-      "timestamp": "2026-05-19T01:45:56+00:00",
-      "download_url": "https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9238/DiscordSetup.exe"
-    },
-    {
-      "id": "zoom/darwin-7.0.0.77593-7.0.5.81138",
-      "title": "Zoom 7.0.0.77593 \u2192 7.0.5.81138 (Mac)",
-      "event_type": "update",
-      "app": "Zoom",
-      "platform": "mac",
-      "version_from": "7.0.0.77593",
-      "version_to": "7.0.5.81138",
-      "timestamp": "2026-05-19T01:45:56+00:00",
-      "download_url": "https://zoom.us/client/latest/ZoomInstallerIT.pkg"
     },
     {
       "id": "rustrover/darwin-2026.1.1-2026.1.2",
@@ -5472,6 +5472,28 @@
       "download_url": "https://download.jetbrains.com/rustrover/RustRover-2026.1.2-aarch64.dmg"
     },
     {
+      "id": "zoom/darwin-7.0.0.77593-7.0.5.81138",
+      "title": "Zoom 7.0.0.77593 \u2192 7.0.5.81138 (Mac)",
+      "event_type": "update",
+      "app": "Zoom",
+      "platform": "mac",
+      "version_from": "7.0.0.77593",
+      "version_to": "7.0.5.81138",
+      "timestamp": "2026-05-19T01:45:56+00:00",
+      "download_url": "https://zoom.us/client/latest/ZoomInstallerIT.pkg"
+    },
+    {
+      "id": "discord/windows-1.0.9237-1.0.9238",
+      "title": "Discord 1.0.9237 \u2192 1.0.9238 (Windows)",
+      "event_type": "update",
+      "app": "Discord",
+      "platform": "windows",
+      "version_from": "1.0.9237",
+      "version_to": "1.0.9238",
+      "timestamp": "2026-05-19T01:45:56+00:00",
+      "download_url": "https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9238/DiscordSetup.exe"
+    },
+    {
       "id": "claude/windows-1.7196.1-1.7196.3",
       "title": "Claude 1.7196.1 \u2192 1.7196.3 (Windows)",
       "event_type": "update",
@@ -5481,28 +5503,6 @@
       "version_to": "1.7196.3",
       "timestamp": "2026-05-19T01:45:56+00:00",
       "download_url": "https://downloads.claude.ai/releases/win32/x64/1.7196.3/Claude-ca0c62bc1d73c3f4d2f37816bd25565587fb4443.msix"
-    },
-    {
-      "id": "zoom/windows-7.0.34412-7.0.38856",
-      "title": "Zoom 7.0.34412 \u2192 7.0.38856 (Windows)",
-      "event_type": "update",
-      "app": "Zoom",
-      "platform": "windows",
-      "version_from": "7.0.34412",
-      "version_to": "7.0.38856",
-      "timestamp": "2026-05-19T01:45:56+00:00",
-      "download_url": "https://zoom.us/client/7.0.5.38856/ZoomInstallerFull.msi?archType=x64"
-    },
-    {
-      "id": "postman/darwin-12.10.6-12.11.0",
-      "title": "Postman 12.10.6 \u2192 12.11.0 (Mac)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "mac",
-      "version_from": "12.10.6",
-      "version_to": "12.11.0",
-      "timestamp": "2026-05-18T15:10:19+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.11.0/osx_arm64"
     }
   ]
 }
