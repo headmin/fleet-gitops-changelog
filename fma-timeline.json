@@ -1,9 +1,31 @@
 {
-  "generated": "2026-06-07T18:34:38Z",
+  "generated": "2026-06-08T01:05:41Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "postgresql-18/windows--18.4-1",
+      "title": "New App: PostgreSQL 18 18.4-1 (Windows)",
+      "event_type": "added",
+      "app": "PostgreSQL 18",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "18.4-1",
+      "timestamp": "2026-06-07T23:28:40+00:00",
+      "download_url": "https://get.enterprisedb.com/postgresql/postgresql-18.4-1-windows-x64.exe"
+    },
+    {
+      "id": "claude-devtools/darwin--0.5.0",
+      "title": "New App: Claude DevTools 0.5.0 (Mac)",
+      "event_type": "added",
+      "app": "Claude DevTools",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "0.5.0",
+      "timestamp": "2026-06-07T18:33:58+00:00",
+      "download_url": "https://github.com/matt1398/claude-devtools/releases/download/v0.5.0/claude-devtools-0.5.0-arm64.dmg"
+    },
     {
       "id": "affinity/darwin--3.2.1",
       "title": "New App: Affinity 3.2.1 (Mac)",
@@ -5461,28 +5483,6 @@
       "download_url": "https://downloads.cursor.com/production/d5b2fc092e16007956c9e5047f76097b9e626cab/win32/x64/system-setup/CursorSetup-x64-3.5.17.exe"
     },
     {
-      "id": "raycast/darwin-1.104.17-1.104.18",
-      "title": "Raycast 1.104.17 \u2192 1.104.18 (Mac)",
-      "event_type": "update",
-      "app": "Raycast",
-      "platform": "mac",
-      "version_from": "1.104.17",
-      "version_to": "1.104.18",
-      "timestamp": "2026-05-20T18:54:02+00:00",
-      "download_url": "https://releases.raycast.com/releases/1.104.18/download?build=arm"
-    },
-    {
-      "id": "grammarly-desktop/darwin-1.165.1-1.166.1",
-      "title": "Grammarly Desktop 1.165.1 \u2192 1.166.1 (Mac)",
-      "event_type": "update",
-      "app": "Grammarly Desktop",
-      "platform": "mac",
-      "version_from": "1.165.1",
-      "version_to": "1.166.1",
-      "timestamp": "2026-05-20T18:54:02+00:00",
-      "download_url": "https://download-mac.grammarly.com/versions/1.166.1.0/Grammarly.dmg"
-    },
-    {
       "id": "arc/darwin-1.147.0-1.147.1",
       "title": "Arc 1.147.0 \u2192 1.147.1 (Mac)",
       "event_type": "update",
@@ -5494,15 +5494,15 @@
       "download_url": "https://releases.arc.net/release/Arc-1.147.1-81091.zip"
     },
     {
-      "id": "whatsapp/darwin-26.19.17-26.20.20",
-      "title": "WhatsApp 26.19.17 \u2192 26.20.20 (Mac)",
+      "id": "raycast/darwin-1.104.17-1.104.18",
+      "title": "Raycast 1.104.17 \u2192 1.104.18 (Mac)",
       "event_type": "update",
-      "app": "WhatsApp",
+      "app": "Raycast",
       "platform": "mac",
-      "version_from": "26.19.17",
-      "version_to": "26.20.20",
+      "version_from": "1.104.17",
+      "version_to": "1.104.18",
       "timestamp": "2026-05-20T18:54:02+00:00",
-      "download_url": "https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release&amp;src=whatsapp_downloads_page"
+      "download_url": "https://releases.raycast.com/releases/1.104.18/download?build=arm"
     }
   ]
 }
