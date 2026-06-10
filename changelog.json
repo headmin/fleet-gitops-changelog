@@ -1,5 +1,15 @@
 [
   {
+    "sha": "7979b684b34477959dd5dad522f30a5fa2eb1459",
+    "short_sha": "7979b684b3",
+    "author": "Allen Houchins",
+    "message": "Update battery-health-check.yml (#47307)",
+    "timestamp": "2026-06-10T09:36:28-05:00",
+    "files": [
+      "it-and-security/lib/macos/policies/battery-health-check.yml"
+    ]
+  },
+  {
     "sha": "dd93e8f8065ae02d6e7b9fd2cf65788ac1e47d03",
     "short_sha": "dd93e8f806",
     "author": "Harrison Ravazzolo",
