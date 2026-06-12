@@ -1,5 +1,16 @@
 [
   {
+    "sha": "5f14fb0d906991d4a220eb9aec985ad4005d191a",
+    "short_sha": "5f14fb0d90",
+    "author": "Allen Houchins",
+    "message": "Enable macOS EndpointSecurity and FDE profile (#47448)",
+    "timestamp": "2026-06-11T21:04:22-05:00",
+    "files": [
+      "it-and-security/fleets/testing-and-qa.yml",
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
     "sha": "7979b684b34477959dd5dad522f30a5fa2eb1459",
     "short_sha": "7979b684b3",
     "author": "Allen Houchins",
