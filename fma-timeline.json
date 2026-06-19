@@ -1,9 +1,262 @@
 {
-  "generated": "2026-06-18T18:54:55Z",
+  "generated": "2026-06-19T01:12:31Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "vivaldi/windows--8.0.4033.46",
+      "title": "New App: Vivaldi 8.0.4033.46 (Windows)",
+      "event_type": "added",
+      "app": "Vivaldi",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "8.0.4033.46",
+      "timestamp": "2026-06-18T20:58:25+00:00",
+      "download_url": "https://downloads.vivaldi.com/stable/Vivaldi.8.0.4033.46.x64.exe"
+    },
+    {
+      "id": "vivaldi/darwin--8.0.4033.46",
+      "title": "New App: Vivaldi 8.0.4033.46 (Mac)",
+      "event_type": "added",
+      "app": "Vivaldi",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "8.0.4033.46",
+      "timestamp": "2026-06-18T20:58:25+00:00",
+      "download_url": "https://downloads.vivaldi.com/stable/Vivaldi.8.0.4033.46.universal.dmg"
+    },
+    {
+      "id": "insomnia/windows-13.0.0-13.0.1",
+      "title": "Insomnia 13.0.0 \u2192 13.0.1 (Windows)",
+      "event_type": "update",
+      "app": "Insomnia",
+      "platform": "windows",
+      "version_from": "13.0.0",
+      "version_to": "13.0.1",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://github.com/Kong/insomnia/releases/download/core@13.0.1/Insomnia.Core-13.0.1.exe"
+    },
+    {
+      "id": "godot/darwin-4.6.3-4.7",
+      "title": "Godot Engine 4.6.3 \u2192 4.7 (Mac)",
+      "event_type": "update",
+      "app": "Godot Engine",
+      "platform": "mac",
+      "version_from": "4.6.3",
+      "version_to": "4.7",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://github.com/godotengine/godot/releases/download/4.7-stable/Godot_v4.7-stable_macos.universal.zip"
+    },
+    {
+      "id": "spokenly/darwin-2.22.1-2.23.0",
+      "title": "Spokenly 2.22.1 \u2192 2.23.0 (Mac)",
+      "event_type": "update",
+      "app": "Spokenly",
+      "platform": "mac",
+      "version_from": "2.22.1",
+      "version_to": "2.23.0",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://cdn.spokenly.app/releases/macos/Spokenly-2.23.0.dmg"
+    },
+    {
+      "id": "apidog/darwin-2.8.34-2.8.35",
+      "title": "Apidog 2.8.34 \u2192 2.8.35 (Mac)",
+      "event_type": "update",
+      "app": "Apidog",
+      "platform": "mac",
+      "version_from": "2.8.34",
+      "version_to": "2.8.35",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://file-assets.apidog.com/download/2.8.35/legacy-Apidog-macOS-arm64-2.8.35.dmg"
+    },
+    {
+      "id": "clockify/windows-2.2.0-2.2.1",
+      "title": "Clockify Desktop 2.2.0 \u2192 2.2.1 (Windows)",
+      "event_type": "update",
+      "app": "Clockify Desktop",
+      "platform": "windows",
+      "version_from": "2.2.0",
+      "version_to": "2.2.1",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://clockify.me/downloads/clockify-setup.msi"
+    },
+    {
+      "id": "bezel/darwin-4.4.0-4.4.1",
+      "title": "Bezel 4.4.0 \u2192 4.4.1 (Mac)",
+      "event_type": "update",
+      "app": "Bezel",
+      "platform": "mac",
+      "version_from": "4.4.0",
+      "version_to": "4.4.1",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://download.nonstrict.eu/bezel/Bezel-4.4.1.zip"
+    },
+    {
+      "id": "alt-tab/darwin-11.3.0-11.3.1",
+      "title": "AltTab 11.3.0 \u2192 11.3.1 (Mac)",
+      "event_type": "update",
+      "app": "AltTab",
+      "platform": "mac",
+      "version_from": "11.3.0",
+      "version_to": "11.3.1",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://github.com/lwouis/alt-tab-macos/releases/download/v11.3.1/AltTab-11.3.1.zip"
+    },
+    {
+      "id": "cursor/darwin-3.7.42-3.8.11",
+      "title": "Cursor 3.7.42 \u2192 3.8.11 (Mac)",
+      "event_type": "update",
+      "app": "Cursor",
+      "platform": "mac",
+      "version_from": "3.7.42",
+      "version_to": "3.8.11",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://downloads.cursor.com/production/e56ad3440df06d22ca7501e65fd518e905486ef7/darwin/arm64/Cursor-darwin-arm64.zip"
+    },
+    {
+      "id": "boom-3d/darwin-2.2.6-2.3.0",
+      "title": "Boom 3D 2.2.6 \u2192 2.3.0 (Mac)",
+      "event_type": "update",
+      "app": "Boom 3D",
+      "platform": "mac",
+      "version_from": "2.2.6",
+      "version_to": "2.3.0",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://dfvk972795zr9.cloudfront.net/Boom3Dmac/webstore/Boom3D.dmg"
+    },
+    {
+      "id": "insomnia/darwin-13.0.0-13.0.1",
+      "title": "Insomnia 13.0.0 \u2192 13.0.1 (Mac)",
+      "event_type": "update",
+      "app": "Insomnia",
+      "platform": "mac",
+      "version_from": "13.0.0",
+      "version_to": "13.0.1",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://github.com/Kong/insomnia/releases/download/core%4013.0.1/Insomnia.Core-13.0.1.dmg"
+    },
+    {
+      "id": "smultron/darwin-14.4.8-14.4.9",
+      "title": "Smultron 14.4.8 \u2192 14.4.9 (Mac)",
+      "event_type": "update",
+      "app": "Smultron",
+      "platform": "mac",
+      "version_from": "14.4.8",
+      "version_to": "14.4.9",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://www.peterborgapps.com/downloads/Smultron14.zip"
+    },
+    {
+      "id": "tuple/darwin-3.0.5-3.0.6",
+      "title": "Tuple 3.0.5 \u2192 3.0.6 (Mac)",
+      "event_type": "update",
+      "app": "Tuple",
+      "platform": "mac",
+      "version_from": "3.0.5",
+      "version_to": "3.0.6",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-3.0.6-2026-06-18-0c8d42eabd.zip"
+    },
+    {
+      "id": "aws-cli/windows-2.35.6-2.35.7",
+      "title": "AWS Command Line Interface v2 2.35.6 \u2192 2.35.7 (Windows)",
+      "event_type": "update",
+      "app": "AWS Command Line Interface v2",
+      "platform": "windows",
+      "version_from": "2.35.6",
+      "version_to": "2.35.7",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.35.7.msi"
+    },
+    {
+      "id": "arc/darwin-1.151.1-1.152.0",
+      "title": "Arc 1.151.1 \u2192 1.152.0 (Mac)",
+      "event_type": "update",
+      "app": "Arc",
+      "platform": "mac",
+      "version_from": "1.151.1",
+      "version_to": "1.152.0",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://releases.arc.net/release/Arc-1.152.0-82313.zip"
+    },
+    {
+      "id": "granola/darwin-7.324.2-7.345.3",
+      "title": "Granola 7.324.2 \u2192 7.345.3 (Mac)",
+      "event_type": "update",
+      "app": "Granola",
+      "platform": "mac",
+      "version_from": "7.324.2",
+      "version_to": "7.345.3",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.345.3/Granola-7.345.3-mac-universal.dmg"
+    },
+    {
+      "id": "deezer/darwin-7.1.240-7.1.250",
+      "title": "Deezer 7.1.240 \u2192 7.1.250 (Mac)",
+      "event_type": "update",
+      "app": "Deezer",
+      "platform": "mac",
+      "version_from": "7.1.240",
+      "version_to": "7.1.250",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://www.deezer.com/desktop/download/artifact-darwin-x64-7.1.250"
+    },
+    {
+      "id": "cyberduck/darwin-9.4.1-9.5.0",
+      "title": "Cyberduck 9.4.1 \u2192 9.5.0 (Mac)",
+      "event_type": "update",
+      "app": "Cyberduck",
+      "platform": "mac",
+      "version_from": "9.4.1",
+      "version_to": "9.5.0",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://update.cyberduck.io/Cyberduck-9.5.0.45237.zip"
+    },
+    {
+      "id": "claude/darwin-1.13576.4-1.14271.0",
+      "title": "Claude 1.13576.4 \u2192 1.14271.0 (Mac)",
+      "event_type": "update",
+      "app": "Claude",
+      "platform": "mac",
+      "version_from": "1.13576.4",
+      "version_to": "1.14271.0",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.14271.0/Claude-c8f4d811b076f6d3bb0a320ac9da463cd82a6a11.zip"
+    },
+    {
+      "id": "whatsapp/darwin-26.24.17-26.24.19",
+      "title": "WhatsApp 26.24.17 \u2192 26.24.19 (Mac)",
+      "event_type": "update",
+      "app": "WhatsApp",
+      "platform": "mac",
+      "version_from": "26.24.17",
+      "version_to": "26.24.19",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release&amp;src=whatsapp_downloads_page"
+    },
+    {
+      "id": "firefox/darwin-152.0-152.0.1",
+      "title": "Mozilla Firefox 152.0 \u2192 152.0.1 (Mac)",
+      "event_type": "update",
+      "app": "Mozilla Firefox",
+      "platform": "mac",
+      "version_from": "152.0",
+      "version_to": "152.0.1",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.1/mac/en-US/Firefox%20152.0.1.dmg"
+    },
+    {
+      "id": "pgadmin4/darwin-9.15-9.16",
+      "title": "pgAdmin 4 9.15 \u2192 9.16 (Mac)",
+      "event_type": "update",
+      "app": "pgAdmin 4",
+      "platform": "mac",
+      "version_from": "9.15",
+      "version_to": "9.16",
+      "timestamp": "2026-06-18T18:56:56+00:00",
+      "download_url": "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v9.16/macos/pgadmin4-9.16-arm64.dmg"
+    },
     {
       "id": "hive-app/darwin-1.2.0-1.2.1",
       "title": "Hive 1.2.0 \u2192 1.2.1 (Mac)",
@@ -4559,6 +4812,17 @@
       "download_url": "https://github.com/imolorhe/altair/releases/download/v8.5.7/altair_8.5.7_arm64_mac.zip"
     },
     {
+      "id": "logi-options+/darwin-2.1.854976-2.4.903778",
+      "title": "Logi Options+ 2.1.854976 \u2192 2.4.903778 (Mac)",
+      "event_type": "update",
+      "app": "Logi Options+",
+      "platform": "mac",
+      "version_from": "2.1.854976",
+      "version_to": "2.4.903778",
+      "timestamp": "2026-06-12T18:47:39+00:00",
+      "download_url": "https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.zip"
+    },
+    {
       "id": "evernote/darwin-11.17.3-11.20.2",
       "title": "Evernote 11.17.3 \u2192 11.20.2 (Mac)",
       "event_type": "update",
@@ -4867,15 +5131,59 @@
       "download_url": "https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/osx10/Acrobat_DC_Web_WWMUI.dmg"
     },
     {
-      "id": "logi-options+/darwin-2.1.854976-2.4.903778",
-      "title": "Logi Options+ 2.1.854976 \u2192 2.4.903778 (Mac)",
-      "event_type": "update",
-      "app": "Logi Options+",
+      "id": "thorium/darwin--3.4.0",
+      "title": "New App: Thorium Reader 3.4.0 (Mac)",
+      "event_type": "added",
+      "app": "Thorium Reader",
       "platform": "mac",
-      "version_from": "2.1.854976",
-      "version_to": "2.4.903778",
-      "timestamp": "2026-06-12T18:47:39+00:00",
-      "download_url": "https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.zip"
+      "version_from": null,
+      "version_to": "3.4.0",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://github.com/edrlab/thorium-reader/releases/download/v3.4.0/Thorium-3.4.0-arm64.dmg"
+    },
+    {
+      "id": "threema/darwin--1.2.50",
+      "title": "New App: Threema 1.2.50 (Mac)",
+      "event_type": "added",
+      "app": "Threema",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "1.2.50",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://releases.threema.ch/web-electron/v1/release/Threema-Latest.dmg"
+    },
+    {
+      "id": "topnotch/darwin--1.3.2",
+      "title": "New App: TopNotch 1.3.2 (Mac)",
+      "event_type": "added",
+      "app": "TopNotch",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "1.3.2",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://updates.topnotch.app/TopNotch-1.3.2.dmg"
+    },
+    {
+      "id": "tidal/darwin--2.41.3",
+      "title": "New App: TIDAL 2.41.3 (Mac)",
+      "event_type": "added",
+      "app": "TIDAL",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "2.41.3",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://download.tidal.com/desktop/mac/TIDAL.arm64.2.41.3.zip"
+    },
+    {
+      "id": "taskade/darwin--4.6.14",
+      "title": "New App: Taskade 4.6.14 (Mac)",
+      "event_type": "added",
+      "app": "Taskade",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "4.6.14",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://apps.taskade.com/updates/Taskade-4.6.14-universal.dmg"
     },
     {
       "id": "twine-app/darwin--2.12.0",
@@ -4933,94 +5241,6 @@
       "download_url": "https://data.trezor.io/suite/releases/desktop/latest/Trezor-Suite-26.5.2-mac-arm64.dmg"
     },
     {
-      "id": "texshop/darwin--5.57",
-      "title": "New App: TeXShop 5.57 (Mac)",
-      "event_type": "added",
-      "app": "TeXShop",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "5.57",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://pages.uoregon.edu/koch/texshop/texshop-64/texshop557.zip"
-    },
-    {
-      "id": "ticktick/darwin--8.0.70",
-      "title": "New App: TickTick 8.0.70 (Mac)",
-      "event_type": "added",
-      "app": "TickTick",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "8.0.70",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://download.ticktick.app/download/mac/TickTick_8.0.70_471.dmg"
-    },
-    {
-      "id": "thaw/darwin--1.2.0",
-      "title": "New App: Thaw 1.2.0 (Mac)",
-      "event_type": "added",
-      "app": "Thaw",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "1.2.0",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://github.com/stonerl/Thaw/releases/download/1.2.0/Thaw_1.2.0.zip"
-    },
-    {
-      "id": "tableau-prep/darwin--2026.1.2",
-      "title": "New App: Tableau Prep 2026.1.2 (Mac)",
-      "event_type": "added",
-      "app": "Tableau Prep",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "2026.1.2",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://downloads.tableau.com/esdalt/tableau_prep/2026.1.2/TableauPrep-2026-1-2-arm64.dmg"
-    },
-    {
-      "id": "termius/darwin--9.39.0",
-      "title": "New App: Termius 9.39.0 (Mac)",
-      "event_type": "added",
-      "app": "Termius",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "9.39.0",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://autoupdate.termius.com/mac-arm64/Termius.dmg"
-    },
-    {
-      "id": "topnotch/darwin--1.3.2",
-      "title": "New App: TopNotch 1.3.2 (Mac)",
-      "event_type": "added",
-      "app": "TopNotch",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "1.3.2",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://updates.topnotch.app/TopNotch-1.3.2.dmg"
-    },
-    {
-      "id": "tidal/darwin--2.41.3",
-      "title": "New App: TIDAL 2.41.3 (Mac)",
-      "event_type": "added",
-      "app": "TIDAL",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "2.41.3",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://download.tidal.com/desktop/mac/TIDAL.arm64.2.41.3.zip"
-    },
-    {
-      "id": "taskade/darwin--4.6.14",
-      "title": "New App: Taskade 4.6.14 (Mac)",
-      "event_type": "added",
-      "app": "Taskade",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "4.6.14",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://apps.taskade.com/updates/Taskade-4.6.14-universal.dmg"
-    },
-    {
       "id": "thumbsup/darwin--4.5.3",
       "title": "New App: ThumbsUp 4.5.3 (Mac)",
       "event_type": "added",
@@ -5076,6 +5296,17 @@
       "download_url": "https://github.com/transmission/transmission/releases/download/4.1.2/Transmission-4.1.2.dmg"
     },
     {
+      "id": "termius/darwin--9.39.0",
+      "title": "New App: Termius 9.39.0 (Mac)",
+      "event_type": "added",
+      "app": "Termius",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "9.39.0",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://autoupdate.termius.com/mac-arm64/Termius.dmg"
+    },
+    {
       "id": "typeface/darwin--4.3.1",
       "title": "New App: Typeface 4.3.1 (Mac)",
       "event_type": "added",
@@ -5087,15 +5318,15 @@
       "download_url": "https://dcdn.typefaceapp.com/Typeface-4.3.1-5064/Typeface-4.3.1-5064.dmg"
     },
     {
-      "id": "threema/darwin--1.2.50",
-      "title": "New App: Threema 1.2.50 (Mac)",
+      "id": "tableau-prep/darwin--2026.1.2",
+      "title": "New App: Tableau Prep 2026.1.2 (Mac)",
       "event_type": "added",
-      "app": "Threema",
+      "app": "Tableau Prep",
       "platform": "mac",
       "version_from": null,
-      "version_to": "1.2.50",
+      "version_to": "2026.1.2",
       "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://releases.threema.ch/web-electron/v1/release/Threema-Latest.dmg"
+      "download_url": "https://downloads.tableau.com/esdalt/tableau_prep/2026.1.2/TableauPrep-2026-1-2-arm64.dmg"
     },
     {
       "id": "timescribe/darwin--1.15.0",
@@ -5219,28 +5450,6 @@
       "download_url": "https://tvd-packages.tradingview.com/stable/3.2.0/darwin/TradingView.dmg"
     },
     {
-      "id": "timing/darwin--2026.3.1",
-      "title": "New App: Timing 2026.3.1 (Mac)",
-      "event_type": "added",
-      "app": "Timing",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "2026.3.1",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://updates.timingapp.com/download/Timing-2026.3.1.dmg"
-    },
-    {
-      "id": "thorium/darwin--3.4.0",
-      "title": "New App: Thorium Reader 3.4.0 (Mac)",
-      "event_type": "added",
-      "app": "Thorium Reader",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "3.4.0",
-      "timestamp": "2026-06-12T15:29:47+00:00",
-      "download_url": "https://github.com/edrlab/thorium-reader/releases/download/v3.4.0/Thorium-3.4.0-arm64.dmg"
-    },
-    {
       "id": "teacode/darwin--1.1.3",
       "title": "New App: TeaCode 1.1.3 (Mac)",
       "event_type": "added",
@@ -5252,257 +5461,48 @@
       "download_url": "https://www.apptorium.com/public/products/teacode/releases/TeaCode-1.1.3.zip"
     },
     {
-      "id": "tunnelblick/darwin-8.0.1-8.0.2",
-      "title": "Tunnelblick 8.0.1 \u2192 8.0.2 (Mac)",
-      "event_type": "update",
-      "app": "Tunnelblick",
-      "platform": "mac",
-      "version_from": "8.0.1",
-      "version_to": "8.0.2",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://tunnelblick.net/iprelease/Tunnelblick_8.0.2_build_6302.dmg"
-    },
-    {
-      "id": "macpacker/darwin-0.15.1-0.15.2",
-      "title": "MacPacker 0.15.1 \u2192 0.15.2 (Mac)",
-      "event_type": "update",
-      "app": "MacPacker",
-      "platform": "mac",
-      "version_from": "0.15.1",
-      "version_to": "0.15.2",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://macpacker-releases.s3.amazonaws.com/MacPacker_v0.15.2.zip"
-    },
-    {
-      "id": "memoryanalyzer/darwin-1.16.1.20250109-1.17.0.20260601",
-      "title": "Eclipse Memory Analyzer 1.16.1.20250109 \u2192 1.17.0.20260601 (Mac)",
-      "event_type": "update",
-      "app": "Eclipse Memory Analyzer",
-      "platform": "mac",
-      "version_from": "1.16.1.20250109",
-      "version_to": "1.17.0.20260601",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://download.eclipse.org/mat/1.17.0/rcp/MemoryAnalyzer-1.17.0.20260601-macosx.cocoa.aarch64.dmg"
-    },
-    {
-      "id": "omniplan/darwin-4.10.2-4.10.3",
-      "title": "OmniPlan 4.10.2 \u2192 4.10.3 (Mac)",
-      "event_type": "update",
-      "app": "OmniPlan",
-      "platform": "mac",
-      "version_from": "4.10.2",
-      "version_to": "4.10.3",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://downloads.omnigroup.com/software/macOS/12/OmniPlan-4.10.3.dmg"
-    },
-    {
-      "id": "aws-cli/windows-2.35.2-2.35.3",
-      "title": "AWS Command Line Interface v2 2.35.2 \u2192 2.35.3 (Windows)",
-      "event_type": "update",
-      "app": "AWS Command Line Interface v2",
-      "platform": "windows",
-      "version_from": "2.35.2",
-      "version_to": "2.35.3",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.35.3.msi"
-    },
-    {
-      "id": "framer/darwin-2026.12.6-2026.23.3",
-      "title": "Framer 2026.12.6 \u2192 2026.23.3 (Mac)",
-      "event_type": "update",
-      "app": "Framer",
-      "platform": "mac",
-      "version_from": "2026.12.6",
-      "version_to": "2026.23.3",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://updates.framer.com/electron/darwin/arm64/Framer-2026.23.3.zip"
-    },
-    {
-      "id": "mimestream/darwin-1.10.1-1.10.2",
-      "title": "Mimestream 1.10.1 \u2192 1.10.2 (Mac)",
-      "event_type": "update",
-      "app": "Mimestream",
-      "platform": "mac",
-      "version_from": "1.10.1",
-      "version_to": "1.10.2",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://download.mimestream.com/Mimestream_1.10.2.dmg"
-    },
-    {
-      "id": "electronmail/darwin-5.3.6-5.3.7",
-      "title": "ElectronMail 5.3.6 \u2192 5.3.7 (Mac)",
-      "event_type": "update",
-      "app": "ElectronMail",
-      "platform": "mac",
-      "version_from": "5.3.6",
-      "version_to": "5.3.7",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://github.com/vladimiry/ElectronMail/releases/download/v5.3.7/electron-mail-5.3.7-mac-arm64.dmg"
-    },
-    {
-      "id": "figma/darwin-126.4.13-126.5.6",
-      "title": "Figma 126.4.13 \u2192 126.5.6 (Mac)",
-      "event_type": "update",
-      "app": "Figma",
-      "platform": "mac",
-      "version_from": "126.4.13",
-      "version_to": "126.5.6",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://desktop.figma.com/mac-arm/Figma-126.5.6.zip"
-    },
-    {
-      "id": "camunda-modeler/darwin-5.47.0-5.48.0",
-      "title": "Camunda Modeler 5.47.0 \u2192 5.48.0 (Mac)",
-      "event_type": "update",
-      "app": "Camunda Modeler",
-      "platform": "mac",
-      "version_from": "5.47.0",
-      "version_to": "5.48.0",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://downloads.camunda.cloud/release/camunda-modeler/5.48.0/camunda-modeler-5.48.0-mac-arm64.zip"
-    },
-    {
-      "id": "melodics/darwin-5.0.571-5.0.627",
-      "title": "Melodics 5.0.571 \u2192 5.0.627 (Mac)",
-      "event_type": "update",
-      "app": "Melodics",
-      "platform": "mac",
-      "version_from": "5.0.571",
-      "version_to": "5.0.627",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://web-cdn.melodics.com/download/AED19966-0D0E-4A4E-A29B-1C2D1688B662.zip"
-    },
-    {
-      "id": "google-chrome/windows-149.0.7827.103-149.0.7827.115",
-      "title": "Google Chrome 149.0.7827.103 \u2192 149.0.7827.115 (Windows)",
-      "event_type": "update",
-      "app": "Google Chrome",
-      "platform": "windows",
-      "version_from": "149.0.7827.103",
-      "version_to": "149.0.7827.115",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-    },
-    {
-      "id": "twingate/darwin-2026.120-2026.155",
-      "title": "Twingate 2026.120 \u2192 2026.155 (Mac)",
-      "event_type": "update",
-      "app": "Twingate",
-      "platform": "mac",
-      "version_from": "2026.120",
-      "version_to": "2026.155",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://binaries.twingate.com/client/macos/2026.155.25395/Twingate.pkg"
-    },
-    {
-      "id": "musescore/darwin-4.7.2.260525085-4.7.3.260608135",
-      "title": "MuseScore 4.7.2.260525085 \u2192 4.7.3.260608135 (Mac)",
-      "event_type": "update",
-      "app": "MuseScore",
-      "platform": "mac",
-      "version_from": "4.7.2.260525085",
-      "version_to": "4.7.3.260608135",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://github.com/musescore/MuseScore/releases/download/v4.7.3/MuseScore-Studio-4.7.3.260608135.dmg"
-    },
-    {
-      "id": "imazing/windows-3.5.4.0-3.5.5.0",
-      "title": "iMazing 3.5.4.0 \u2192 3.5.5.0 (Windows)",
-      "event_type": "update",
-      "app": "iMazing",
-      "platform": "windows",
-      "version_from": "3.5.4.0",
-      "version_to": "3.5.5.0",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://downloads.imazing.com/windows/iMazing/iMazing3forWindows.exe"
-    },
-    {
-      "id": "postgresql-16/windows-16.14-1-16.14-2",
-      "title": "PostgreSQL 16 16.14-1 \u2192 16.14-2 (Windows)",
-      "event_type": "update",
-      "app": "PostgreSQL 16",
-      "platform": "windows",
-      "version_from": "16.14-1",
-      "version_to": "16.14-2",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://get.enterprisedb.com/postgresql/postgresql-16.14-2-windows-x64.exe"
-    },
-    {
-      "id": "fantastical/darwin-4.1.13-4.1.14",
-      "title": "Fantastical 4.1.13 \u2192 4.1.14 (Mac)",
-      "event_type": "update",
-      "app": "Fantastical",
-      "platform": "mac",
-      "version_from": "4.1.13",
-      "version_to": "4.1.14",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://cdn.flexibits.com/Fantastical_4.1.14.zip"
-    },
-    {
-      "id": "notion-calendar/darwin-1.134.2-1.135.1",
-      "title": "Notion Calendar 1.134.2 \u2192 1.135.1 (Mac)",
-      "event_type": "update",
-      "app": "Notion Calendar",
-      "platform": "mac",
-      "version_from": "1.134.2",
-      "version_to": "1.135.1",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://calendar-desktop-release.notion-static.com/Notion%20Calendar-darwin-arm64-1.135.1.zip"
-    },
-    {
-      "id": "marked-app/darwin-3.0.29-3.0.33",
-      "title": "Marked 3.0.29 \u2192 3.0.33 (Mac)",
-      "event_type": "update",
-      "app": "Marked",
-      "platform": "mac",
-      "version_from": "3.0.29",
-      "version_to": "3.0.33",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://updates.markedapp.com/updates/Marked%203.0.33.zip"
-    },
-    {
-      "id": "pritunl/windows-1.3.4566.62-1.3.4655.98",
-      "title": "Pritunl 1.3.4566.62 \u2192 1.3.4655.98 (Windows)",
-      "event_type": "update",
-      "app": "Pritunl",
-      "platform": "windows",
-      "version_from": "1.3.4566.62",
-      "version_to": "1.3.4655.98",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://github.com/pritunl/pritunl-client/releases/download/1.3.4655.98/Pritunl.exe"
-    },
-    {
-      "id": "rive/darwin-0.8.5006-0.8.5037",
-      "title": "Rive 0.8.5006 \u2192 0.8.5037 (Mac)",
-      "event_type": "update",
-      "app": "Rive",
-      "platform": "mac",
-      "version_from": "0.8.5006",
-      "version_to": "0.8.5037",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://releases.rive.app/macos/0.8.5037/Rive.dmg"
-    },
-    {
-      "id": "bettertouchtool/darwin-6.570-6.573",
-      "title": "BetterTouchTool 6.570 \u2192 6.573 (Mac)",
-      "event_type": "update",
-      "app": "BetterTouchTool",
-      "platform": "mac",
-      "version_from": "6.570",
-      "version_to": "6.573",
-      "timestamp": "2026-06-12T05:41:39+00:00",
-      "download_url": "https://folivora.ai/releases/btt6.573-2026061010.zip"
-    },
-    {
-      "id": "codex-app/darwin--26.609.30741",
-      "title": "New App: Codex 26.609.30741 (Mac)",
+      "id": "timing/darwin--2026.3.1",
+      "title": "New App: Timing 2026.3.1 (Mac)",
       "event_type": "added",
-      "app": "Codex",
+      "app": "Timing",
       "platform": "mac",
       "version_from": null,
-      "version_to": "26.609.30741",
-      "timestamp": "2026-06-12T03:17:09+00:00",
-      "download_url": "https://persistent.oaistatic.com/codex-app-prod/Codex-darwin-arm64-26.609.30741.zip"
+      "version_to": "2026.3.1",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://updates.timingapp.com/download/Timing-2026.3.1.dmg"
+    },
+    {
+      "id": "texshop/darwin--5.57",
+      "title": "New App: TeXShop 5.57 (Mac)",
+      "event_type": "added",
+      "app": "TeXShop",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "5.57",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://pages.uoregon.edu/koch/texshop/texshop-64/texshop557.zip"
+    },
+    {
+      "id": "ticktick/darwin--8.0.70",
+      "title": "New App: TickTick 8.0.70 (Mac)",
+      "event_type": "added",
+      "app": "TickTick",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "8.0.70",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://download.ticktick.app/download/mac/TickTick_8.0.70_471.dmg"
+    },
+    {
+      "id": "thaw/darwin--1.2.0",
+      "title": "New App: Thaw 1.2.0 (Mac)",
+      "event_type": "added",
+      "app": "Thaw",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "1.2.0",
+      "timestamp": "2026-06-12T15:29:47+00:00",
+      "download_url": "https://github.com/stonerl/Thaw/releases/download/1.2.0/Thaw_1.2.0.zip"
     }
   ]
 }
