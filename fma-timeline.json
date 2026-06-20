@@ -1,9 +1,64 @@
 {
-  "generated": "2026-06-19T18:43:50Z",
+  "generated": "2026-06-20T01:01:47Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "readest/darwin-0.11.4-0.11.10",
+      "title": "Readest 0.11.4 \u2192 0.11.10 (Mac)",
+      "event_type": "update",
+      "app": "Readest",
+      "platform": "mac",
+      "version_from": "0.11.4",
+      "version_to": "0.11.10",
+      "timestamp": "2026-06-19T21:31:52+00:00",
+      "download_url": "https://github.com/readest/readest/releases/download/v0.11.10/Readest_0.11.10_universal.dmg"
+    },
+    {
+      "id": "goodsync/darwin-12.11.3-12.11.4",
+      "title": "GoodSync 12.11.3 \u2192 12.11.4 (Mac)",
+      "event_type": "update",
+      "app": "GoodSync",
+      "platform": "mac",
+      "version_from": "12.11.3",
+      "version_to": "12.11.4",
+      "timestamp": "2026-06-19T21:31:52+00:00",
+      "download_url": "https://www.goodsync.com/download/goodsync-vsub-mac.dmg"
+    },
+    {
+      "id": "batfi/darwin-3.0.5-3.1.0",
+      "title": "BatFi 3.0.5 \u2192 3.1.0 (Mac)",
+      "event_type": "update",
+      "app": "BatFi",
+      "platform": "mac",
+      "version_from": "3.0.5",
+      "version_to": "3.1.0",
+      "timestamp": "2026-06-19T21:31:52+00:00",
+      "download_url": "https://files.micropixels.software/batfi/BatFi-latest.zip"
+    },
+    {
+      "id": "granola/darwin-7.345.3-7.345.5",
+      "title": "Granola 7.345.3 \u2192 7.345.5 (Mac)",
+      "event_type": "update",
+      "app": "Granola",
+      "platform": "mac",
+      "version_from": "7.345.3",
+      "version_to": "7.345.5",
+      "timestamp": "2026-06-19T21:31:52+00:00",
+      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.345.5/Granola-7.345.5-mac-universal.dmg"
+    },
+    {
+      "id": "arc/windows-1.110.1.2-1.111.0.274",
+      "title": "Arc 1.110.1.2 \u2192 1.111.0.274 (Windows)",
+      "event_type": "update",
+      "app": "Arc",
+      "platform": "windows",
+      "version_from": "1.110.1.2",
+      "version_to": "1.111.0.274",
+      "timestamp": "2026-06-19T21:31:52+00:00",
+      "download_url": "https://releases.arc.net/windows/prod/1.111.0.274/Arc.x64.msix"
+    },
     {
       "id": "whatsapp/darwin-26.24.19-26.24.21",
       "title": "WhatsApp 26.24.19 \u2192 26.24.21 (Mac)",
@@ -4152,6 +4207,17 @@
       "download_url": "https://clockify.me/downloads/clockify-setup.msi"
     },
     {
+      "id": "novabench/darwin--6.0.3",
+      "title": "New App: Novabench 6.0.3 (Mac)",
+      "event_type": "added",
+      "app": "Novabench",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "6.0.3",
+      "timestamp": "2026-06-13T03:15:28+00:00",
+      "download_url": "https://novabench.com/files/novabench.dmg"
+    },
+    {
       "id": "prisma-browser/windows-149.18.3.103-149.18.4.115",
       "title": "Prisma Browser 149.18.3.103 \u2192 149.18.4.115 (Windows)",
       "event_type": "update",
@@ -4966,26 +5032,26 @@
       "download_url": "https://download.typora.io/mac/Typora-1.13.7.dmg"
     },
     {
-      "id": "novabench/darwin--6.0.3",
-      "title": "New App: Novabench 6.0.3 (Mac)",
+      "id": "amadine/darwin--1.8.2",
+      "title": "New App: Amadine 1.8.2 (Mac)",
       "event_type": "added",
-      "app": "Novabench",
+      "app": "Amadine",
       "platform": "mac",
       "version_from": null,
-      "version_to": "6.0.3",
-      "timestamp": "2026-06-13T03:15:28+00:00",
-      "download_url": "https://novabench.com/files/novabench.dmg"
+      "version_to": "1.8.2",
+      "timestamp": "2026-06-12T20:52:44+00:00",
+      "download_url": "https://belightsoft.s3.amazonaws.com/Amadine.dmg"
     },
     {
-      "id": "altair-graphql-client/darwin--8.5.7",
-      "title": "New App: Altair GraphQL Client 8.5.7 (Mac)",
+      "id": "adguard/darwin--2.18.0.2089",
+      "title": "New App: AdGuard 2.18.0.2089 (Mac)",
       "event_type": "added",
-      "app": "Altair GraphQL Client",
+      "app": "AdGuard",
       "platform": "mac",
       "version_from": null,
-      "version_to": "8.5.7",
+      "version_to": "2.18.0.2089",
       "timestamp": "2026-06-12T20:52:44+00:00",
-      "download_url": "https://github.com/imolorhe/altair/releases/download/v8.5.7/altair_8.5.7_arm64_mac.zip"
+      "download_url": "https://static.adguard.com/mac/release/AdGuard-2.18.0.2089.dmg"
     },
     {
       "id": "aviatrix-vpn-client/darwin--2.17.7",
@@ -5041,17 +5107,6 @@
       "version_to": "2.6.5",
       "timestamp": "2026-06-12T20:52:44+00:00",
       "download_url": "https://affinity-update.s3.amazonaws.com/mac2/retail/Affinity%20Designer%202%20Affinity%20Store%203782.zip"
-    },
-    {
-      "id": "adguard/darwin--2.18.0.2089",
-      "title": "New App: AdGuard 2.18.0.2089 (Mac)",
-      "event_type": "added",
-      "app": "AdGuard",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "2.18.0.2089",
-      "timestamp": "2026-06-12T20:52:44+00:00",
-      "download_url": "https://static.adguard.com/mac/release/AdGuard-2.18.0.2089.dmg"
     },
     {
       "id": "affinity-publisher@1/darwin--1.10.8",
@@ -5395,6 +5450,17 @@
       "download_url": "https://cdn.airy-youtube-downloader.com/products/airy/mac/download/airy.dmg"
     },
     {
+      "id": "altair-graphql-client/darwin--8.5.7",
+      "title": "New App: Altair GraphQL Client 8.5.7 (Mac)",
+      "event_type": "added",
+      "app": "Altair GraphQL Client",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "8.5.7",
+      "timestamp": "2026-06-12T20:52:44+00:00",
+      "download_url": "https://github.com/imolorhe/altair/releases/download/v8.5.7/altair_8.5.7_arm64_mac.zip"
+    },
+    {
       "id": "adlock/darwin--2.1.7.3",
       "title": "New App: AdLock 2.1.7.3 (Mac)",
       "event_type": "added",
@@ -5437,72 +5503,6 @@
       "version_to": "3.21",
       "timestamp": "2026-06-12T20:52:44+00:00",
       "download_url": "https://www.trankynam.com/atext/downloads/aText.dmg"
-    },
-    {
-      "id": "amadine/darwin--1.8.2",
-      "title": "New App: Amadine 1.8.2 (Mac)",
-      "event_type": "added",
-      "app": "Amadine",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "1.8.2",
-      "timestamp": "2026-06-12T20:52:44+00:00",
-      "download_url": "https://belightsoft.s3.amazonaws.com/Amadine.dmg"
-    },
-    {
-      "id": "lookaway/darwin--2.1.2",
-      "title": "New App: LookAway 2.1.2 (Mac)",
-      "event_type": "added",
-      "app": "LookAway",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "2.1.2",
-      "timestamp": "2026-06-12T18:47:39+00:00",
-      "download_url": "https://github.com/mysticalbits/lookaway-releases/releases/download/2.1.2/LookAway.dmg"
-    },
-    {
-      "id": "local/darwin--10.1.0",
-      "title": "New App: Local 10.1.0 (Mac)",
-      "event_type": "added",
-      "app": "Local",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "10.1.0",
-      "timestamp": "2026-06-12T18:47:39+00:00",
-      "download_url": "https://cdn.localwp.com/releases-stable/10.1.0+6912/local-10.1.0-mac-arm64.dmg"
-    },
-    {
-      "id": "lapce/darwin--0.4.6",
-      "title": "New App: Lapce 0.4.6 (Mac)",
-      "event_type": "added",
-      "app": "Lapce",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "0.4.6",
-      "timestamp": "2026-06-12T18:47:39+00:00",
-      "download_url": "https://github.com/lapce/lapce/releases/download/v0.4.6/Lapce-macos.dmg"
-    },
-    {
-      "id": "low-profile/darwin--5.0.0",
-      "title": "New App: Low Profile 5.0.0 (Mac)",
-      "event_type": "added",
-      "app": "Low Profile",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "5.0.0",
-      "timestamp": "2026-06-12T18:47:39+00:00",
-      "download_url": "https://github.com/ninxsoft/LowProfile/releases/download/v5.0.0/Low.Profile.5.0.0.pkg"
-    },
-    {
-      "id": "lingon-x/darwin--9.6.6",
-      "title": "New App: Lingon X 9.6.6 (Mac)",
-      "event_type": "added",
-      "app": "Lingon X",
-      "platform": "mac",
-      "version_from": null,
-      "version_to": "9.6.6",
-      "timestamp": "2026-06-12T18:47:39+00:00",
-      "download_url": "https://www.peterborgapps.com/downloads/LingonX9.zip"
     }
   ]
 }
