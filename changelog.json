@@ -1,5 +1,86 @@
 [
   {
+    "sha": "2d110da3e056f740c5ea1b35d3a9371e93959645",
+    "short_sha": "2d110da3e0",
+    "author": "Allen Houchins",
+    "message": "Revert \"Unblock workstations GitOps by temporarily removing software categories\" (#47988)",
+    "timestamp": "2026-06-21T23:03:16-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "ef8de7469c0ea9cb4fde9c9ec4ce17a52a3235b6",
+    "short_sha": "ef8de7469c",
+    "author": "Allen Houchins",
+    "message": "Unblock workstations GitOps by temporarily removing software categories (#47986)",
+    "timestamp": "2026-06-21T22:45:19-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "5956ea74bb39128f99a743351d357e52a443d729",
+    "short_sha": "5956ea74bb",
+    "author": "Allen Houchins",
+    "message": "Revert \"Unblock mobile GitOps by temporarily removing app store categories\" (#47985)",
+    "timestamp": "2026-06-21T22:31:01-05:00",
+    "files": [
+      "it-and-security/fleets/company-owned-mobile-devices.yml",
+      "it-and-security/fleets/personal-mobile-devices.yml"
+    ]
+  },
+  {
+    "sha": "7c73da5369ca10419d5c8329f38acb58872aec91",
+    "short_sha": "7c73da5369",
+    "author": "Allen Houchins",
+    "message": "Unblock mobile GitOps by temporarily removing app store categories (#47984)",
+    "timestamp": "2026-06-21T22:24:08-05:00",
+    "files": [
+      "it-and-security/fleets/company-owned-mobile-devices.yml",
+      "it-and-security/fleets/personal-mobile-devices.yml"
+    ]
+  },
+  {
+    "sha": "bd1120f3fc9c152c706cddcc1101c4d31c0ca009",
+    "short_sha": "bd1120f3fc",
+    "author": "Allen Houchins",
+    "message": "Remove platform field from Linux exclusion label (#47982)",
+    "timestamp": "2026-06-21T21:47:39-05:00",
+    "files": [
+      "it-and-security/lib/all/labels/linux-excluded-from-external-storage-restrictions.yml"
+    ]
+  },
+  {
+    "sha": "46cad465bc5886354a42da8b3e493e9eebcf9bbc",
+    "short_sha": "46cad465bc",
+    "author": "Allen Houchins",
+    "message": "Add hosts to external storage exclusion labels (#47980)",
+    "timestamp": "2026-06-21T21:44:29-05:00",
+    "files": [
+      "it-and-security/lib/all/labels/macs-excluded-from-external-storage-restrictions.yml",
+      "it-and-security/lib/all/labels/windows-excluded-from-external-storage-restrictions.yml"
+    ]
+  },
+  {
+    "sha": "87bc1ce78a440f4e07d41e5ae93927ac6fb8747d",
+    "short_sha": "87bc1ce78a",
+    "author": "Allen Houchins",
+    "message": "Add disk management profile and exclusion label (#44235)",
+    "timestamp": "2026-06-21T20:58:20-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/linux-excluded-from-external-storage-restrictions.yml",
+      "it-and-security/lib/all/labels/macs-excluded-from-external-storage-restrictions.yml",
+      "it-and-security/lib/all/labels/windows-excluded-from-external-storage-restrictions.yml",
+      "it-and-security/lib/linux/policies/removable-storage-read-only.yml",
+      "it-and-security/lib/linux/scripts/install-readonly-removable-storage.sh",
+      "it-and-security/lib/macos/declaration-profiles/Disk management settings.json",
+      "it-and-security/lib/windows/configuration-profiles/Removable storage read-only.xml"
+    ]
+  },
+  {
     "sha": "96ca0fd96751b0a8defe31ab346ddcca42fff2d4",
     "short_sha": "96ca0fd967",
     "author": "Noah Talerman",
