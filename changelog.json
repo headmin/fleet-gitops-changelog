@@ -1,5 +1,20 @@
 [
   {
+    "sha": "08c22ebe58f0788a7c8d342a04265d374b2b3070",
+    "short_sha": "08c22ebe58",
+    "author": "Allen Houchins",
+    "message": "Install Okta Verify on Windows workstations via Fleet-maintained app (#48952)",
+    "timestamp": "2026-07-08T10:41:49-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/windows-with-fleet-maintained-apps-installed.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/windows/scripts/okta_verify_install.ps1",
+      "it-and-security/lib/windows/scripts/okta_verify_uninstall.ps1",
+      "it-and-security/lib/windows/software/okta-verify.yml"
+    ]
+  },
+  {
     "sha": "37c7bc04eb4fb82a2942f52f44ef135ebd18a220",
     "short_sha": "37c7bc04eb",
     "author": "Allen Houchins",
