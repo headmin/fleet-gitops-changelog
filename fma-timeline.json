@@ -1,9 +1,196 @@
 {
-  "generated": "2026-07-07T18:46:17Z",
+  "generated": "2026-07-08T00:42:09Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "amazon-corretto-11/windows--11.0.31.11",
+      "title": "New App: Amazon Corretto 11 11.0.31.11 (Windows)",
+      "event_type": "added",
+      "app": "Amazon Corretto 11",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "11.0.31.11",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://corretto.aws/downloads/resources/11.0.31.11.1/amazon-corretto-11.0.31.11.1-windows-x64.msi"
+    },
+    {
+      "id": "allway-sync/windows--22.0.1",
+      "title": "New App: Allway Sync 22.0.1 (Windows)",
+      "event_type": "added",
+      "app": "Allway Sync",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "22.0.1",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://allwaysync.com/content/download/allwaysync-x64-22-0-1.msi"
+    },
+    {
+      "id": "azure-functions-core-tools/windows--4.12.1",
+      "title": "New App: Azure Functions Core Tools 4.12.1 (Windows)",
+      "event_type": "added",
+      "app": "Azure Functions Core Tools",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "4.12.1",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://github.com/Azure/azure-functions-core-tools/releases/download/4.12.1/func-cli-4.12.1-x64.msi"
+    },
+    {
+      "id": "aws-session-manager-plugin/windows--1.2.835.0",
+      "title": "New App: AWS Session Manager Plugin 1.2.835.0 (Windows)",
+      "event_type": "added",
+      "app": "AWS Session Manager Plugin",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "1.2.835.0",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://s3.amazonaws.com/session-manager-downloads/plugin/1.2.835.0/windows/SessionManagerPluginSetup.exe"
+    },
+    {
+      "id": "amazon-corretto-17/windows--17.0.19.10",
+      "title": "New App: Amazon Corretto 17 17.0.19.10 (Windows)",
+      "event_type": "added",
+      "app": "Amazon Corretto 17",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "17.0.19.10",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://corretto.aws/downloads/resources/17.0.19.10.1/amazon-corretto-17.0.19.10.1-windows-x64.msi"
+    },
+    {
+      "id": "okta-verify/windows--6.10.2.0",
+      "title": "New App: Okta Verify 6.10.2.0 (Windows)",
+      "event_type": "added",
+      "app": "Okta Verify",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "6.10.2.0",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://okta.okta.com/artifacts/WINDOWS_OKTA_VERIFY/6.10.2.0/OktaVerifySetup-6.10.2.0-de20e9b.exe"
+    },
+    {
+      "id": "air-explorer/windows--5.10.0",
+      "title": "New App: Air Explorer 5.10.0 (Windows)",
+      "event_type": "added",
+      "app": "Air Explorer",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "5.10.0",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://www.airexplorer.net/downloads/AirExplorer-OnlineInstaller.exe"
+    },
+    {
+      "id": "alfaview/windows--9.27.1",
+      "title": "New App: alfaview 9.27.1 (Windows)",
+      "event_type": "added",
+      "app": "alfaview",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "9.27.1",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://assets.alfaview.com/stable/win/alfaview-setup-win-production-9.27.1.msi"
+    },
+    {
+      "id": "amazon-corretto-8/windows--1.8.0.492",
+      "title": "New App: Amazon Corretto 8 1.8.0.492 (Windows)",
+      "event_type": "added",
+      "app": "Amazon Corretto 8",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "1.8.0.492",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://corretto.aws/downloads/resources/8.492.09.2/amazon-corretto-8.492.09.2-windows-x64-jdk.msi"
+    },
+    {
+      "id": "avs-media-player/windows--26.0.2.17",
+      "title": "New App: AVS Media Player 26.0.2.17 (Windows)",
+      "event_type": "added",
+      "app": "AVS Media Player",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "26.0.2.17",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://downloads.avs4you.com/distributives/AVSMediaPlayer.exe"
+    },
+    {
+      "id": "agent-ransack/windows--9.3.3562.1",
+      "title": "New App: Agent Ransack 9.3.3562.1 (Windows)",
+      "event_type": "added",
+      "app": "Agent Ransack",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "9.3.3562.1",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://download.mythicsoft.com/flp/3562/X4aef2vyu.bzx/agentransack_x64_msi_3562.zip"
+    },
+    {
+      "id": "itunes/windows--12.13.10.3",
+      "title": "New App: iTunes 12.13.10.3 (Windows)",
+      "event_type": "added",
+      "app": "iTunes",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "12.13.10.3",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://secure-appldnld.apple.com/itunes12/047-76416-20260302-fefe4356-211d-4da1-8bc4-058eb36ea803/iTunes64Setup.exe"
+    },
+    {
+      "id": "amazon-redshift-odbc-driver/windows--2.1.9.0",
+      "title": "New App: Amazon Redshift ODBC Driver 2.1.9.0 (Windows)",
+      "event_type": "added",
+      "app": "Amazon Redshift ODBC Driver",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "2.1.9.0",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://s3.amazonaws.com/redshift-downloads/drivers/odbc/2.1.9.0/AmazonRedshiftODBC64-2.1.9.0.msi"
+    },
+    {
+      "id": "anyburn/windows--6.8.0.0",
+      "title": "New App: AnyBurn 6.8.0.0 (Windows)",
+      "event_type": "added",
+      "app": "AnyBurn",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "6.8.0.0",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://anyburn.com/anyburn_setup.exe"
+    },
+    {
+      "id": "avs-image-converter/windows--26.0.2.17",
+      "title": "New App: AVS Image Converter 26.0.2.17 (Windows)",
+      "event_type": "added",
+      "app": "AVS Image Converter",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "26.0.2.17",
+      "timestamp": "2026-07-07T20:21:26+00:00",
+      "download_url": "https://downloads.avs4you.com/distributives/AVSImageConverter.exe"
+    },
+    {
+      "id": "3df-zephyr-free/windows--8.038",
+      "title": "New App: 3DF Zephyr Free 8.038 (Windows)",
+      "event_type": "added",
+      "app": "3DF Zephyr Free",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "8.038",
+      "timestamp": "2026-07-07T19:56:53+00:00",
+      "download_url": "https://3df-eu.fra1.digitaloceanspaces.com/8.038/3DF%20Zephyr%20Free%20v8.038%20(x64).exe"
+    },
+    {
+      "id": "4k-video-downloader-plus/windows--26.1.1.355",
+      "title": "New App: 4K Video Downloader+ 26.1.1.355 (Windows)",
+      "event_type": "added",
+      "app": "4K Video Downloader+",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "26.1.1.355",
+      "timestamp": "2026-07-07T19:56:53+00:00",
+      "download_url": "https://dl.4kdownload.com/app/4kvideodownloaderplus_26.1.1_x64_offline.exe?source=website"
+    },
     {
       "id": "discord/darwin-0.0.397-0.0.398",
       "title": "Discord 0.0.397 \u2192 0.0.398 (Mac)",
@@ -4801,6 +4988,17 @@
       "download_url": "https://downloads.k8slens.dev/ide/Lens%20Setup%202026.6.260931-latest.exe"
     },
     {
+      "id": "cursor/darwin-3.8.24-3.9.8",
+      "title": "Cursor 3.8.24 \u2192 3.9.8 (Mac)",
+      "event_type": "update",
+      "app": "Cursor",
+      "platform": "mac",
+      "version_from": "3.8.24",
+      "version_to": "3.9.8",
+      "timestamp": "2026-06-26T15:54:00+00:00",
+      "download_url": "https://downloads.cursor.com/production/4aa8ff1b7877ed7bd01bcba308698f71a6735380/darwin/arm64/Cursor-darwin-arm64.zip"
+    },
+    {
       "id": "cursor/windows-3.8.24-3.9.8",
       "title": "Cursor 3.8.24 \u2192 3.9.8 (Windows)",
       "event_type": "update",
@@ -5120,15 +5318,59 @@
       "download_url": "https://dr2v7l5emb758.cloudfront.net/7.372.1/Granola-7.372.1-win-x64.exe"
     },
     {
-      "id": "cursor/darwin-3.8.24-3.9.8",
-      "title": "Cursor 3.8.24 \u2192 3.9.8 (Mac)",
+      "id": "codex-app/darwin-26.616.81150-26.623.30605",
+      "title": "Codex 26.616.81150 \u2192 26.623.30605 (Mac)",
       "event_type": "update",
-      "app": "Cursor",
+      "app": "Codex",
       "platform": "mac",
-      "version_from": "3.8.24",
-      "version_to": "3.9.8",
-      "timestamp": "2026-06-26T15:54:00+00:00",
-      "download_url": "https://downloads.cursor.com/production/4aa8ff1b7877ed7bd01bcba308698f71a6735380/darwin/arm64/Cursor-darwin-arm64.zip"
+      "version_from": "26.616.81150",
+      "version_to": "26.623.30605",
+      "timestamp": "2026-06-25T21:38:20+00:00",
+      "download_url": "https://persistent.oaistatic.com/codex-app-prod/Codex-darwin-arm64-26.623.30605.zip"
+    },
+    {
+      "id": "citrix-workspace/darwin-26.03.0-26.03.11",
+      "title": "Citrix Workspace 26.03.0 \u2192 26.03.11 (Mac)",
+      "event_type": "update",
+      "app": "Citrix Workspace",
+      "platform": "mac",
+      "version_from": "26.03.0",
+      "version_to": "26.03.11",
+      "timestamp": "2026-06-25T21:38:20+00:00",
+      "download_url": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Mac/CitrixWorkspaceAppUniversal26.03.11.41.pkg"
+    },
+    {
+      "id": "workflowy/darwin-4.3.2606230837-4.3.2606251429",
+      "title": "WorkFlowy 4.3.2606230837 \u2192 4.3.2606251429 (Mac)",
+      "event_type": "update",
+      "app": "WorkFlowy",
+      "platform": "mac",
+      "version_from": "4.3.2606230837",
+      "version_to": "4.3.2606251429",
+      "timestamp": "2026-06-25T21:38:20+00:00",
+      "download_url": "https://github.com/workflowy/desktop/releases/download/v4.3.2606251429/WorkFlowy.zip"
+    },
+    {
+      "id": "granola/darwin-7.356.2-7.372.1",
+      "title": "Granola 7.356.2 \u2192 7.372.1 (Mac)",
+      "event_type": "update",
+      "app": "Granola",
+      "platform": "mac",
+      "version_from": "7.356.2",
+      "version_to": "7.372.1",
+      "timestamp": "2026-06-25T21:38:20+00:00",
+      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.372.1/Granola-7.372.1-mac-universal.dmg"
+    },
+    {
+      "id": "arc/darwin-1.152.0-1.153.0",
+      "title": "Arc 1.152.0 \u2192 1.153.0 (Mac)",
+      "event_type": "update",
+      "app": "Arc",
+      "platform": "mac",
+      "version_from": "1.152.0",
+      "version_to": "1.153.0",
+      "timestamp": "2026-06-25T21:38:20+00:00",
+      "download_url": "https://releases.arc.net/release/Arc-1.153.0-82581.zip"
     },
     {
       "id": "modern-csv/darwin-2.4.2-2.4.3",
@@ -5219,6 +5461,17 @@
       "download_url": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121691/AcroRdrDCx642600121691_MUI.exe"
     },
     {
+      "id": "copilot-money/darwin-6.4.2-6.4.3",
+      "title": "Copilot 6.4.2 \u2192 6.4.3 (Mac)",
+      "event_type": "update",
+      "app": "Copilot",
+      "platform": "mac",
+      "version_from": "6.4.2",
+      "version_to": "6.4.3",
+      "timestamp": "2026-06-25T21:38:20+00:00",
+      "download_url": "https://storage.googleapis.com/copilot-mac-releases/images/Copilot-6.4.3-330-ce1410d6.dmg"
+    },
+    {
       "id": "firefox/darwin-152.0.2-152.0.3",
       "title": "Mozilla Firefox 152.0.2 \u2192 152.0.3 (Mac)",
       "event_type": "update",
@@ -5250,259 +5503,6 @@
       "version_to": "1.4.4",
       "timestamp": "2026-06-25T21:38:20+00:00",
       "download_url": "https://dl.iina.io/IINA.v1.4.4.dmg"
-    },
-    {
-      "id": "citrix-workspace/darwin-26.03.0-26.03.11",
-      "title": "Citrix Workspace 26.03.0 \u2192 26.03.11 (Mac)",
-      "event_type": "update",
-      "app": "Citrix Workspace",
-      "platform": "mac",
-      "version_from": "26.03.0",
-      "version_to": "26.03.11",
-      "timestamp": "2026-06-25T21:38:20+00:00",
-      "download_url": "https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Mac/CitrixWorkspaceAppUniversal26.03.11.41.pkg"
-    },
-    {
-      "id": "arc/darwin-1.152.0-1.153.0",
-      "title": "Arc 1.152.0 \u2192 1.153.0 (Mac)",
-      "event_type": "update",
-      "app": "Arc",
-      "platform": "mac",
-      "version_from": "1.152.0",
-      "version_to": "1.153.0",
-      "timestamp": "2026-06-25T21:38:20+00:00",
-      "download_url": "https://releases.arc.net/release/Arc-1.153.0-82581.zip"
-    },
-    {
-      "id": "granola/darwin-7.356.2-7.372.1",
-      "title": "Granola 7.356.2 \u2192 7.372.1 (Mac)",
-      "event_type": "update",
-      "app": "Granola",
-      "platform": "mac",
-      "version_from": "7.356.2",
-      "version_to": "7.372.1",
-      "timestamp": "2026-06-25T21:38:20+00:00",
-      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.372.1/Granola-7.372.1-mac-universal.dmg"
-    },
-    {
-      "id": "workflowy/darwin-4.3.2606230837-4.3.2606251429",
-      "title": "WorkFlowy 4.3.2606230837 \u2192 4.3.2606251429 (Mac)",
-      "event_type": "update",
-      "app": "WorkFlowy",
-      "platform": "mac",
-      "version_from": "4.3.2606230837",
-      "version_to": "4.3.2606251429",
-      "timestamp": "2026-06-25T21:38:20+00:00",
-      "download_url": "https://github.com/workflowy/desktop/releases/download/v4.3.2606251429/WorkFlowy.zip"
-    },
-    {
-      "id": "codex-app/darwin-26.616.81150-26.623.30605",
-      "title": "Codex 26.616.81150 \u2192 26.623.30605 (Mac)",
-      "event_type": "update",
-      "app": "Codex",
-      "platform": "mac",
-      "version_from": "26.616.81150",
-      "version_to": "26.623.30605",
-      "timestamp": "2026-06-25T21:38:20+00:00",
-      "download_url": "https://persistent.oaistatic.com/codex-app-prod/Codex-darwin-arm64-26.623.30605.zip"
-    },
-    {
-      "id": "copilot-money/darwin-6.4.2-6.4.3",
-      "title": "Copilot 6.4.2 \u2192 6.4.3 (Mac)",
-      "event_type": "update",
-      "app": "Copilot",
-      "platform": "mac",
-      "version_from": "6.4.2",
-      "version_to": "6.4.3",
-      "timestamp": "2026-06-25T21:38:20+00:00",
-      "download_url": "https://storage.googleapis.com/copilot-mac-releases/images/Copilot-6.4.3-330-ce1410d6.dmg"
-    },
-    {
-      "id": "webex/darwin-46.6.0.35178-46.6.1.35236",
-      "title": "Webex 46.6.0.35178 \u2192 46.6.1.35236 (Mac)",
-      "event_type": "update",
-      "app": "Webex",
-      "platform": "mac",
-      "version_from": "46.6.0.35178",
-      "version_to": "46.6.1.35236",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://binaries.webex.com/webex-macos-apple-silicon/Webex.dmg"
-    },
-    {
-      "id": "opencode-desktop/darwin-1.17.10-1.17.11",
-      "title": "OpenCode 1.17.10 \u2192 1.17.11 (Mac)",
-      "event_type": "update",
-      "app": "OpenCode",
-      "platform": "mac",
-      "version_from": "1.17.10",
-      "version_to": "1.17.11",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://github.com/anomalyco/opencode/releases/download/v1.17.11/opencode-desktop-mac-arm64.dmg"
-    },
-    {
-      "id": "nordvpn/darwin-10.4.0-10.5.1",
-      "title": "NordVPN 10.4.0 \u2192 10.5.1 (Mac)",
-      "event_type": "update",
-      "app": "NordVPN",
-      "platform": "mac",
-      "version_from": "10.4.0",
-      "version_to": "10.5.1",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://downloads.nordcdn.com/apps/macos/generic/NordVPN-OpenVPN/10.5.1/NordVPN.pkg"
-    },
-    {
-      "id": "rive/darwin-0.8.5103-0.8.5113",
-      "title": "Rive 0.8.5103 \u2192 0.8.5113 (Mac)",
-      "event_type": "update",
-      "app": "Rive",
-      "platform": "mac",
-      "version_from": "0.8.5103",
-      "version_to": "0.8.5113",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://releases.rive.app/macos/0.8.5113/Rive.dmg"
-    },
-    {
-      "id": "shapr3d/darwin-26.110.0.11116-26.111.0.11141",
-      "title": "Shapr3D 26.110.0.11116 \u2192 26.111.0.11141 (Mac)",
-      "event_type": "update",
-      "app": "Shapr3D",
-      "platform": "mac",
-      "version_from": "26.110.0.11116",
-      "version_to": "26.111.0.11141",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://download.shapr3d.com/mac/Shapr3D-26.111.0.11141.dmg"
-    },
-    {
-      "id": "clop/darwin-3.1.0-3.2.0",
-      "title": "Clop 3.1.0 \u2192 3.2.0 (Mac)",
-      "event_type": "update",
-      "app": "Clop",
-      "platform": "mac",
-      "version_from": "3.1.0",
-      "version_to": "3.2.0",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://files.lowtechguys.com/releases/Clop-3.2.0.dmg"
-    },
-    {
-      "id": "postman/darwin-12.16.2-12.16.3",
-      "title": "Postman 12.16.2 \u2192 12.16.3 (Mac)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "mac",
-      "version_from": "12.16.2",
-      "version_to": "12.16.3",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.16.3/osx_arm64"
-    },
-    {
-      "id": "notchnook/darwin-1.5.5-1.6.2",
-      "title": "NotchNook 1.5.5 \u2192 1.6.2 (Mac)",
-      "event_type": "update",
-      "app": "NotchNook",
-      "platform": "mac",
-      "version_from": "1.5.5",
-      "version_to": "1.6.2",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://lo.cafe/notchnook-files/NotchNook-1.6.2.zip"
-    },
-    {
-      "id": "cursor/darwin-3.8.23-3.8.24",
-      "title": "Cursor 3.8.23 \u2192 3.8.24 (Mac)",
-      "event_type": "update",
-      "app": "Cursor",
-      "platform": "mac",
-      "version_from": "3.8.23",
-      "version_to": "3.8.24",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://downloads.cursor.com/production/cf80f4b937f3b9c48070d7085129a838ce7876a3/darwin/arm64/Cursor-darwin-arm64.zip"
-    },
-    {
-      "id": "whatsapp/darwin-26.25.15-26.25.20",
-      "title": "WhatsApp 26.25.15 \u2192 26.25.20 (Mac)",
-      "event_type": "update",
-      "app": "WhatsApp",
-      "platform": "mac",
-      "version_from": "26.25.15",
-      "version_to": "26.25.20",
-      "timestamp": "2026-06-25T17:52:57+00:00",
-      "download_url": "https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release&amp;src=whatsapp_downloads_page"
-    },
-    {
-      "id": "termius/darwin-9.39.0-9.40.1",
-      "title": "Termius 9.39.0 \u2192 9.40.1 (Mac)",
-      "event_type": "update",
-      "app": "Termius",
-      "platform": "mac",
-      "version_from": "9.39.0",
-      "version_to": "9.40.1",
-      "timestamp": "2026-06-25T13:47:26+00:00",
-      "download_url": "https://autoupdate.termius.com/mac-arm64/Termius.dmg"
-    },
-    {
-      "id": "tableplus/darwin-7.2.2-26.6.0",
-      "title": "TablePlus 7.2.2 \u2192 26.6.0 (Mac)",
-      "event_type": "update",
-      "app": "TablePlus",
-      "platform": "mac",
-      "version_from": "7.2.2",
-      "version_to": "26.6.0",
-      "timestamp": "2026-06-25T13:47:26+00:00",
-      "download_url": "https://files.tableplus.com/macos/730/TablePlus.dmg"
-    },
-    {
-      "id": "termius/windows-9.39.0-9.40.1",
-      "title": "Termius 9.39.0 \u2192 9.40.1 (Windows)",
-      "event_type": "update",
-      "app": "Termius",
-      "platform": "windows",
-      "version_from": "9.39.0",
-      "version_to": "9.40.1",
-      "timestamp": "2026-06-25T13:47:26+00:00",
-      "download_url": "https://autoupdate.termius.com/windows/Install%20Termius.exe"
-    },
-    {
-      "id": "cursor/windows-3.8.23-3.8.24",
-      "title": "Cursor 3.8.23 \u2192 3.8.24 (Windows)",
-      "event_type": "update",
-      "app": "Cursor",
-      "platform": "windows",
-      "version_from": "3.8.23",
-      "version_to": "3.8.24",
-      "timestamp": "2026-06-25T13:47:26+00:00",
-      "download_url": "https://downloads.cursor.com/production/cf80f4b937f3b9c48070d7085129a838ce7876a3/win32/x64/system-setup/CursorSetup-x64-3.8.24.exe"
-    },
-    {
-      "id": "google-gemini/darwin-1.72.2.419-1.79.1.457",
-      "title": "Gemini 1.72.2.419 \u2192 1.79.1.457 (Mac)",
-      "event_type": "update",
-      "app": "Gemini",
-      "platform": "mac",
-      "version_from": "1.72.2.419",
-      "version_to": "1.79.1.457",
-      "timestamp": "2026-06-25T13:47:26+00:00",
-      "download_url": "https://dl.google.com/release2/j33ro/release/Gemini.dmg"
-    },
-    {
-      "id": "brave-browser/windows-149.1.91.172-149.1.91.178",
-      "title": "Brave 149.1.91.172 \u2192 149.1.91.178 (Windows)",
-      "event_type": "update",
-      "app": "Brave",
-      "platform": "windows",
-      "version_from": "149.1.91.172",
-      "version_to": "149.1.91.178",
-      "timestamp": "2026-06-25T13:47:26+00:00",
-      "download_url": "https://github.com/brave/brave-browser/releases/download/v1.91.178/BraveBrowserStandaloneSilentSetup.exe"
-    },
-    {
-      "id": "alcove/darwin-1.7.4-1.7.5",
-      "title": "Alcove 1.7.4 \u2192 1.7.5 (Mac)",
-      "event_type": "update",
-      "app": "Alcove",
-      "platform": "mac",
-      "version_from": "1.7.4",
-      "version_to": "1.7.5",
-      "timestamp": "2026-06-25T13:47:26+00:00",
-      "download_url": "https://download.tryalcove.com/Alcove.dmg"
     }
   ]
 }
