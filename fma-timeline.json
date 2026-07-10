@@ -1,9 +1,119 @@
 {
-  "generated": "2026-07-09T18:40:33Z",
+  "generated": "2026-07-10T00:46:49Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "mendeley-reference-manager/darwin-2.145.0-2.146.1",
+      "title": "Mendeley Reference Manager 2.145.0 \u2192 2.146.1 (Mac)",
+      "event_type": "update",
+      "app": "Mendeley Reference Manager",
+      "platform": "mac",
+      "version_from": "2.145.0",
+      "version_to": "2.146.1",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.146.1-universal.dmg"
+    },
+    {
+      "id": "signal/windows-8.17.0-8.18.0",
+      "title": "Signal 8.17.0 \u2192 8.18.0 (Windows)",
+      "event_type": "update",
+      "app": "Signal",
+      "platform": "windows",
+      "version_from": "8.17.0",
+      "version_to": "8.18.0",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://updates.signal.org/desktop/signal-desktop-win-8.18.0.exe"
+    },
+    {
+      "id": "bettertouchtool/darwin-6.626-6.629",
+      "title": "BetterTouchTool 6.626 \u2192 6.629 (Mac)",
+      "event_type": "update",
+      "app": "BetterTouchTool",
+      "platform": "mac",
+      "version_from": "6.626",
+      "version_to": "6.629",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://folivora.ai/releases/btt6.629-2026070902.zip"
+    },
+    {
+      "id": "alt-tab/darwin-11.4.2-11.4.3",
+      "title": "AltTab 11.4.2 \u2192 11.4.3 (Mac)",
+      "event_type": "update",
+      "app": "AltTab",
+      "platform": "mac",
+      "version_from": "11.4.2",
+      "version_to": "11.4.3",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://github.com/lwouis/alt-tab-macos/releases/download/v11.4.3/AltTab-11.4.3.zip"
+    },
+    {
+      "id": "wechat/darwin-4.1.11.51-4.1.11.53",
+      "title": "WeChat for Mac 4.1.11.51 \u2192 4.1.11.53 (Mac)",
+      "event_type": "update",
+      "app": "WeChat for Mac",
+      "platform": "mac",
+      "version_from": "4.1.11.51",
+      "version_to": "4.1.11.53",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://dldir1.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.11.53_41748.dmg"
+    },
+    {
+      "id": "emclient/darwin-10.4.5600-10.4.5608",
+      "title": "eM Client 10.4.5600 \u2192 10.4.5608 (Mac)",
+      "event_type": "update",
+      "app": "eM Client",
+      "platform": "mac",
+      "version_from": "10.4.5600",
+      "version_to": "10.4.5608",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://cdn-dist.emclient.com/dist/v10.4.5608_Mac/setup.pkg"
+    },
+    {
+      "id": "whatsapp/darwin-26.27.17-26.27.19",
+      "title": "WhatsApp 26.27.17 \u2192 26.27.19 (Mac)",
+      "event_type": "update",
+      "app": "WhatsApp",
+      "platform": "mac",
+      "version_from": "26.27.17",
+      "version_to": "26.27.19",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release&amp;src=whatsapp_downloads_page"
+    },
+    {
+      "id": "setapp/darwin-3.53.6-3.53.11",
+      "title": "Setapp 3.53.6 \u2192 3.53.11 (Mac)",
+      "event_type": "update",
+      "app": "Setapp",
+      "platform": "mac",
+      "version_from": "3.53.6",
+      "version_to": "3.53.11",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://dl.devmate.com/com.setapp.DesktopClient/152/1783581855/Setapp-152.zip"
+    },
+    {
+      "id": "tuple/darwin-3.1.0-3.1.1",
+      "title": "Tuple 3.1.0 \u2192 3.1.1 (Mac)",
+      "event_type": "update",
+      "app": "Tuple",
+      "platform": "mac",
+      "version_from": "3.1.0",
+      "version_to": "3.1.1",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-3.1.1-2026-07-09-ea901e899d.zip"
+    },
+    {
+      "id": "badgeify/darwin-1.13.3-1.13.4",
+      "title": "Badgeify 1.13.3 \u2192 1.13.4 (Mac)",
+      "event_type": "update",
+      "app": "Badgeify",
+      "platform": "mac",
+      "version_from": "1.13.3",
+      "version_to": "1.13.4",
+      "timestamp": "2026-07-09T21:39:51+00:00",
+      "download_url": "https://api.badgeify.app/release/download/darwin/universal/1.13.4"
+    },
     {
       "id": "loom/darwin-0.359.0-0.360.0",
       "title": "Loom 0.359.0 \u2192 0.360.0 (Mac)",
@@ -5098,92 +5208,15 @@
       "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.110.26062818_Installer.pkg"
     },
     {
-      "id": "tailscale/windows-1.98.4-1.98.8",
-      "title": "Tailscale 1.98.4 \u2192 1.98.8 (Windows)",
+      "id": "principle/darwin-6.42-6.43",
+      "title": "Principle 6.42 \u2192 6.43 (Mac)",
       "event_type": "update",
-      "app": "Tailscale",
-      "platform": "windows",
-      "version_from": "1.98.4",
-      "version_to": "1.98.8",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://pkgs.tailscale.com/stable/tailscale-setup-1.98.8-amd64.msi"
-    },
-    {
-      "id": "marked-app/darwin-3.1.4-3.1.5",
-      "title": "Marked 3.1.4 \u2192 3.1.5 (Mac)",
-      "event_type": "update",
-      "app": "Marked",
+      "app": "Principle",
       "platform": "mac",
-      "version_from": "3.1.4",
-      "version_to": "3.1.5",
+      "version_from": "6.42",
+      "version_to": "6.43",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://updates.markedapp.com/updates/Marked%203.1.5.zip"
-    },
-    {
-      "id": "microsoft-azure-storage-explorer/darwin-1.43.0-1.44.0",
-      "title": "Microsoft Azure Storage Explorer 1.43.0 \u2192 1.44.0 (Mac)",
-      "event_type": "update",
-      "app": "Microsoft Azure Storage Explorer",
-      "platform": "mac",
-      "version_from": "1.43.0",
-      "version_to": "1.44.0",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.44.0/StorageExplorer-darwin-arm64.zip"
-    },
-    {
-      "id": "drawio/windows-30.2.4-30.2.6",
-      "title": "draw.io 30.2.4 \u2192 30.2.6 (Windows)",
-      "event_type": "update",
-      "app": "draw.io",
-      "platform": "windows",
-      "version_from": "30.2.4",
-      "version_to": "30.2.6",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://github.com/jgraph/drawio-desktop/releases/download/v30.2.6/draw.io-30.2.6-windows-installer.exe"
-    },
-    {
-      "id": "notion-calendar/darwin-1.137.0-1.138.0",
-      "title": "Notion Calendar 1.137.0 \u2192 1.138.0 (Mac)",
-      "event_type": "update",
-      "app": "Notion Calendar",
-      "platform": "mac",
-      "version_from": "1.137.0",
-      "version_to": "1.138.0",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://calendar-desktop-release.notion-static.com/Notion%20Calendar-darwin-arm64-1.138.0.zip"
-    },
-    {
-      "id": "fellow/darwin-5.3.3-5.4.4",
-      "title": "Fellow 5.3.3 \u2192 5.4.4 (Mac)",
-      "event_type": "update",
-      "app": "Fellow",
-      "platform": "mac",
-      "version_from": "5.3.3",
-      "version_to": "5.4.4",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://cdn.fellow.app/desktop/5.4.4/darwin/stable/universal/Fellow-5.4.4-universal.dmg"
-    },
-    {
-      "id": "miro/darwin-0.11.144-0.11.154",
-      "title": "Miro 0.11.144 \u2192 0.11.154 (Mac)",
-      "event_type": "update",
-      "app": "Miro",
-      "platform": "mac",
-      "version_from": "0.11.144",
-      "version_to": "0.11.154",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://desktop.miro.com/platforms/darwin-arm64/Install-Miro.dmg"
-    },
-    {
-      "id": "rstudio/windows-2026.05.1+225-2026.06.0+242",
-      "title": "RStudio 2026.05.1+225 \u2192 2026.06.0+242 (Windows)",
-      "event_type": "update",
-      "app": "RStudio",
-      "platform": "windows",
-      "version_from": "2026.05.1+225",
-      "version_to": "2026.06.0+242",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://download1.rstudio.org/electron/windows/RStudio-2026.06.0-242.exe"
+      "download_url": "https://principleformac.com/download/Principle_6_43.zip"
     },
     {
       "id": "tailscale-app/darwin-1.98.5-1.98.8",
@@ -5206,50 +5239,6 @@
       "version_to": "1.4.1903",
       "timestamp": "2026-06-30T16:01:35+00:00",
       "download_url": "https://github.com/notepadhq/notepadexe-public/releases/download/1.4.1903/Notepad.zip"
-    },
-    {
-      "id": "notesnook/windows-3.3.23-3.4.0",
-      "title": "Notesnook 3.3.23 \u2192 3.4.0 (Windows)",
-      "event_type": "update",
-      "app": "Notesnook",
-      "platform": "windows",
-      "version_from": "3.3.23",
-      "version_to": "3.4.0",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.0/notesnook_win_x64.exe"
-    },
-    {
-      "id": "keka/darwin-1.6.5-1.6.6",
-      "title": "Keka 1.6.5 \u2192 1.6.6 (Mac)",
-      "event_type": "update",
-      "app": "Keka",
-      "platform": "mac",
-      "version_from": "1.6.5",
-      "version_to": "1.6.6",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://github.com/aonez/Keka/releases/download/v1.6.6/Keka-1.6.6.dmg"
-    },
-    {
-      "id": "postman/windows-12.17.0-12.17.1",
-      "title": "Postman 12.17.0 \u2192 12.17.1 (Windows)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "windows",
-      "version_from": "12.17.0",
-      "version_to": "12.17.1",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.17.1/windows_64"
-    },
-    {
-      "id": "elgato-stream-deck/windows-7.4.2.22730-7.5.0.22885",
-      "title": "Elgato Stream Deck 7.4.2.22730 \u2192 7.5.0.22885 (Windows)",
-      "event_type": "update",
-      "app": "Elgato Stream Deck",
-      "platform": "windows",
-      "version_from": "7.4.2.22730",
-      "version_to": "7.5.0.22885",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://edge.elgato.com/egc/windows/sd/Stream_Deck_7.5.0.22885.msi"
     },
     {
       "id": "reaper/windows-7.75-7.76",
@@ -5395,114 +5384,125 @@
       "download_url": "https://novabench.com/files/novabench.dmg"
     },
     {
-      "id": "todoist-app/windows-9.28.0-9.29.1",
-      "title": "Todoist 9.28.0 \u2192 9.29.1 (Windows)",
+      "id": "tailscale/windows-1.98.4-1.98.8",
+      "title": "Tailscale 1.98.4 \u2192 1.98.8 (Windows)",
       "event_type": "update",
-      "app": "Todoist",
+      "app": "Tailscale",
       "platform": "windows",
-      "version_from": "9.28.0",
-      "version_to": "9.29.1",
+      "version_from": "1.98.4",
+      "version_to": "1.98.8",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://electron-dl.todoist.net/windows/Todoist-win32-9.29.1-x64-latest.exe"
+      "download_url": "https://pkgs.tailscale.com/stable/tailscale-setup-1.98.8-amd64.msi"
     },
     {
-      "id": "fellow/windows-5.3.3-5.4.4",
-      "title": "Fellow 5.3.3 \u2192 5.4.4 (Windows)",
+      "id": "mimestream/darwin-1.10.2-1.10.3",
+      "title": "Mimestream 1.10.2 \u2192 1.10.3 (Mac)",
       "event_type": "update",
-      "app": "Fellow",
-      "platform": "windows",
-      "version_from": "5.3.3",
-      "version_to": "5.4.4",
+      "app": "Mimestream",
+      "platform": "mac",
+      "version_from": "1.10.2",
+      "version_to": "1.10.3",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://cdn.fellow.app/desktop/5.4.4/win32/stable/x64/Fellow-5.4.4.exe"
+      "download_url": "https://download.mimestream.com/Mimestream_1.10.3.dmg"
     },
     {
-      "id": "loom/darwin-0.356.1-0.357.1",
-      "title": "Loom 0.356.1 \u2192 0.357.1 (Mac)",
+      "id": "discord/windows-1.0.9243-1.0.9244",
+      "title": "Discord 1.0.9243 \u2192 1.0.9244 (Windows)",
+      "event_type": "update",
+      "app": "Discord",
+      "platform": "windows",
+      "version_from": "1.0.9243",
+      "version_to": "1.0.9244",
+      "timestamp": "2026-06-30T16:01:35+00:00",
+      "download_url": "https://dl.discordapp.net/distro/app/stable/win/x64/1.0.9244/DiscordSetup.exe"
+    },
+    {
+      "id": "krisp/darwin-3.12.5-3.13.8",
+      "title": "Krisp 3.12.5 \u2192 3.13.8 (Mac)",
+      "event_type": "update",
+      "app": "Krisp",
+      "platform": "mac",
+      "version_from": "3.12.5",
+      "version_to": "3.13.8",
+      "timestamp": "2026-06-30T16:01:35+00:00",
+      "download_url": "https://cdn.krisp.ai/mp/mn/3.13/mac/Krisp_3.13.8_arm64.pkg"
+    },
+    {
+      "id": "aptakube/windows-1.17.2-1.18.0",
+      "title": "Aptakube 1.17.2 \u2192 1.18.0 (Windows)",
+      "event_type": "update",
+      "app": "Aptakube",
+      "platform": "windows",
+      "version_from": "1.17.2",
+      "version_to": "1.18.0",
+      "timestamp": "2026-06-30T16:01:35+00:00",
+      "download_url": "https://releases.aptakube.com/Aptakube_1.18.0_x64_en-US.msi"
+    },
+    {
+      "id": "loom/windows-0.356.1-0.357.1",
+      "title": "Loom 0.356.1 \u2192 0.357.1 (Windows)",
       "event_type": "update",
       "app": "Loom",
-      "platform": "mac",
+      "platform": "windows",
       "version_from": "0.356.1",
       "version_to": "0.357.1",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://packages.loom.com/desktop-packages/Loom-0.357.1-arm64.dmg"
+      "download_url": "https://cdn.loom.com/desktop-packages/Loom%20Setup%200.357.1.exe"
     },
     {
-      "id": "spokenly/darwin-2.23.3-2.23.5",
-      "title": "Spokenly 2.23.3 \u2192 2.23.5 (Mac)",
+      "id": "cloudflare-warp/windows-26.4.1390.0-26.6.822.0",
+      "title": "Cloudflare One 26.4.1390.0 \u2192 26.6.822.0 (Windows)",
       "event_type": "update",
-      "app": "Spokenly",
-      "platform": "mac",
-      "version_from": "2.23.3",
-      "version_to": "2.23.5",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://cdn.spokenly.app/releases/macos/Spokenly-2.23.5.dmg"
-    },
-    {
-      "id": "gyazo/darwin-10.10.2-10.11.0",
-      "title": "Nota Gyazo GIF 10.10.2 \u2192 10.11.0 (Mac)",
-      "event_type": "update",
-      "app": "Nota Gyazo GIF",
-      "platform": "mac",
-      "version_from": "10.10.2",
-      "version_to": "10.11.0",
-      "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://files.gyazo.com/setup/Gyazo-10.11.0.pkg"
-    },
-    {
-      "id": "aws-cli/windows-2.35.11-2.35.12",
-      "title": "AWS Command Line Interface v2 2.35.11 \u2192 2.35.12 (Windows)",
-      "event_type": "update",
-      "app": "AWS Command Line Interface v2",
+      "app": "Cloudflare One",
       "platform": "windows",
-      "version_from": "2.35.11",
-      "version_to": "2.35.12",
+      "version_from": "26.4.1390.0",
+      "version_to": "26.6.822.0",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.35.12.msi"
+      "download_url": "https://downloads.cloudflareclient.com/v1/download/windows/version/2026.6.822.0"
     },
     {
-      "id": "todoist-app/darwin-9.28.0-9.29.1",
-      "title": "Todoist 9.28.0 \u2192 9.29.1 (Mac)",
+      "id": "nextcloud/darwin-33.0.6-33.0.7",
+      "title": "Nextcloud 33.0.6 \u2192 33.0.7 (Mac)",
       "event_type": "update",
-      "app": "Todoist",
+      "app": "Nextcloud",
       "platform": "mac",
-      "version_from": "9.28.0",
-      "version_to": "9.29.1",
+      "version_from": "33.0.6",
+      "version_to": "33.0.7",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://electron-dl.todoist.com/mac/Todoist-darwin-9.29.1-arm64-latest.dmg"
+      "download_url": "https://github.com/nextcloud-releases/desktop/releases/download/v33.0.7/Nextcloud-33.0.7.pkg"
     },
     {
-      "id": "notesnook/darwin-3.3.23-3.4.0",
-      "title": "Notesnook 3.3.23 \u2192 3.4.0 (Mac)",
+      "id": "docker-desktop/darwin-4.79.0-4.80.0",
+      "title": "Docker Desktop 4.79.0 \u2192 4.80.0 (Mac)",
       "event_type": "update",
-      "app": "Notesnook",
+      "app": "Docker Desktop",
       "platform": "mac",
-      "version_from": "3.3.23",
-      "version_to": "3.4.0",
+      "version_from": "4.79.0",
+      "version_to": "4.80.0",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.0/notesnook_mac_arm64.dmg"
+      "download_url": "https://desktop.docker.com/mac/main/arm64/232116/Docker.dmg"
     },
     {
-      "id": "rocket-chat/darwin-4.14.1-4.15.0",
-      "title": "Rocket.Chat 4.14.1 \u2192 4.15.0 (Mac)",
+      "id": "reqable/windows-3.2.1-3.2.2",
+      "title": "Reqable 3.2.1 \u2192 3.2.2 (Windows)",
       "event_type": "update",
-      "app": "Rocket.Chat",
-      "platform": "mac",
-      "version_from": "4.14.1",
-      "version_to": "4.15.0",
+      "app": "Reqable",
+      "platform": "windows",
+      "version_from": "3.2.1",
+      "version_to": "3.2.2",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.0/rocketchat-4.15.0-mac.dmg"
+      "download_url": "https://github.com/reqable/reqable-app/releases/download/3.2.2/reqable-app-windows-x86_64.exe"
     },
     {
-      "id": "moom/darwin-4.5.0-4.5.1",
-      "title": "Moom 4.5.0 \u2192 4.5.1 (Mac)",
+      "id": "rstudio/windows-2026.05.1+225-2026.06.0+242",
+      "title": "RStudio 2026.05.1+225 \u2192 2026.06.0+242 (Windows)",
       "event_type": "update",
-      "app": "Moom",
-      "platform": "mac",
-      "version_from": "4.5.0",
-      "version_to": "4.5.1",
+      "app": "RStudio",
+      "platform": "windows",
+      "version_from": "2026.05.1+225",
+      "version_to": "2026.06.0+242",
       "timestamp": "2026-06-30T16:01:35+00:00",
-      "download_url": "https://manytricks.com/download/_do_not_hotlink_/moom451.dmg"
+      "download_url": "https://download1.rstudio.org/electron/windows/RStudio-2026.06.0-242.exe"
     }
   ]
 }
