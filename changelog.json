@@ -1,5 +1,16 @@
 [
   {
+    "sha": "13a80c4bc8c25f467e065574de84338a9143b9ae",
+    "short_sha": "13a80c4bc8",
+    "author": "Allen Houchins",
+    "message": "Auto-install 1Password patches on Workstations (#48585)",
+    "timestamp": "2026-07-13T09:28:23-05:00",
+    "files": [
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
     "sha": "08c22ebe58f0788a7c8d342a04265d374b2b3070",
     "short_sha": "08c22ebe58",
     "author": "Allen Houchins",
