@@ -1,5 +1,25 @@
 [
   {
+    "sha": "5a563e2bad0ab437964a05d636e4078942700ff6",
+    "short_sha": "5a563e2bad",
+    "author": "Allen Houchins",
+    "message": "Update Zoom Workplace label query (#49317)",
+    "timestamp": "2026-07-14T20:46:35-05:00",
+    "files": [
+      "it-and-security/lib/all/labels/windows-with-fleet-maintained-apps-installed.yml"
+    ]
+  },
+  {
+    "sha": "2c895cf603403d478b9a25f9bedd977265c80d31",
+    "short_sha": "2c895cf603",
+    "author": "Allen Houchins",
+    "message": "Add Entra client ID to default controls (#49302)",
+    "timestamp": "2026-07-14T20:40:57-05:00",
+    "files": [
+      "it-and-security/default.yml"
+    ]
+  },
+  {
     "sha": "13a80c4bc8c25f467e065574de84338a9143b9ae",
     "short_sha": "13a80c4bc8",
     "author": "Allen Houchins",
