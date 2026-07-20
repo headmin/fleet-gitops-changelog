@@ -1,9 +1,152 @@
 {
-  "generated": "2026-07-20T12:49:05Z",
+  "generated": "2026-07-20T18:42:26Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "duckduckgo/darwin-1.198.0-1.199.0",
+      "title": "DuckDuckGo 1.198.0 \u2192 1.199.0 (Mac)",
+      "event_type": "update",
+      "app": "DuckDuckGo",
+      "platform": "mac",
+      "version_from": "1.198.0",
+      "version_to": "1.199.0",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.199.0.762.dmg"
+    },
+    {
+      "id": "postman/darwin-12.19.6-12.20.0",
+      "title": "Postman 12.19.6 \u2192 12.20.0 (Mac)",
+      "event_type": "update",
+      "app": "Postman",
+      "platform": "mac",
+      "version_from": "12.19.6",
+      "version_to": "12.20.0",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://dl.pstmn.io/download/version/12.20.0/osx_arm64"
+    },
+    {
+      "id": "zoom/darwin-7.1.0.83064-7.1.5.84650",
+      "title": "Zoom 7.1.0.83064 \u2192 7.1.5.84650 (Mac)",
+      "event_type": "update",
+      "app": "Zoom",
+      "platform": "mac",
+      "version_from": "7.1.0.83064",
+      "version_to": "7.1.5.84650",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://zoom.us/client/latest/ZoomInstallerIT.pkg"
+    },
+    {
+      "id": "devin-desktop/darwin-3.4.27-3.5.17",
+      "title": "Devin Desktop 3.4.27 \u2192 3.5.17 (Mac)",
+      "event_type": "update",
+      "app": "Devin Desktop",
+      "platform": "mac",
+      "version_from": "3.4.27",
+      "version_to": "3.5.17",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/stable/2c489dfc762456657db8662309c0d5e76e886397/Devin-darwin-arm64-3.5.17.dmg"
+    },
+    {
+      "id": "zoom-rooms/darwin-7.0.5.12655-7.1.0.13088",
+      "title": "Zoom Rooms 7.0.5.12655 \u2192 7.1.0.13088 (Mac)",
+      "event_type": "update",
+      "app": "Zoom Rooms",
+      "platform": "mac",
+      "version_from": "7.0.5.12655",
+      "version_to": "7.1.0.13088",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://cdn.zoom.us/prod/7.1.0.13088/ZoomRooms.pkg"
+    },
+    {
+      "id": "picview/darwin-4.2.0-5.0.0",
+      "title": "PicView 4.2.0 \u2192 5.0.0 (Mac)",
+      "event_type": "update",
+      "app": "PicView",
+      "platform": "mac",
+      "version_from": "4.2.0",
+      "version_to": "5.0.0",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://github.com/Ruben2776/PicView/releases/download/5.0.0/PicView-5.0.0-macOS-arm64.dmg"
+    },
+    {
+      "id": "druva-insync/darwin-7.6.1-8.1.3",
+      "title": "Druva inSync 7.6.1 \u2192 8.1.3 (Mac)",
+      "event_type": "update",
+      "app": "Druva inSync",
+      "platform": "mac",
+      "version_from": "7.6.1",
+      "version_to": "8.1.3",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://downloads.druva.com/downloads/inSync/MAC/8.1.3/inSync-8.1.3-r110967.dmg"
+    },
+    {
+      "id": "processing/darwin-4.5.5-4.5.6",
+      "title": "Processing 4.5.5 \u2192 4.5.6 (Mac)",
+      "event_type": "update",
+      "app": "Processing",
+      "platform": "mac",
+      "version_from": "4.5.5",
+      "version_to": "4.5.6",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://github.com/processing/processing4/releases/download/processing-1434-4.5.6/processing-4.5.6-macos-aarch64.dmg"
+    },
+    {
+      "id": "shapr3d/darwin-26.120.0.11243-26.121.0.11316",
+      "title": "Shapr3D 26.120.0.11243 \u2192 26.121.0.11316 (Mac)",
+      "event_type": "update",
+      "app": "Shapr3D",
+      "platform": "mac",
+      "version_from": "26.120.0.11243",
+      "version_to": "26.121.0.11316",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://download.shapr3d.com/mac/Shapr3D-26.121.0.11316.dmg"
+    },
+    {
+      "id": "chatgpt/darwin-26.715.31925-26.715.52143",
+      "title": "ChatGPT Desktop 26.715.31925 \u2192 26.715.52143 (Mac)",
+      "event_type": "update",
+      "app": "ChatGPT Desktop",
+      "platform": "mac",
+      "version_from": "26.715.31925",
+      "version_to": "26.715.52143",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.715.52143.zip"
+    },
+    {
+      "id": "postman/windows-12.19.6-12.20.0",
+      "title": "Postman 12.19.6 \u2192 12.20.0 (Windows)",
+      "event_type": "update",
+      "app": "Postman",
+      "platform": "windows",
+      "version_from": "12.19.6",
+      "version_to": "12.20.0",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://dl.pstmn.io/download/version/12.20.0/windows_64"
+    },
+    {
+      "id": "krisp/darwin-3.13.12-3.14.4",
+      "title": "Krisp 3.13.12 \u2192 3.14.4 (Mac)",
+      "event_type": "update",
+      "app": "Krisp",
+      "platform": "mac",
+      "version_from": "3.13.12",
+      "version_to": "3.14.4",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://cdn.krisp.ai/mp/mn/3.14/mac/Krisp_3.14.4_arm64.pkg"
+    },
+    {
+      "id": "fleet-desktop/darwin-1.3.2-1.3.4",
+      "title": "Fleet Desktop 1.3.2 \u2192 1.3.4 (Mac)",
+      "event_type": "update",
+      "app": "Fleet Desktop",
+      "platform": "mac",
+      "version_from": "1.3.2",
+      "version_to": "1.3.4",
+      "timestamp": "2026-07-20T15:56:47+00:00",
+      "download_url": "https://github.com/allenhouchins/fleet-desktop/releases/download/v1.3.4/fleet_desktop-v1.3.4.pkg"
+    },
     {
       "id": "readest/darwin-0.11.18-0.11.20",
       "title": "Readest 0.11.18 \u2192 0.11.20 (Mac)",
@@ -5054,6 +5197,17 @@
       "download_url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.9.2/Beekeeper-Studio-5.9.2-arm64.dmg"
     },
     {
+      "id": "crestron-airmedia-peripherals/windows--1.11.1.164",
+      "title": "New App: Crestron AirMedia Peripherals 1.11.1.164 (Windows)",
+      "event_type": "added",
+      "app": "Crestron AirMedia Peripherals",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "1.11.1.164",
+      "timestamp": "2026-07-10T16:28:43+00:00",
+      "download_url": "https://www.crestron.com/software_files_public/am-100/airmediaperipherals64_1.11.1.164.msi"
+    },
+    {
       "id": "drofus/windows-2.18.10.0-2.18.11.0",
       "title": "dRofus 2.18.10.0 \u2192 2.18.11.0 (Windows)",
       "event_type": "update",
@@ -5076,26 +5230,114 @@
       "download_url": "https://www.crestron.com/software_files_public/am-100/airmedia_windows_5.11.1.164.msi"
     },
     {
-      "id": "crestron-airmedia-peripherals/windows--1.11.1.164",
-      "title": "New App: Crestron AirMedia Peripherals 1.11.1.164 (Windows)",
-      "event_type": "added",
-      "app": "Crestron AirMedia Peripherals",
+      "id": "aws-vpn-client/windows-5.4.0-5.4.1",
+      "title": "AWS Client VPN 5.4.0 \u2192 5.4.1 (Windows)",
+      "event_type": "update",
+      "app": "AWS Client VPN",
       "platform": "windows",
-      "version_from": null,
-      "version_to": "1.11.1.164",
-      "timestamp": "2026-07-10T16:28:43+00:00",
-      "download_url": "https://www.crestron.com/software_files_public/am-100/airmediaperipherals64_1.11.1.164.msi"
+      "version_from": "5.4.0",
+      "version_to": "5.4.1",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://d20adtppz83p9s.cloudfront.net/WPF/5.4.1/AWS_VPN_Client.msi"
     },
     {
-      "id": "pdfsam-basic/darwin-6.0.1-6.0.3",
-      "title": "PDFsam Basic 6.0.1 \u2192 6.0.3 (Mac)",
+      "id": "zed/darwin-1.10.1-1.10.2",
+      "title": "Zed 1.10.1 \u2192 1.10.2 (Mac)",
       "event_type": "update",
-      "app": "PDFsam Basic",
+      "app": "Zed",
       "platform": "mac",
-      "version_from": "6.0.1",
-      "version_to": "6.0.3",
+      "version_from": "1.10.1",
+      "version_to": "1.10.2",
       "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://github.com/torakiki/pdfsam/releases/download/v6.0.3/pdfsam-basic-6.0.3-macos-arm64.dmg"
+      "download_url": "https://zed.dev/api/releases/stable/1.10.2/Zed-aarch64.dmg"
+    },
+    {
+      "id": "webex/darwin-46.6.1.35236-46.7.0.35381",
+      "title": "Webex 46.6.1.35236 \u2192 46.7.0.35381 (Mac)",
+      "event_type": "update",
+      "app": "Webex",
+      "platform": "mac",
+      "version_from": "46.6.1.35236",
+      "version_to": "46.7.0.35381",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://binaries.webex.com/webex-macos-apple-silicon/Webex.dmg"
+    },
+    {
+      "id": "postman/windows-12.18.4-12.18.5",
+      "title": "Postman 12.18.4 \u2192 12.18.5 (Windows)",
+      "event_type": "update",
+      "app": "Postman",
+      "platform": "windows",
+      "version_from": "12.18.4",
+      "version_to": "12.18.5",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://dl.pstmn.io/download/version/12.18.5/windows_64"
+    },
+    {
+      "id": "nordvpn/windows-8.4.3.0-8.5.1.0",
+      "title": "NordVPN 8.4.3.0 \u2192 8.5.1.0 (Windows)",
+      "event_type": "update",
+      "app": "NordVPN",
+      "platform": "windows",
+      "version_from": "8.4.3.0",
+      "version_to": "8.5.1.0",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://downloads.nordcdn.com/apps/windows/NordVPN/8.5.1.0/NordVPNInstall.exe"
+    },
+    {
+      "id": "session/darwin-1.18.0-1.18.1",
+      "title": "Session 1.18.0 \u2192 1.18.1 (Mac)",
+      "event_type": "update",
+      "app": "Session",
+      "platform": "mac",
+      "version_from": "1.18.0",
+      "version_to": "1.18.1",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://github.com/session-foundation/session-desktop/releases/download/v1.18.1/session-desktop-mac-arm64-1.18.1.dmg"
+    },
+    {
+      "id": "dataspell/windows--2026.1.2",
+      "title": "New App: DataSpell 2026.1.2 (Windows)",
+      "event_type": "added",
+      "app": "DataSpell",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "2026.1.2",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://download.jetbrains.com/python/dataspell-2026.1.2.exe"
+    },
+    {
+      "id": "reqable/windows-3.2.6-3.2.7",
+      "title": "Reqable 3.2.6 \u2192 3.2.7 (Windows)",
+      "event_type": "update",
+      "app": "Reqable",
+      "platform": "windows",
+      "version_from": "3.2.6",
+      "version_to": "3.2.7",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://github.com/reqable/reqable-app/releases/download/3.2.7/reqable-app-windows-x86_64.exe"
+    },
+    {
+      "id": "microsoft-edge/windows-150.0.4078.48-150.0.4078.65",
+      "title": "Microsoft Edge 150.0.4078.48 \u2192 150.0.4078.65 (Windows)",
+      "event_type": "update",
+      "app": "Microsoft Edge",
+      "platform": "windows",
+      "version_from": "150.0.4078.48",
+      "version_to": "150.0.4078.65",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0870b5f5-cf08-4f24-8383-f362a669fcd8/MicrosoftEdgeEnterpriseX64.msi"
+    },
+    {
+      "id": "dngrep/windows--5.0.9.0",
+      "title": "New App: dnGrep 5.0.9.0 (Windows)",
+      "event_type": "added",
+      "app": "dnGrep",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "5.0.9.0",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://github.com/dnGrep/dnGrep/releases/download/v5.0.9.0/dnGREP.5.0.9.x64.msi"
     },
     {
       "id": "devolutions-workspace/windows--2026.2.1.0",
@@ -5129,6 +5371,28 @@
       "version_to": "13.24",
       "timestamp": "2026-07-10T14:05:40+00:00",
       "download_url": "https://cdn2.gpsoft.com.au/files/Opus13/DOpusInstall-13.24.exe"
+    },
+    {
+      "id": "drofus/windows--2.18.10.0",
+      "title": "New App: dRofus 2.18.10.0 (Windows)",
+      "event_type": "added",
+      "app": "dRofus",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "2.18.10.0",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://deploy.drofus.com/stable/drofus-setup-2.18.10.msi"
+    },
+    {
+      "id": "dax-studio/windows--3.5.2",
+      "title": "New App: DAX Studio 3.5.2 (Windows)",
+      "event_type": "added",
+      "app": "DAX Studio",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "3.5.2",
+      "timestamp": "2026-07-10T14:05:40+00:00",
+      "download_url": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.5.2/DaxStudio_3_5_2_setup.exe"
     },
     {
       "id": "notepadexe/darwin-1.4.1925-1.4.1929",
@@ -5239,270 +5503,6 @@
       "version_to": "150.1.92.139",
       "timestamp": "2026-07-10T14:05:40+00:00",
       "download_url": "https://github.com/brave/brave-browser/releases/download/v1.92.139/BraveBrowserStandaloneSilentSetup.exe"
-    },
-    {
-      "id": "zed/darwin-1.10.1-1.10.2",
-      "title": "Zed 1.10.1 \u2192 1.10.2 (Mac)",
-      "event_type": "update",
-      "app": "Zed",
-      "platform": "mac",
-      "version_from": "1.10.1",
-      "version_to": "1.10.2",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://zed.dev/api/releases/stable/1.10.2/Zed-aarch64.dmg"
-    },
-    {
-      "id": "whatsapp/darwin-26.27.19-26.27.21",
-      "title": "WhatsApp 26.27.19 \u2192 26.27.21 (Mac)",
-      "event_type": "update",
-      "app": "WhatsApp",
-      "platform": "mac",
-      "version_from": "26.27.19",
-      "version_to": "26.27.21",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release&amp;src=whatsapp_downloads_page"
-    },
-    {
-      "id": "reqable/darwin-3.2.6-3.2.7",
-      "title": "Reqable 3.2.6 \u2192 3.2.7 (Mac)",
-      "event_type": "update",
-      "app": "Reqable",
-      "platform": "mac",
-      "version_from": "3.2.6",
-      "version_to": "3.2.7",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://github.com/reqable/reqable-app/releases/download/3.2.7/reqable-app-macos-arm64.dmg"
-    },
-    {
-      "id": "rocket-chat/darwin-4.15.2-4.15.3",
-      "title": "Rocket.Chat 4.15.2 \u2192 4.15.3 (Mac)",
-      "event_type": "update",
-      "app": "Rocket.Chat",
-      "platform": "mac",
-      "version_from": "4.15.2",
-      "version_to": "4.15.3",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.15.3/rocketchat-4.15.3-mac.dmg"
-    },
-    {
-      "id": "devolutions-launcher/windows--2026.2.13.0",
-      "title": "New App: Devolutions Launcher 2026.2.13.0 (Windows)",
-      "event_type": "added",
-      "app": "Devolutions Launcher",
-      "platform": "windows",
-      "version_from": null,
-      "version_to": "2026.2.13.0",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.2026.2.13.0.msi"
-    },
-    {
-      "id": "devpod/windows--0.6.15",
-      "title": "New App: DevPod 0.6.15 (Windows)",
-      "event_type": "added",
-      "app": "DevPod",
-      "platform": "windows",
-      "version_from": null,
-      "version_to": "0.6.15",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://github.com/loft-sh/devpod/releases/download/v0.6.15/DevPod_windows_x64_en-US.msi"
-    },
-    {
-      "id": "daisydisk/darwin-4.34.1-4.34.2",
-      "title": "DaisyDisk 4.34.1 \u2192 4.34.2 (Mac)",
-      "event_type": "update",
-      "app": "DaisyDisk",
-      "platform": "mac",
-      "version_from": "4.34.1",
-      "version_to": "4.34.2",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://daisydiskapp.com/download/DaisyDisk.zip"
-    },
-    {
-      "id": "ocenaudio/darwin-3.19.5-3.20.0",
-      "title": "ocenaudio 3.19.5 \u2192 3.20.0 (Mac)",
-      "event_type": "update",
-      "app": "ocenaudio",
-      "platform": "mac",
-      "version_from": "3.19.5",
-      "version_to": "3.20.0",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://www.ocenaudio.com/downloads/index.php/ocenaudio_universal.dmg"
-    },
-    {
-      "id": "warp/darwin-0.2026.07.01.09.21.01-0.2026.07.08.17.54.01",
-      "title": "Warp 0.2026.07.01.09.21.01 \u2192 0.2026.07.08.17.54.01 (Mac)",
-      "event_type": "update",
-      "app": "Warp",
-      "platform": "mac",
-      "version_from": "0.2026.07.01.09.21.01",
-      "version_to": "0.2026.07.08.17.54.01",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://releases.warp.dev/stable/v0.2026.07.08.17.54.stable_01/Warp.dmg"
-    },
-    {
-      "id": "vivaldi/windows-8.0.4033.57-8.1.4087.48",
-      "title": "Vivaldi 8.0.4033.57 \u2192 8.1.4087.48 (Windows)",
-      "event_type": "update",
-      "app": "Vivaldi",
-      "platform": "windows",
-      "version_from": "8.0.4033.57",
-      "version_to": "8.1.4087.48",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://downloads.vivaldi.com/stable/Vivaldi.8.1.4087.48.x64.exe"
-    },
-    {
-      "id": "figma/windows-126.6.12-126.6.14",
-      "title": "Figma 126.6.12 \u2192 126.6.14 (Windows)",
-      "event_type": "update",
-      "app": "Figma",
-      "platform": "windows",
-      "version_from": "126.6.12",
-      "version_to": "126.6.14",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://desktop.figma.com/win/build/Figma-126.6.14.exe"
-    },
-    {
-      "id": "aws-vpn-client/windows-5.4.0-5.4.1",
-      "title": "AWS Client VPN 5.4.0 \u2192 5.4.1 (Windows)",
-      "event_type": "update",
-      "app": "AWS Client VPN",
-      "platform": "windows",
-      "version_from": "5.4.0",
-      "version_to": "5.4.1",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://d20adtppz83p9s.cloudfront.net/WPF/5.4.1/AWS_VPN_Client.msi"
-    },
-    {
-      "id": "dax-studio/windows--3.5.2",
-      "title": "New App: DAX Studio 3.5.2 (Windows)",
-      "event_type": "added",
-      "app": "DAX Studio",
-      "platform": "windows",
-      "version_from": null,
-      "version_to": "3.5.2",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.5.2/DaxStudio_3_5_2_setup.exe"
-    },
-    {
-      "id": "drofus/windows--2.18.10.0",
-      "title": "New App: dRofus 2.18.10.0 (Windows)",
-      "event_type": "added",
-      "app": "dRofus",
-      "platform": "windows",
-      "version_from": null,
-      "version_to": "2.18.10.0",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://deploy.drofus.com/stable/drofus-setup-2.18.10.msi"
-    },
-    {
-      "id": "dngrep/windows--5.0.9.0",
-      "title": "New App: dnGrep 5.0.9.0 (Windows)",
-      "event_type": "added",
-      "app": "dnGrep",
-      "platform": "windows",
-      "version_from": null,
-      "version_to": "5.0.9.0",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://github.com/dnGrep/dnGrep/releases/download/v5.0.9.0/dnGREP.5.0.9.x64.msi"
-    },
-    {
-      "id": "microsoft-edge/windows-150.0.4078.48-150.0.4078.65",
-      "title": "Microsoft Edge 150.0.4078.48 \u2192 150.0.4078.65 (Windows)",
-      "event_type": "update",
-      "app": "Microsoft Edge",
-      "platform": "windows",
-      "version_from": "150.0.4078.48",
-      "version_to": "150.0.4078.65",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0870b5f5-cf08-4f24-8383-f362a669fcd8/MicrosoftEdgeEnterpriseX64.msi"
-    },
-    {
-      "id": "reqable/windows-3.2.6-3.2.7",
-      "title": "Reqable 3.2.6 \u2192 3.2.7 (Windows)",
-      "event_type": "update",
-      "app": "Reqable",
-      "platform": "windows",
-      "version_from": "3.2.6",
-      "version_to": "3.2.7",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://github.com/reqable/reqable-app/releases/download/3.2.7/reqable-app-windows-x86_64.exe"
-    },
-    {
-      "id": "dataspell/windows--2026.1.2",
-      "title": "New App: DataSpell 2026.1.2 (Windows)",
-      "event_type": "added",
-      "app": "DataSpell",
-      "platform": "windows",
-      "version_from": null,
-      "version_to": "2026.1.2",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://download.jetbrains.com/python/dataspell-2026.1.2.exe"
-    },
-    {
-      "id": "session/darwin-1.18.0-1.18.1",
-      "title": "Session 1.18.0 \u2192 1.18.1 (Mac)",
-      "event_type": "update",
-      "app": "Session",
-      "platform": "mac",
-      "version_from": "1.18.0",
-      "version_to": "1.18.1",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://github.com/session-foundation/session-desktop/releases/download/v1.18.1/session-desktop-mac-arm64-1.18.1.dmg"
-    },
-    {
-      "id": "nordvpn/windows-8.4.3.0-8.5.1.0",
-      "title": "NordVPN 8.4.3.0 \u2192 8.5.1.0 (Windows)",
-      "event_type": "update",
-      "app": "NordVPN",
-      "platform": "windows",
-      "version_from": "8.4.3.0",
-      "version_to": "8.5.1.0",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://downloads.nordcdn.com/apps/windows/NordVPN/8.5.1.0/NordVPNInstall.exe"
-    },
-    {
-      "id": "postman/windows-12.18.4-12.18.5",
-      "title": "Postman 12.18.4 \u2192 12.18.5 (Windows)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "windows",
-      "version_from": "12.18.4",
-      "version_to": "12.18.5",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.18.5/windows_64"
-    },
-    {
-      "id": "webex/darwin-46.6.1.35236-46.7.0.35381",
-      "title": "Webex 46.6.1.35236 \u2192 46.7.0.35381 (Mac)",
-      "event_type": "update",
-      "app": "Webex",
-      "platform": "mac",
-      "version_from": "46.6.1.35236",
-      "version_to": "46.7.0.35381",
-      "timestamp": "2026-07-10T14:05:40+00:00",
-      "download_url": "https://binaries.webex.com/webex-macos-apple-silicon/Webex.dmg"
-    },
-    {
-      "id": "reqable/darwin-3.2.5-3.2.6",
-      "title": "Reqable 3.2.5 \u2192 3.2.6 (Mac)",
-      "event_type": "update",
-      "app": "Reqable",
-      "platform": "mac",
-      "version_from": "3.2.5",
-      "version_to": "3.2.6",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://github.com/reqable/reqable-app/releases/download/3.2.6/reqable-app-macos-arm64.dmg"
-    },
-    {
-      "id": "zed/darwin-1.10.0-1.10.1",
-      "title": "Zed 1.10.0 \u2192 1.10.1 (Mac)",
-      "event_type": "update",
-      "app": "Zed",
-      "platform": "mac",
-      "version_from": "1.10.0",
-      "version_to": "1.10.1",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://zed.dev/api/releases/stable/1.10.1/Zed-aarch64.dmg"
     }
   ]
 }
