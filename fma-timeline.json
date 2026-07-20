@@ -1,9 +1,130 @@
 {
-  "generated": "2026-07-19T18:22:43Z",
+  "generated": "2026-07-20T00:44:26Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "dbeaver-community/darwin-26.1.2-26.1.3",
+      "title": "DBeaver 26.1.2 \u2192 26.1.3 (Mac)",
+      "event_type": "update",
+      "app": "DBeaver",
+      "platform": "mac",
+      "version_from": "26.1.2",
+      "version_to": "26.1.3",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://dbeaver.io/files/26.1.3/dbeaver-ce-26.1.3-macos-aarch64.dmg"
+    },
+    {
+      "id": "boltai/darwin-2.13.7-2.14.0",
+      "title": "BoltAI 2 2.13.7 \u2192 2.14.0 (Mac)",
+      "event_type": "update",
+      "app": "BoltAI 2",
+      "platform": "mac",
+      "version_from": "2.13.7",
+      "version_to": "2.14.0",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://updates.boltai.com/dmg/BoltAI-2.14.0.dmg"
+    },
+    {
+      "id": "claude/darwin-1.22209.0-1.22209.3",
+      "title": "Claude 1.22209.0 \u2192 1.22209.3 (Mac)",
+      "event_type": "update",
+      "app": "Claude",
+      "platform": "mac",
+      "version_from": "1.22209.0",
+      "version_to": "1.22209.3",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.22209.3/Claude-babe11577dfefe3e209c06bd674628d862f0dbae.zip"
+    },
+    {
+      "id": "codexbar/darwin-0.45.0-0.45.2",
+      "title": "CodexBar 0.45.0 \u2192 0.45.2 (Mac)",
+      "event_type": "update",
+      "app": "CodexBar",
+      "platform": "mac",
+      "version_from": "0.45.0",
+      "version_to": "0.45.2",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://github.com/steipete/CodexBar/releases/download/v0.45.2/CodexBar-macos-universal-0.45.2.zip"
+    },
+    {
+      "id": "dockside/darwin-2.9.22-2.9.23",
+      "title": "Dockside 2.9.22 \u2192 2.9.23 (Mac)",
+      "event_type": "update",
+      "app": "Dockside",
+      "platform": "mac",
+      "version_from": "2.9.22",
+      "version_to": "2.9.23",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://github.com/PrajwalSD/Dockside/releases/download/v2.9.23/Dockside.dmg"
+    },
+    {
+      "id": "cog-app/darwin-3610-3617",
+      "title": "Cog 3610 \u2192 3617 (Mac)",
+      "event_type": "update",
+      "app": "Cog",
+      "platform": "mac",
+      "version_from": "3610",
+      "version_to": "3617",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://cogcdn.cog.losno.co/Cog-65bd626a8.zip"
+    },
+    {
+      "id": "chatgpt-atlas/darwin-1.2026.126.0-1.2026.189.0",
+      "title": "ChatGPT Atlas 1.2026.126.0 \u2192 1.2026.189.0 (Mac)",
+      "event_type": "update",
+      "app": "ChatGPT Atlas",
+      "platform": "mac",
+      "version_from": "1.2026.126.0",
+      "version_to": "1.2026.189.0",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://persistent.oaistatic.com/atlas/public/ChatGPT_Atlas_Desktop_public_1.2026.189.0_20260717210119000.dmg"
+    },
+    {
+      "id": "stats/darwin-3.0.8-3.0.9",
+      "title": "Stats 3.0.8 \u2192 3.0.9 (Mac)",
+      "event_type": "update",
+      "app": "Stats",
+      "platform": "mac",
+      "version_from": "3.0.8",
+      "version_to": "3.0.9",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://github.com/exelban/stats/releases/download/v3.0.9/Stats.dmg"
+    },
+    {
+      "id": "webcatalog/darwin-77.3.4-77.4.0",
+      "title": "WebCatalog 77.3.4 \u2192 77.4.0 (Mac)",
+      "event_type": "update",
+      "app": "WebCatalog",
+      "platform": "mac",
+      "version_from": "77.3.4",
+      "version_to": "77.4.0",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://cdn-2.webcatalog.io/webcatalog/WebCatalog-77.4.0-universal.dmg"
+    },
+    {
+      "id": "notepadexe/darwin-1.5.3-1.5.4",
+      "title": "Notepad.exe 1.5.3 \u2192 1.5.4 (Mac)",
+      "event_type": "update",
+      "app": "Notepad.exe",
+      "platform": "mac",
+      "version_from": "1.5.3",
+      "version_to": "1.5.4",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://github.com/notepadhq/notepadexe-public/releases/download/1.5.4/Notepad.zip"
+    },
+    {
+      "id": "cmux/darwin-0.64.19-0.64.20",
+      "title": "cmux 0.64.19 \u2192 0.64.20 (Mac)",
+      "event_type": "update",
+      "app": "cmux",
+      "platform": "mac",
+      "version_from": "0.64.19",
+      "version_to": "0.64.20",
+      "timestamp": "2026-07-19T20:54:58+00:00",
+      "download_url": "https://github.com/manaflow-ai/cmux/releases/download/v0.64.20/cmux-macos.dmg"
+    },
     {
       "id": "firefox@nightly/windows-154.2607.1709.0-154.2607.1809.0",
       "title": "Mozilla Firefox Nightly 154.2607.1709.0 \u2192 154.2607.1809.0 (Windows)",
@@ -5340,169 +5461,48 @@
       "download_url": "https://binaries.webex.com/webex-macos-apple-silicon/Webex.dmg"
     },
     {
-      "id": "chatgpt/darwin-1.2026.160-1.2026.183",
-      "title": "ChatGPT Desktop 1.2026.160 \u2192 1.2026.183 (Mac)",
+      "id": "deezer/darwin-7.1.270-7.1.280",
+      "title": "Deezer 7.1.270 \u2192 7.1.280 (Mac)",
       "event_type": "update",
-      "app": "ChatGPT Desktop",
+      "app": "Deezer",
       "platform": "mac",
-      "version_from": "1.2026.160",
-      "version_to": "1.2026.183",
+      "version_from": "7.1.270",
+      "version_to": "7.1.280",
       "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://persistent.oaistatic.com/sidekick/public/ChatGPT_Desktop_public_1.2026.183_1783607847.dmg"
+      "download_url": "https://www.deezer.com/desktop/download/artifact-darwin-x64-7.1.280"
     },
     {
-      "id": "nextcloud-talk/darwin-2.2.0-2.2.1",
-      "title": "Nextcloud Talk Desktop 2.2.0 \u2192 2.2.1 (Mac)",
+      "id": "opencode-desktop/darwin-1.17.16-1.17.18",
+      "title": "OpenCode 1.17.16 \u2192 1.17.18 (Mac)",
       "event_type": "update",
-      "app": "Nextcloud Talk Desktop",
+      "app": "OpenCode",
       "platform": "mac",
-      "version_from": "2.2.0",
-      "version_to": "2.2.1",
+      "version_from": "1.17.16",
+      "version_to": "1.17.18",
       "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://github.com/nextcloud-releases/talk-desktop/releases/download/v2.2.1/Nextcloud.Talk-macos-universal.dmg"
+      "download_url": "https://github.com/anomalyco/opencode/releases/download/v1.17.18/opencode-desktop-mac-arm64.dmg"
     },
     {
-      "id": "dropbox/darwin-258.4.3749-260.4.2926",
-      "title": "Dropbox 258.4.3749 \u2192 260.4.2926 (Mac)",
+      "id": "slicer/darwin-5.12.0-5.12.1",
+      "title": "3D Slicer 5.12.0 \u2192 5.12.1 (Mac)",
       "event_type": "update",
-      "app": "Dropbox",
+      "app": "3D Slicer",
       "platform": "mac",
-      "version_from": "258.4.3749",
-      "version_to": "260.4.2926",
+      "version_from": "5.12.0",
+      "version_to": "5.12.1",
       "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20260.4.2926.arm64.dmg"
+      "download_url": "https://slicer-packages.kitware.com/api/v1/item/6a4eeedd06a4bd0d4a9b07e4/download"
     },
     {
-      "id": "cmake-app/darwin-4.3.4-4.4.0",
-      "title": "CMake 4.3.4 \u2192 4.4.0 (Mac)",
+      "id": "aws-cli/windows-2.35.19-2.35.20",
+      "title": "AWS Command Line Interface v2 2.35.19 \u2192 2.35.20 (Windows)",
       "event_type": "update",
-      "app": "CMake",
-      "platform": "mac",
-      "version_from": "4.3.4",
-      "version_to": "4.4.0",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://cmake.org/files/v4.4/cmake-4.4.0-macos-universal.dmg"
-    },
-    {
-      "id": "superhuman/darwin-1041.0.15-1041.0.16",
-      "title": "Superhuman 1041.0.15 \u2192 1041.0.16 (Mac)",
-      "event_type": "update",
-      "app": "Superhuman",
-      "platform": "mac",
-      "version_from": "1041.0.15",
-      "version_to": "1041.0.16",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1041.0.16-arm64-latest-mac.zip"
-    },
-    {
-      "id": "brave-browser/darwin-150.1.92.138-150.1.92.139",
-      "title": "Brave 150.1.92.138 \u2192 150.1.92.139 (Mac)",
-      "event_type": "update",
-      "app": "Brave",
-      "platform": "mac",
-      "version_from": "150.1.92.138",
-      "version_to": "150.1.92.139",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable-arm64/192.139/Brave-Browser-arm64.dmg"
-    },
-    {
-      "id": "bitbox/darwin-4.51.2-4.51.3",
-      "title": "BitBox 4.51.2 \u2192 4.51.3 (Mac)",
-      "event_type": "update",
-      "app": "BitBox",
-      "platform": "mac",
-      "version_from": "4.51.2",
-      "version_to": "4.51.3",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://github.com/BitBoxSwiss/bitbox-wallet-app/releases/download/v4.51.3/BitBox-4.51.3-macOS.dmg"
-    },
-    {
-      "id": "cleanmymac/darwin-5.5.4-5.5.5",
-      "title": "CleanMyMac 5.5.4 \u2192 5.5.5 (Mac)",
-      "event_type": "update",
-      "app": "CleanMyMac",
-      "platform": "mac",
-      "version_from": "5.5.4",
-      "version_to": "5.5.5",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://updates.cleanmymac.com/com.macpaw.cleanmymac5/releases/CleanMyMac5_50505.0.2607091048.zip"
-    },
-    {
-      "id": "hive-app/darwin-1.2.12-1.2.13",
-      "title": "Hive 1.2.12 \u2192 1.2.13 (Mac)",
-      "event_type": "update",
-      "app": "Hive",
-      "platform": "mac",
-      "version_from": "1.2.12",
-      "version_to": "1.2.13",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://github.com/morapelker/hive/releases/download/v1.2.13/Hive-1.2.13-arm64.dmg"
-    },
-    {
-      "id": "reqable/windows-3.2.5-3.2.6",
-      "title": "Reqable 3.2.5 \u2192 3.2.6 (Windows)",
-      "event_type": "update",
-      "app": "Reqable",
+      "app": "AWS Command Line Interface v2",
       "platform": "windows",
-      "version_from": "3.2.5",
-      "version_to": "3.2.6",
+      "version_from": "2.35.19",
+      "version_to": "2.35.20",
       "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://github.com/reqable/reqable-app/releases/download/3.2.6/reqable-app-windows-x86_64.exe"
-    },
-    {
-      "id": "microsoft-edge/darwin-150.0.4078.50-150.0.4078.65",
-      "title": "Microsoft Edge 150.0.4078.50 \u2192 150.0.4078.65 (Mac)",
-      "event_type": "update",
-      "app": "Microsoft Edge",
-      "platform": "mac",
-      "version_from": "150.0.4078.50",
-      "version_to": "150.0.4078.65",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e7daffc4-3663-402d-934d-bf0b624d7692/MicrosoftEdge-150.0.4078.65.dmg"
-    },
-    {
-      "id": "prisma-browser/windows-150.33.2.46-150.41.2.115",
-      "title": "Prisma Browser 150.33.2.46 \u2192 150.41.2.115 (Windows)",
-      "event_type": "update",
-      "app": "Prisma Browser",
-      "platform": "windows",
-      "version_from": "150.33.2.46",
-      "version_to": "150.41.2.115",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://updates.talon-sec.com/releases/Prisma%20Access%20Browser/win/packaged/x64/crx_signed_o4_stable_prisma_access_browser_installer_150_41_2_115-150.41.2.115-af0d7600.msi"
-    },
-    {
-      "id": "figma/darwin-126.6.12-126.6.14",
-      "title": "Figma 126.6.12 \u2192 126.6.14 (Mac)",
-      "event_type": "update",
-      "app": "Figma",
-      "platform": "mac",
-      "version_from": "126.6.12",
-      "version_to": "126.6.14",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://desktop.figma.com/mac-arm/Figma-126.6.14.zip"
-    },
-    {
-      "id": "zed/windows-1.10.0-1.10.1",
-      "title": "Zed 1.10.0 \u2192 1.10.1 (Windows)",
-      "event_type": "update",
-      "app": "Zed",
-      "platform": "windows",
-      "version_from": "1.10.0",
-      "version_to": "1.10.1",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://github.com/zed-industries/zed/releases/download/v1.10.1/Zed-x86_64.exe"
-    },
-    {
-      "id": "signal/darwin-8.17.0-8.18.0",
-      "title": "Signal 8.17.0 \u2192 8.18.0 (Mac)",
-      "event_type": "update",
-      "app": "Signal",
-      "platform": "mac",
-      "version_from": "8.17.0",
-      "version_to": "8.18.0",
-      "timestamp": "2026-07-10T03:29:38+00:00",
-      "download_url": "https://updates.signal.org/desktop/signal-desktop-mac-arm64-8.18.0.zip"
+      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.35.20.msi"
     }
   ]
 }
