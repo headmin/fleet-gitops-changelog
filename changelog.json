@@ -1,5 +1,15 @@
 [
   {
+    "sha": "f3bc510d2bbe43e2c361f235f574ce43342daf86",
+    "short_sha": "f3bc510d2b",
+    "author": "Jake Stenger",
+    "message": "Fix Linux uninstall script failing with a relative path (#49592)",
+    "timestamp": "2026-07-21T07:28:35-07:00",
+    "files": [
+      "it-and-security/lib/linux/scripts/uninstall-fleetd-linux.sh"
+    ]
+  },
+  {
     "sha": "8d2a3abeaad2b34d36aa07d76305701b95766f2c",
     "short_sha": "8d2a3abeaa",
     "author": "Allen Houchins",
