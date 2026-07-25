@@ -1,5 +1,17 @@
 [
   {
+    "sha": "5b36fb51aba6a4d6f5834682004d0c687fcb032c",
+    "short_sha": "5b36fb51ab",
+    "author": "Allen Houchins",
+    "message": "Add Windows 11 hardware readiness report to dogfood GitOps (#49921)",
+    "timestamp": "2026-07-24T22:02:34-05:00",
+    "files": [
+      "it-and-security/fleets/testing-and-qa.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/windows/reports/collect-windows-11-hardware-readiness.yml"
+    ]
+  },
+  {
     "sha": "f3bc510d2bbe43e2c361f235f574ce43342daf86",
     "short_sha": "f3bc510d2b",
     "author": "Jake Stenger",
