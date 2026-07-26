@@ -1,5 +1,15 @@
 [
   {
+    "sha": "f0cb2f99a39586d640043cb7eefe85968fa47333",
+    "short_sha": "f0cb2f99a3",
+    "author": "Allen Houchins",
+    "message": "Use snapshot logging for Windows 11 hardware readiness report (#49943)",
+    "timestamp": "2026-07-25T22:01:50-05:00",
+    "files": [
+      "it-and-security/lib/windows/reports/collect-windows-11-hardware-readiness.yml"
+    ]
+  },
+  {
     "sha": "5b36fb51aba6a4d6f5834682004d0c687fcb032c",
     "short_sha": "5b36fb51ab",
     "author": "Allen Houchins",
