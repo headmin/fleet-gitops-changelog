@@ -1,5 +1,15 @@
 [
   {
+    "sha": "958fe8b9aaa35c09a5b4c35c540b1eedd6228f10",
+    "short_sha": "958fe8b9aa",
+    "author": "Noah Talerman",
+    "message": "Add macOS apps to fleet maintained apps for testing & QA (#49983)",
+    "timestamp": "2026-07-27T13:16:01-04:00",
+    "files": [
+      "it-and-security/fleets/testing-and-qa.yml"
+    ]
+  },
+  {
     "sha": "f0cb2f99a39586d640043cb7eefe85968fa47333",
     "short_sha": "f0cb2f99a3",
     "author": "Allen Houchins",
