@@ -1,9 +1,75 @@
 {
-  "generated": "2026-07-30T00:39:02Z",
+  "generated": "2026-07-30T06:59:54Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "goland/windows-2026.2.0.1-2026.2",
+      "title": "GoLand 2026.2.0.1 \u2192 2026.2 (Windows)",
+      "event_type": "update",
+      "app": "GoLand",
+      "platform": "windows",
+      "version_from": "2026.2.0.1",
+      "version_to": "2026.2",
+      "timestamp": "2026-07-30T06:34:07+00:00",
+      "download_url": "https://download.jetbrains.com/go/goland-2026.2.exe"
+    },
+    {
+      "id": "rancher/darwin-1.23.1-1.24.0",
+      "title": "Rancher Desktop 1.23.1 \u2192 1.24.0 (Mac)",
+      "event_type": "update",
+      "app": "Rancher Desktop",
+      "platform": "mac",
+      "version_from": "1.23.1",
+      "version_to": "1.24.0",
+      "timestamp": "2026-07-30T06:34:07+00:00",
+      "download_url": "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.24.0/Rancher.Desktop-1.24.0.aarch64.dmg"
+    },
+    {
+      "id": "gitify/darwin-7.1.1-7.2.0",
+      "title": "Gitify 7.1.1 \u2192 7.2.0 (Mac)",
+      "event_type": "update",
+      "app": "Gitify",
+      "platform": "mac",
+      "version_from": "7.1.1",
+      "version_to": "7.2.0",
+      "timestamp": "2026-07-30T06:34:07+00:00",
+      "download_url": "https://github.com/gitify-app/gitify/releases/download/v7.2.0/Gitify-7.2.0-universal-mac.zip"
+    },
+    {
+      "id": "aws-cli/windows-2.36.10-2.36.11",
+      "title": "AWS Command Line Interface v2 2.36.10 \u2192 2.36.11 (Windows)",
+      "event_type": "update",
+      "app": "AWS Command Line Interface v2",
+      "platform": "windows",
+      "version_from": "2.36.10",
+      "version_to": "2.36.11",
+      "timestamp": "2026-07-30T06:34:07+00:00",
+      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.36.11.msi"
+    },
+    {
+      "id": "linear/darwin-1.31.1-1.32.0",
+      "title": "Linear 1.31.1 \u2192 1.32.0 (Mac)",
+      "event_type": "update",
+      "app": "Linear",
+      "platform": "mac",
+      "version_from": "1.31.1",
+      "version_to": "1.32.0",
+      "timestamp": "2026-07-30T06:34:07+00:00",
+      "download_url": "https://releases.linear.app/Linear-1.32.0-universal.dmg"
+    },
+    {
+      "id": "devin-desktop/darwin-3.5.17-3.6.22",
+      "title": "Devin Desktop 3.5.17 \u2192 3.6.22 (Mac)",
+      "event_type": "update",
+      "app": "Devin Desktop",
+      "platform": "mac",
+      "version_from": "3.5.17",
+      "version_to": "3.6.22",
+      "timestamp": "2026-07-30T06:34:07+00:00",
+      "download_url": "https://windsurf-stable.codeiumdata.com/darwin-arm64-dmg/stable/d5152ff5891d78b46644988943b78f408d06b861/Devin-darwin-arm64-3.6.22.dmg"
+    },
     {
       "id": "krita/windows-5.3.2.1-5.3.3.0",
       "title": "Krita 5.3.2.1 \u2192 5.3.3.0 (Windows)",
@@ -5406,103 +5472,37 @@
       "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.36.5.msi"
     },
     {
-      "id": "claude/darwin-1.22209.3-1.24012.0",
-      "title": "Claude 1.22209.3 \u2192 1.24012.0 (Mac)",
+      "id": "proton-drive/windows-3.0.2-3.0.3",
+      "title": "Proton Drive 3.0.2 \u2192 3.0.3 (Windows)",
       "event_type": "update",
-      "app": "Claude",
-      "platform": "mac",
-      "version_from": "1.22209.3",
-      "version_to": "1.24012.0",
+      "app": "Proton Drive",
+      "platform": "windows",
+      "version_from": "3.0.2",
+      "version_to": "3.0.3",
       "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.24012.0/Claude-44be967d07ffab39b371cc3297a6a71a5ef92fa9.zip"
+      "download_url": "https://proton.me/download/drive/windows/3.0.3/x64/Proton%20Drive%20Setup%203.0.3.exe"
     },
     {
-      "id": "dropbox/darwin-260.4.2926-262.4.3183",
-      "title": "Dropbox 260.4.2926 \u2192 262.4.3183 (Mac)",
+      "id": "cursor/darwin-3.12.17-3.12.29",
+      "title": "Cursor 3.12.17 \u2192 3.12.29 (Mac)",
       "event_type": "update",
-      "app": "Dropbox",
+      "app": "Cursor",
       "platform": "mac",
-      "version_from": "260.4.2926",
-      "version_to": "262.4.3183",
+      "version_from": "3.12.17",
+      "version_to": "3.12.29",
       "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20262.4.3183.arm64.dmg"
+      "download_url": "https://downloads.cursor.com/production/cd1c87ff9b66021918fb9731605f8d1d5fd2f0b2/darwin/arm64/Cursor-darwin-arm64.zip"
     },
     {
-      "id": "rubymine/darwin-2026.1.4-2026.2",
-      "title": "RubyMine 2026.1.4 \u2192 2026.2 (Mac)",
+      "id": "fantastical/darwin-4.1.16-4.1.17",
+      "title": "Fantastical 4.1.16 \u2192 4.1.17 (Mac)",
       "event_type": "update",
-      "app": "RubyMine",
+      "app": "Fantastical",
       "platform": "mac",
-      "version_from": "2026.1.4",
-      "version_to": "2026.2",
+      "version_from": "4.1.16",
+      "version_to": "4.1.17",
       "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://download.jetbrains.com/ruby/RubyMine-2026.2-aarch64.dmg"
-    },
-    {
-      "id": "element/darwin-1.12.23-1.12.24",
-      "title": "Element 1.12.23 \u2192 1.12.24 (Mac)",
-      "event_type": "update",
-      "app": "Element",
-      "platform": "mac",
-      "version_from": "1.12.23",
-      "version_to": "1.12.24",
-      "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://packages.element.io/desktop/update/macos/Element-1.12.24-universal-mac.zip"
-    },
-    {
-      "id": "soundsource/darwin-6.0.6-6.1.0",
-      "title": "SoundSource 6.0.6 \u2192 6.1.0 (Mac)",
-      "event_type": "update",
-      "app": "SoundSource",
-      "platform": "mac",
-      "version_from": "6.0.6",
-      "version_to": "6.1.0",
-      "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://cdn.rogueamoeba.com/soundsource/download/SoundSource.zip"
-    },
-    {
-      "id": "tuple/darwin-3.1.2-3.1.3",
-      "title": "Tuple 3.1.2 \u2192 3.1.3 (Mac)",
-      "event_type": "update",
-      "app": "Tuple",
-      "platform": "mac",
-      "version_from": "3.1.2",
-      "version_to": "3.1.3",
-      "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-3.1.3-2026-07-21-7b5d4785db.zip"
-    },
-    {
-      "id": "chatgpt/darwin-26.715.61943-26.715.70719",
-      "title": "ChatGPT Desktop 26.715.61943 \u2192 26.715.70719 (Mac)",
-      "event_type": "update",
-      "app": "ChatGPT Desktop",
-      "platform": "mac",
-      "version_from": "26.715.61943",
-      "version_to": "26.715.70719",
-      "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.715.70719.zip"
-    },
-    {
-      "id": "okta-verify/darwin-9.65.2-9.67.1",
-      "title": "Okta Verify 9.65.2 \u2192 9.67.1 (Mac)",
-      "event_type": "update",
-      "app": "Okta Verify",
-      "platform": "mac",
-      "version_from": "9.65.2",
-      "version_to": "9.67.1",
-      "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://okta.okta.com/artifacts/OKTA_VERIFY_MACOS/9.67.1/OktaVerify-9.67.1-6374-c501c62.pkg"
-    },
-    {
-      "id": "gitkraken/darwin-12.3.0-12.3.1",
-      "title": "GitKraken 12.3.0 \u2192 12.3.1 (Mac)",
-      "event_type": "update",
-      "app": "GitKraken",
-      "platform": "mac",
-      "version_from": "12.3.0",
-      "version_to": "12.3.1",
-      "timestamp": "2026-07-21T23:02:02+00:00",
-      "download_url": "https://api.gitkraken.dev/releases/production/darwin/arm64/12.3.1/GitKraken-v12.3.1.zip"
+      "download_url": "https://cdn.flexibits.com/Fantastical_4.1.17.zip"
     }
   ]
 }
