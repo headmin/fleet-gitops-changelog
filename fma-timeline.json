@@ -1,9 +1,251 @@
 {
-  "generated": "2026-08-03T00:43:49Z",
+  "generated": "2026-08-03T08:14:12Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "openrct2/darwin-0.5.3-0.5.4",
+      "title": "OpenRCT2 0.5.3 \u2192 0.5.4 (Mac)",
+      "event_type": "update",
+      "app": "OpenRCT2",
+      "platform": "mac",
+      "version_from": "0.5.3",
+      "version_to": "0.5.4",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.4/OpenRCT2-v0.5.4-macos-universal.zip"
+    },
+    {
+      "id": "boltai/darwin-2.14.3-2.14.4",
+      "title": "BoltAI 2 2.14.3 \u2192 2.14.4 (Mac)",
+      "event_type": "update",
+      "app": "BoltAI 2",
+      "platform": "mac",
+      "version_from": "2.14.3",
+      "version_to": "2.14.4",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://updates.boltai.com/dmg/BoltAI-2.14.4.dmg"
+    },
+    {
+      "id": "spokenly/darwin-2.27.8-2.27.9",
+      "title": "Spokenly 2.27.8 \u2192 2.27.9 (Mac)",
+      "event_type": "update",
+      "app": "Spokenly",
+      "platform": "mac",
+      "version_from": "2.27.8",
+      "version_to": "2.27.9",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://cdn.spokenly.app/releases/macos/Spokenly-2.27.9.dmg"
+    },
+    {
+      "id": "netnewswire/darwin-7.1.1-7.1.2",
+      "title": "NetNewsWire 7.1.1 \u2192 7.1.2 (Mac)",
+      "event_type": "update",
+      "app": "NetNewsWire",
+      "platform": "mac",
+      "version_from": "7.1.1",
+      "version_to": "7.1.2",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-7.1.2/NetNewsWire7.1.2.zip"
+    },
+    {
+      "id": "dbeaver-community/darwin-26.1.3-26.1.4",
+      "title": "DBeaver 26.1.3 \u2192 26.1.4 (Mac)",
+      "event_type": "update",
+      "app": "DBeaver",
+      "platform": "mac",
+      "version_from": "26.1.3",
+      "version_to": "26.1.4",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://dbeaver.io/files/26.1.4/dbeaver-ce-26.1.4-macos-aarch64.dmg"
+    },
+    {
+      "id": "zed/windows-1.13.1-1.13.2",
+      "title": "Zed 1.13.1 \u2192 1.13.2 (Windows)",
+      "event_type": "update",
+      "app": "Zed",
+      "platform": "windows",
+      "version_from": "1.13.1",
+      "version_to": "1.13.2",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/zed-industries/zed/releases/download/v1.13.2/Zed-x86_64.exe"
+    },
+    {
+      "id": "handbrake/windows--1.11.2",
+      "title": "New App: HandBrake 1.11.2 (Windows)",
+      "event_type": "added",
+      "app": "HandBrake",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "1.11.2",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64-Win_GUI.exe"
+    },
+    {
+      "id": "ocenaudio/darwin-3.20.1-3.20.2",
+      "title": "ocenaudio 3.20.1 \u2192 3.20.2 (Mac)",
+      "event_type": "update",
+      "app": "ocenaudio",
+      "platform": "mac",
+      "version_from": "3.20.1",
+      "version_to": "3.20.2",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://www.ocenaudio.com/downloads/index.php/ocenaudio_universal.dmg"
+    },
+    {
+      "id": "scribe/windows--6.7.23.0",
+      "title": "New App: Scribe 6.7.23.0 (Windows)",
+      "event_type": "added",
+      "app": "Scribe",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "6.7.23.0",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://colony-labs-public.s3.us-east-2.amazonaws.com/Scribe_6.7.23.msi"
+    },
+    {
+      "id": "dockside/darwin-2.9.25-2.9.26",
+      "title": "Dockside 2.9.25 \u2192 2.9.26 (Mac)",
+      "event_type": "update",
+      "app": "Dockside",
+      "platform": "mac",
+      "version_from": "2.9.25",
+      "version_to": "2.9.26",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/PrajwalSD/Dockside/releases/download/v2.9.26/Dockside.dmg"
+    },
+    {
+      "id": "paint-dot-net/windows--5.1.12",
+      "title": "New App: Paint.NET 5.1.12 (Windows)",
+      "event_type": "added",
+      "app": "Paint.NET",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "5.1.12",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/paintdotnet/release/releases/download/v5.1.12/paint.net.5.1.12.install.x64.zip"
+    },
+    {
+      "id": "stats/darwin-3.0.9-3.0.10",
+      "title": "Stats 3.0.9 \u2192 3.0.10 (Mac)",
+      "event_type": "update",
+      "app": "Stats",
+      "platform": "mac",
+      "version_from": "3.0.9",
+      "version_to": "3.0.10",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/exelban/stats/releases/download/v3.0.10/Stats.dmg"
+    },
+    {
+      "id": "dante-controller/darwin--4.18.1.1",
+      "title": "New App: Dante Controller 4.18.1.1 (Mac)",
+      "event_type": "added",
+      "app": "Dante Controller",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "4.18.1.1",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://audinate-software-updates.sgp1.cdn.digitaloceanspaces.com/DanteController/4/4.18/apple_silicon/DanteController-4.18.1.1-macos-arm64.dmg"
+    },
+    {
+      "id": "actual/darwin-26.7.0-26.8.0",
+      "title": "Actual 26.7.0 \u2192 26.8.0 (Mac)",
+      "event_type": "update",
+      "app": "Actual",
+      "platform": "mac",
+      "version_from": "26.7.0",
+      "version_to": "26.8.0",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/actualbudget/actual/releases/download/v26.8.0/Actual-mac-arm64.dmg"
+    },
+    {
+      "id": "bome-network/darwin-1.6.0-1.7.0",
+      "title": "Bome Network 1.6.0 \u2192 1.7.0 (Mac)",
+      "event_type": "update",
+      "app": "Bome Network",
+      "platform": "mac",
+      "version_from": "1.6.0",
+      "version_to": "1.7.0",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://download.bome.com/BomeNet1.7.0_macOS.dmg"
+    },
+    {
+      "id": "microsoft-access-database-engine-2016/windows--16.0.5044.1000",
+      "title": "New App: Microsoft Access Database Engine 2016 Redistributable 16.0.5044.1000 (Windows)",
+      "event_type": "added",
+      "app": "Microsoft Access Database Engine 2016 Redistributable",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "16.0.5044.1000",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://download.microsoft.com/download/3/5/c/35c84c36-661a-44e6-9324-8786b8dbe231/accessdatabaseengine_X64.exe"
+    },
+    {
+      "id": "microsoft-dotnet-desktop-runtime-10/windows--10.0.10",
+      "title": "New App: Microsoft .NET Desktop Runtime 10 10.0.10 (Windows)",
+      "event_type": "added",
+      "app": "Microsoft .NET Desktop Runtime 10",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "10.0.10",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.10/windowsdesktop-runtime-10.0.10-win-x64.exe"
+    },
+    {
+      "id": "dbeaver-community/windows-26.1.3-26.1.4",
+      "title": "DBeaver 26.1.3 \u2192 26.1.4 (Windows)",
+      "event_type": "update",
+      "app": "DBeaver",
+      "platform": "windows",
+      "version_from": "26.1.3",
+      "version_to": "26.1.4",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.4/dbeaver-ce-26.1.4-windows-x86_64.exe"
+    },
+    {
+      "id": "zed/darwin-1.13.1-1.13.2",
+      "title": "Zed 1.13.1 \u2192 1.13.2 (Mac)",
+      "event_type": "update",
+      "app": "Zed",
+      "platform": "mac",
+      "version_from": "1.13.1",
+      "version_to": "1.13.2",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://zed.dev/api/releases/stable/1.13.2/Zed-aarch64.dmg"
+    },
+    {
+      "id": "windirstat/windows-2.7.0-2.8.0",
+      "title": "WinDirStat 2.7.0 \u2192 2.8.0 (Windows)",
+      "event_type": "update",
+      "app": "WinDirStat",
+      "platform": "windows",
+      "version_from": "2.7.0",
+      "version_to": "2.8.0",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/windirstat/windirstat/releases/download/release/v2.8.0/WinDirStat-x64.msi"
+    },
+    {
+      "id": "linearmouse/darwin-0.11.3-0.11.4",
+      "title": "LinearMouse 0.11.3 \u2192 0.11.4 (Mac)",
+      "event_type": "update",
+      "app": "LinearMouse",
+      "platform": "mac",
+      "version_from": "0.11.3",
+      "version_to": "0.11.4",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://dl.linearmouse.org/v0.11.4/LinearMouse.dmg"
+    },
+    {
+      "id": "exifcleaner/darwin-4.0.0-4.0.1",
+      "title": "ExifCleaner 4.0.0 \u2192 4.0.1 (Mac)",
+      "event_type": "update",
+      "app": "ExifCleaner",
+      "platform": "mac",
+      "version_from": "4.0.0",
+      "version_to": "4.0.1",
+      "timestamp": "2026-08-03T04:35:33+00:00",
+      "download_url": "https://github.com/szTheory/exifcleaner/releases/download/v4.0.1/ExifCleaner-4.0.1-arm64.dmg"
+    },
     {
       "id": "typora/darwin-1.14.6-1.14.8",
       "title": "Typora 1.14.6 \u2192 1.14.8 (Mac)",
@@ -4988,6 +5230,17 @@
       "download_url": "https://download.documentfoundation.org/libreoffice/stable/26.2.5/mac/aarch64/LibreOffice_26.2.5_MacOS_aarch64.dmg"
     },
     {
+      "id": "drawio/darwin-30.4.1-31.0.2",
+      "title": "draw.io 30.4.1 \u2192 31.0.2 (Mac)",
+      "event_type": "update",
+      "app": "draw.io",
+      "platform": "mac",
+      "version_from": "30.4.1",
+      "version_to": "31.0.2",
+      "timestamp": "2026-07-24T15:02:15+00:00",
+      "download_url": "https://github.com/jgraph/drawio-desktop/releases/download/v31.0.2/draw.io-arm64-31.0.2.dmg"
+    },
+    {
       "id": "chatgpt/darwin-26.721.30844-26.721.31836",
       "title": "ChatGPT Desktop 26.721.30844 \u2192 26.721.31836 (Mac)",
       "event_type": "update",
@@ -5142,127 +5395,6 @@
       "download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.48.1/kitty-0.48.1.dmg"
     },
     {
-      "id": "drawio/darwin-30.4.1-31.0.2",
-      "title": "draw.io 30.4.1 \u2192 31.0.2 (Mac)",
-      "event_type": "update",
-      "app": "draw.io",
-      "platform": "mac",
-      "version_from": "30.4.1",
-      "version_to": "31.0.2",
-      "timestamp": "2026-07-24T15:02:15+00:00",
-      "download_url": "https://github.com/jgraph/drawio-desktop/releases/download/v31.0.2/draw.io-arm64-31.0.2.dmg"
-    },
-    {
-      "id": "insomnia/windows-13.0.2-13.1.0",
-      "title": "Insomnia 13.0.2 \u2192 13.1.0 (Windows)",
-      "event_type": "update",
-      "app": "Insomnia",
-      "platform": "windows",
-      "version_from": "13.0.2",
-      "version_to": "13.1.0",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://github.com/Kong/insomnia/releases/download/core@13.1.0/Insomnia.Core-13.1.0.exe"
-    },
-    {
-      "id": "bettertouchtool/darwin-6.655-6.663",
-      "title": "BetterTouchTool 6.655 \u2192 6.663 (Mac)",
-      "event_type": "update",
-      "app": "BetterTouchTool",
-      "platform": "mac",
-      "version_from": "6.655",
-      "version_to": "6.663",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://folivora.ai/releases/btt6.663-2026072309.zip"
-    },
-    {
-      "id": "kiro/windows-1.0.203-1.0.212",
-      "title": "Kiro 1.0.203 \u2192 1.0.212 (Windows)",
-      "event_type": "update",
-      "app": "Kiro",
-      "platform": "windows",
-      "version_from": "1.0.203",
-      "version_to": "1.0.212",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://prod.download.desktop.kiro.dev/releases/stable/win32-x64/signed/1.0.212/kiro-ide-1.0.212-stable-win32-x64.exe"
-    },
-    {
-      "id": "thunderbird/windows-152.0.1-153.0",
-      "title": "Thunderbird 152.0.1 \u2192 153.0 (Windows)",
-      "event_type": "update",
-      "app": "Thunderbird",
-      "platform": "windows",
-      "version_from": "152.0.1",
-      "version_to": "153.0",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0/win64/en-US/Thunderbird%20Setup%20153.0.exe"
-    },
-    {
-      "id": "freecad/windows-1.1.1-1.1.2",
-      "title": "FreeCAD 1.1.1 \u2192 1.1.2 (Windows)",
-      "event_type": "update",
-      "app": "FreeCAD",
-      "platform": "windows",
-      "version_from": "1.1.1",
-      "version_to": "1.1.2",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.2/FreeCAD_1.1.2-Windows-x86_64-py311-installer.exe"
-    },
-    {
-      "id": "wispr-flow/darwin-1.6.182-1.6.224",
-      "title": "Wispr Flow 1.6.182 \u2192 1.6.224 (Mac)",
-      "event_type": "update",
-      "app": "Wispr Flow",
-      "platform": "mac",
-      "version_from": "1.6.182",
-      "version_to": "1.6.224",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://dl.wisprflow.com/wispr-flow/darwin/arm64/dmgs/Flow-v1.6.224.dmg"
-    },
-    {
-      "id": "beeper/darwin-4.2.998-4.2.1004",
-      "title": "Beeper 4.2.998 \u2192 4.2.1004 (Mac)",
-      "event_type": "update",
-      "app": "Beeper",
-      "platform": "mac",
-      "version_from": "4.2.998",
-      "version_to": "4.2.1004",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://beeper-desktop.download.beeper.com/builds/Beeper-4.2.1004-arm64-mac.zip"
-    },
-    {
-      "id": "aws-cli/windows-2.36.6-2.36.7",
-      "title": "AWS Command Line Interface v2 2.36.6 \u2192 2.36.7 (Windows)",
-      "event_type": "update",
-      "app": "AWS Command Line Interface v2",
-      "platform": "windows",
-      "version_from": "2.36.6",
-      "version_to": "2.36.7",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.36.7.msi"
-    },
-    {
-      "id": "chatgpt/darwin-26.715.72359-26.721.30844",
-      "title": "ChatGPT Desktop 26.715.72359 \u2192 26.721.30844 (Mac)",
-      "event_type": "update",
-      "app": "ChatGPT Desktop",
-      "platform": "mac",
-      "version_from": "26.715.72359",
-      "version_to": "26.721.30844",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.721.30844.zip"
-    },
-    {
-      "id": "remote-desktop-manager/darwin-2026.2.3.2-2026.2.4.1",
-      "title": "Remote Desktop Manager 2026.2.3.2 \u2192 2026.2.4.1 (Mac)",
-      "event_type": "update",
-      "app": "Remote Desktop Manager",
-      "platform": "mac",
-      "version_from": "2026.2.3.2",
-      "version_to": "2026.2.4.1",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://cdn.devolutions.net/download/Mac/Devolutions.RemoteDesktopManager.Mac.2026.2.4.1.dmg"
-    },
-    {
       "id": "microsoft-edge/darwin-150.0.4078.83-150.0.4078.96",
       "title": "Microsoft Edge 150.0.4078.83 \u2192 150.0.4078.96 (Mac)",
       "event_type": "update",
@@ -5272,83 +5404,6 @@
       "version_to": "150.0.4078.96",
       "timestamp": "2026-07-24T04:20:54+00:00",
       "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a6112a17-69dd-45ca-a673-405c7a4c245e/MicrosoftEdge-150.0.4078.96.dmg"
-    },
-    {
-      "id": "google-chrome/windows-150.0.7871.182-150.0.7871.187",
-      "title": "Google Chrome 150.0.7871.182 \u2192 150.0.7871.187 (Windows)",
-      "event_type": "update",
-      "app": "Google Chrome",
-      "platform": "windows",
-      "version_from": "150.0.7871.182",
-      "version_to": "150.0.7871.187",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
-    },
-    {
-      "id": "superhuman/darwin-1041.0.18-1041.0.24",
-      "title": "Superhuman 1041.0.18 \u2192 1041.0.24 (Mac)",
-      "event_type": "update",
-      "app": "Superhuman",
-      "platform": "mac",
-      "version_from": "1041.0.18",
-      "version_to": "1041.0.24",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1041.0.24-arm64-latest-mac.zip"
-    },
-    {
-      "id": "insomnia/darwin-13.0.2-13.1.0",
-      "title": "Insomnia 13.0.2 \u2192 13.1.0 (Mac)",
-      "event_type": "update",
-      "app": "Insomnia",
-      "platform": "mac",
-      "version_from": "13.0.2",
-      "version_to": "13.1.0",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.dmg"
-    },
-    {
-      "id": "box-drive/darwin-2.52.312-2.53.219",
-      "title": "Box Drive 2.52.312 \u2192 2.53.219 (Mac)",
-      "event_type": "update",
-      "app": "Box Drive",
-      "platform": "mac",
-      "version_from": "2.52.312",
-      "version_to": "2.53.219",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://e3.boxcdn.net/desktop/releases/mac/BoxDrive-2.53.219.pkg"
-    },
-    {
-      "id": "ollama/darwin-0.32.1-0.32.3",
-      "title": "Ollama 0.32.1 \u2192 0.32.3 (Mac)",
-      "event_type": "update",
-      "app": "Ollama",
-      "platform": "mac",
-      "version_from": "0.32.1",
-      "version_to": "0.32.3",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://github.com/ollama/ollama/releases/download/v0.32.3/Ollama-darwin.zip"
-    },
-    {
-      "id": "pastebot/darwin-2.4.6-2.4.8",
-      "title": "Pastebot 2.4.6 \u2192 2.4.8 (Mac)",
-      "event_type": "update",
-      "app": "Pastebot",
-      "platform": "mac",
-      "version_from": "2.4.6",
-      "version_to": "2.4.8",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://tapbots.net/pastebot2/Pastebot.dmg"
-    },
-    {
-      "id": "kiro/darwin-1.0.203-1.0.212",
-      "title": "Kiro 1.0.203 \u2192 1.0.212 (Mac)",
-      "event_type": "update",
-      "app": "Kiro",
-      "platform": "mac",
-      "version_from": "1.0.203",
-      "version_to": "1.0.212",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://prod.download.desktop.kiro.dev/releases/stable/darwin-arm64/signed/1.0.212/kiro-ide-1.0.212-stable-darwin-arm64.dmg"
     },
     {
       "id": "kiro-cli/darwin-2.14.0-2.14.1",
@@ -5362,6 +5417,83 @@
       "download_url": "https://desktop-release.q.us-east-1.amazonaws.com/2.14.1/Kiro%20CLI.dmg"
     },
     {
+      "id": "kiro/darwin-1.0.203-1.0.212",
+      "title": "Kiro 1.0.203 \u2192 1.0.212 (Mac)",
+      "event_type": "update",
+      "app": "Kiro",
+      "platform": "mac",
+      "version_from": "1.0.203",
+      "version_to": "1.0.212",
+      "timestamp": "2026-07-24T04:20:54+00:00",
+      "download_url": "https://prod.download.desktop.kiro.dev/releases/stable/darwin-arm64/signed/1.0.212/kiro-ide-1.0.212-stable-darwin-arm64.dmg"
+    },
+    {
+      "id": "pastebot/darwin-2.4.6-2.4.8",
+      "title": "Pastebot 2.4.6 \u2192 2.4.8 (Mac)",
+      "event_type": "update",
+      "app": "Pastebot",
+      "platform": "mac",
+      "version_from": "2.4.6",
+      "version_to": "2.4.8",
+      "timestamp": "2026-07-24T04:20:54+00:00",
+      "download_url": "https://tapbots.net/pastebot2/Pastebot.dmg"
+    },
+    {
+      "id": "ollama/darwin-0.32.1-0.32.3",
+      "title": "Ollama 0.32.1 \u2192 0.32.3 (Mac)",
+      "event_type": "update",
+      "app": "Ollama",
+      "platform": "mac",
+      "version_from": "0.32.1",
+      "version_to": "0.32.3",
+      "timestamp": "2026-07-24T04:20:54+00:00",
+      "download_url": "https://github.com/ollama/ollama/releases/download/v0.32.3/Ollama-darwin.zip"
+    },
+    {
+      "id": "box-drive/darwin-2.52.312-2.53.219",
+      "title": "Box Drive 2.52.312 \u2192 2.53.219 (Mac)",
+      "event_type": "update",
+      "app": "Box Drive",
+      "platform": "mac",
+      "version_from": "2.52.312",
+      "version_to": "2.53.219",
+      "timestamp": "2026-07-24T04:20:54+00:00",
+      "download_url": "https://e3.boxcdn.net/desktop/releases/mac/BoxDrive-2.53.219.pkg"
+    },
+    {
+      "id": "insomnia/darwin-13.0.2-13.1.0",
+      "title": "Insomnia 13.0.2 \u2192 13.1.0 (Mac)",
+      "event_type": "update",
+      "app": "Insomnia",
+      "platform": "mac",
+      "version_from": "13.0.2",
+      "version_to": "13.1.0",
+      "timestamp": "2026-07-24T04:20:54+00:00",
+      "download_url": "https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.dmg"
+    },
+    {
+      "id": "superhuman/darwin-1041.0.18-1041.0.24",
+      "title": "Superhuman 1041.0.18 \u2192 1041.0.24 (Mac)",
+      "event_type": "update",
+      "app": "Superhuman",
+      "platform": "mac",
+      "version_from": "1041.0.18",
+      "version_to": "1041.0.24",
+      "timestamp": "2026-07-24T04:20:54+00:00",
+      "download_url": "https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1041.0.24-arm64-latest-mac.zip"
+    },
+    {
+      "id": "google-chrome/windows-150.0.7871.182-150.0.7871.187",
+      "title": "Google Chrome 150.0.7871.182 \u2192 150.0.7871.187 (Windows)",
+      "event_type": "update",
+      "app": "Google Chrome",
+      "platform": "windows",
+      "version_from": "150.0.7871.182",
+      "version_to": "150.0.7871.187",
+      "timestamp": "2026-07-24T04:20:54+00:00",
+      "download_url": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
+    },
+    {
       "id": "melodics/darwin-5.0.865-5.0.871",
       "title": "Melodics 5.0.865 \u2192 5.0.871 (Mac)",
       "event_type": "update",
@@ -5371,138 +5503,6 @@
       "version_to": "5.0.871",
       "timestamp": "2026-07-24T04:20:54+00:00",
       "download_url": "https://web-cdn.melodics.com/download/0F733618-1183-44AD-A29F-70EC22EFBBC8.zip"
-    },
-    {
-      "id": "granola/darwin-7.427.9-7.441.4",
-      "title": "Granola 7.427.9 \u2192 7.441.4 (Mac)",
-      "event_type": "update",
-      "app": "Granola",
-      "platform": "mac",
-      "version_from": "7.427.9",
-      "version_to": "7.441.4",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://dr2v7l5emb758.cloudfront.net/7.441.4/Granola-7.441.4-mac-universal.dmg"
-    },
-    {
-      "id": "phpstorm/darwin-2026.2-2026.2.0.1",
-      "title": "PhpStorm 2026.2 \u2192 2026.2.0.1 (Mac)",
-      "event_type": "update",
-      "app": "PhpStorm",
-      "platform": "mac",
-      "version_from": "2026.2",
-      "version_to": "2026.2.0.1",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://download.jetbrains.com/webide/PhpStorm-2026.2.0.1-aarch64.dmg"
-    },
-    {
-      "id": "mimestream/darwin-1.10.4-1.10.5",
-      "title": "Mimestream 1.10.4 \u2192 1.10.5 (Mac)",
-      "event_type": "update",
-      "app": "Mimestream",
-      "platform": "mac",
-      "version_from": "1.10.4",
-      "version_to": "1.10.5",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://download.mimestream.com/Mimestream_1.10.5.dmg"
-    },
-    {
-      "id": "pritunl/windows-1.3.4696.56-1.3.4686.95",
-      "title": "Pritunl 1.3.4696.56 \u2192 1.3.4686.95 (Windows)",
-      "event_type": "update",
-      "app": "Pritunl",
-      "platform": "windows",
-      "version_from": "1.3.4696.56",
-      "version_to": "1.3.4686.95",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://github.com/pritunl/pritunl-client/releases/download/1.3.4686.95/Pritunl.exe"
-    },
-    {
-      "id": "phpstorm/windows-2026.2-2026.2.0.1",
-      "title": "PhpStorm 2026.2 \u2192 2026.2.0.1 (Windows)",
-      "event_type": "update",
-      "app": "PhpStorm",
-      "platform": "windows",
-      "version_from": "2026.2",
-      "version_to": "2026.2.0.1",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://download.jetbrains.com/webide/PhpStorm-2026.2.0.1.exe"
-    },
-    {
-      "id": "telegram/windows-7.0.4-7.0.5",
-      "title": "Telegram 7.0.4 \u2192 7.0.5 (Windows)",
-      "event_type": "update",
-      "app": "Telegram",
-      "platform": "windows",
-      "version_from": "7.0.4",
-      "version_to": "7.0.5",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://td.telegram.org/tx64/tsetup-x64.7.0.5.exe"
-    },
-    {
-      "id": "adobe-acrobat-reader/windows-26.001.21691-26.001.21745",
-      "title": "Adobe Acrobat Reader 26.001.21691 \u2192 26.001.21745 (Windows)",
-      "event_type": "update",
-      "app": "Adobe Acrobat Reader",
-      "platform": "windows",
-      "version_from": "26.001.21691",
-      "version_to": "26.001.21745",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121745/AcroRdrDCx642600121745_MUI.exe"
-    },
-    {
-      "id": "pixelsnap/darwin-2.6.3-2.6.4",
-      "title": "PixelSnap 2.6.3 \u2192 2.6.4 (Mac)",
-      "event_type": "update",
-      "app": "PixelSnap",
-      "platform": "mac",
-      "version_from": "2.6.3",
-      "version_to": "2.6.4",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://updates.getpixelsnap.com/v2/PixelSnap-2-2.6.4.dmg"
-    },
-    {
-      "id": "gog-galaxy/darwin-2.1.6.26-2.1.7.22",
-      "title": "GOG Galaxy 2.1.6.26 \u2192 2.1.7.22 (Mac)",
-      "event_type": "update",
-      "app": "GOG Galaxy",
-      "platform": "mac",
-      "version_from": "2.1.6.26",
-      "version_to": "2.1.7.22",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://gog-cdn-fastly.gog.com/open/galaxy/client/galaxy_client_2.1.7.22.pkg"
-    },
-    {
-      "id": "webstorm/windows-2026.2-2026.2.0.1",
-      "title": "WebStorm 2026.2 \u2192 2026.2.0.1 (Windows)",
-      "event_type": "update",
-      "app": "WebStorm",
-      "platform": "windows",
-      "version_from": "2026.2",
-      "version_to": "2026.2.0.1",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.0.1.exe"
-    },
-    {
-      "id": "firefox/windows-152.0.6-153.0",
-      "title": "Mozilla Firefox 152.0.6 \u2192 153.0 (Windows)",
-      "event_type": "update",
-      "app": "Mozilla Firefox",
-      "platform": "windows",
-      "version_from": "152.0.6",
-      "version_to": "153.0",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0/win64/en-US/Firefox%20Setup%20153.0.exe"
-    },
-    {
-      "id": "postman/darwin-12.20.2-12.20.4",
-      "title": "Postman 12.20.2 \u2192 12.20.4 (Mac)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "mac",
-      "version_from": "12.20.2",
-      "version_to": "12.20.4",
-      "timestamp": "2026-07-23T22:09:49+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.20.4/osx_arm64"
     }
   ]
 }
