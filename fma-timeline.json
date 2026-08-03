@@ -1,9 +1,20 @@
 {
-  "generated": "2026-08-03T08:14:12Z",
+  "generated": "2026-08-03T13:10:17Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "microsoft-odbc-driver-17/windows--17.11.1.1",
+      "title": "New App: Microsoft ODBC Driver 17 for SQL Server 17.11.1.1 (Windows)",
+      "event_type": "added",
+      "app": "Microsoft ODBC Driver 17 for SQL Server",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "17.11.1.1",
+      "timestamp": "2026-08-03T08:34:26+00:00",
+      "download_url": "https://download.microsoft.com/download/d99fcd4f-548f-46e6-83d5-b9eb62b373d5/amd64/1033/msodbcsql.msi"
+    },
     {
       "id": "openrct2/darwin-0.5.3-0.5.4",
       "title": "OpenRCT2 0.5.3 \u2192 0.5.4 (Mac)",
@@ -5395,37 +5406,15 @@
       "download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.48.1/kitty-0.48.1.dmg"
     },
     {
-      "id": "microsoft-edge/darwin-150.0.4078.83-150.0.4078.96",
-      "title": "Microsoft Edge 150.0.4078.83 \u2192 150.0.4078.96 (Mac)",
+      "id": "remote-desktop-manager/darwin-2026.2.3.2-2026.2.4.1",
+      "title": "Remote Desktop Manager 2026.2.3.2 \u2192 2026.2.4.1 (Mac)",
       "event_type": "update",
-      "app": "Microsoft Edge",
+      "app": "Remote Desktop Manager",
       "platform": "mac",
-      "version_from": "150.0.4078.83",
-      "version_to": "150.0.4078.96",
+      "version_from": "2026.2.3.2",
+      "version_to": "2026.2.4.1",
       "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a6112a17-69dd-45ca-a673-405c7a4c245e/MicrosoftEdge-150.0.4078.96.dmg"
-    },
-    {
-      "id": "kiro-cli/darwin-2.14.0-2.14.1",
-      "title": "Kiro CLI 2.14.0 \u2192 2.14.1 (Mac)",
-      "event_type": "update",
-      "app": "Kiro CLI",
-      "platform": "mac",
-      "version_from": "2.14.0",
-      "version_to": "2.14.1",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://desktop-release.q.us-east-1.amazonaws.com/2.14.1/Kiro%20CLI.dmg"
-    },
-    {
-      "id": "kiro/darwin-1.0.203-1.0.212",
-      "title": "Kiro 1.0.203 \u2192 1.0.212 (Mac)",
-      "event_type": "update",
-      "app": "Kiro",
-      "platform": "mac",
-      "version_from": "1.0.203",
-      "version_to": "1.0.212",
-      "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://prod.download.desktop.kiro.dev/releases/stable/darwin-arm64/signed/1.0.212/kiro-ide-1.0.212-stable-darwin-arm64.dmg"
+      "download_url": "https://cdn.devolutions.net/download/Mac/Devolutions.RemoteDesktopManager.Mac.2026.2.4.1.dmg"
     },
     {
       "id": "pastebot/darwin-2.4.6-2.4.8",
@@ -5494,15 +5483,26 @@
       "download_url": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi"
     },
     {
-      "id": "melodics/darwin-5.0.865-5.0.871",
-      "title": "Melodics 5.0.865 \u2192 5.0.871 (Mac)",
+      "id": "microsoft-edge/darwin-150.0.4078.83-150.0.4078.96",
+      "title": "Microsoft Edge 150.0.4078.83 \u2192 150.0.4078.96 (Mac)",
       "event_type": "update",
-      "app": "Melodics",
+      "app": "Microsoft Edge",
       "platform": "mac",
-      "version_from": "5.0.865",
-      "version_to": "5.0.871",
+      "version_from": "150.0.4078.83",
+      "version_to": "150.0.4078.96",
       "timestamp": "2026-07-24T04:20:54+00:00",
-      "download_url": "https://web-cdn.melodics.com/download/0F733618-1183-44AD-A29F-70EC22EFBBC8.zip"
+      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a6112a17-69dd-45ca-a673-405c7a4c245e/MicrosoftEdge-150.0.4078.96.dmg"
+    },
+    {
+      "id": "kiro/darwin-1.0.203-1.0.212",
+      "title": "Kiro 1.0.203 \u2192 1.0.212 (Mac)",
+      "event_type": "update",
+      "app": "Kiro",
+      "platform": "mac",
+      "version_from": "1.0.203",
+      "version_to": "1.0.212",
+      "timestamp": "2026-07-24T04:20:54+00:00",
+      "download_url": "https://prod.download.desktop.kiro.dev/releases/stable/darwin-arm64/signed/1.0.212/kiro-ide-1.0.212-stable-darwin-arm64.dmg"
     }
   ]
 }
