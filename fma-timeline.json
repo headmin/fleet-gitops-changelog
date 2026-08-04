@@ -1,9 +1,20 @@
 {
-  "generated": "2026-08-03T18:39:28Z",
+  "generated": "2026-08-04T00:42:29Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "zoom-rooms/darwin-7.1.0.13088-7.1.5.13403",
+      "title": "Zoom Rooms 7.1.0.13088 \u2192 7.1.5.13403 (Mac)",
+      "event_type": "update",
+      "app": "Zoom Rooms",
+      "platform": "mac",
+      "version_from": "7.1.0.13088",
+      "version_to": "7.1.5.13403",
+      "timestamp": "2026-08-03T19:41:29+00:00",
+      "download_url": "https://cdn.zoom.us/prod/7.1.5.13403/ZoomRooms.pkg"
+    },
     {
       "id": "nvda/windows--2026.1.1",
       "title": "New App: NVDA 2026.1.1 (Windows)",
@@ -5492,17 +5503,6 @@
       "version_to": "155.2607.2409.0",
       "timestamp": "2026-07-24T20:23:32+00:00",
       "download_url": "https://ftp.mozilla.org/pub/firefox/nightly/2026/07/2026-07-24-09-01-43-mozilla-central/firefox-155.0a1.multi.win64.installer.msix"
-    },
-    {
-      "id": "prisma-browser/windows-150.49.7.182-150.49.8.187",
-      "title": "Prisma Browser 150.49.7.182 \u2192 150.49.8.187 (Windows)",
-      "event_type": "update",
-      "app": "Prisma Browser",
-      "platform": "windows",
-      "version_from": "150.49.7.182",
-      "version_to": "150.49.8.187",
-      "timestamp": "2026-07-24T20:23:32+00:00",
-      "download_url": "https://updates.talon-sec.com/releases/Prisma%20Access%20Browser/win/packaged/x64/crx_signed_o4_stable_prisma_access_browser_installer_150_49_8_187-150.49.8.187-0b42f71b.msi"
     }
   ]
 }
