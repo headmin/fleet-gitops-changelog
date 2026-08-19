@@ -1,5 +1,15 @@
 [
   {
+    "sha": "bf9989f11fdc7fe8ffa11fd7ee6eb5184d676df3",
+    "short_sha": "bf9989f11f",
+    "author": "Allen Houchins",
+    "message": "Update deprecated GitOps keys in dogfood config (#51568)",
+    "timestamp": "2026-08-19T12:54:30-05:00",
+    "files": [
+      "it-and-security/default.yml"
+    ]
+  },
+  {
     "sha": "485fb69f9b05ebbc3cd29a3741bd4e9ec88ec14e",
     "short_sha": "485fb69f9b",
     "author": "Juan Fernandez",
