@@ -1,9 +1,42 @@
 {
-  "generated": "2026-08-22T18:33:11Z",
+  "generated": "2026-08-23T01:26:20Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "postman/windows-12.24.5-12.24.6",
+      "title": "Postman 12.24.5 \u2192 12.24.6 (Windows)",
+      "event_type": "update",
+      "app": "Postman",
+      "platform": "windows",
+      "version_from": "12.24.5",
+      "version_to": "12.24.6",
+      "timestamp": "2026-08-22T18:36:03+00:00",
+      "download_url": "https://dl.pstmn.io/download/version/12.24.6/windows_64"
+    },
+    {
+      "id": "arc/windows-1.117.0.340-1.120.1.3",
+      "title": "Arc 1.117.0.340 \u2192 1.120.1.3 (Windows)",
+      "event_type": "update",
+      "app": "Arc",
+      "platform": "windows",
+      "version_from": "1.117.0.340",
+      "version_to": "1.120.1.3",
+      "timestamp": "2026-08-22T18:36:03+00:00",
+      "download_url": "https://releases.arc.net/windows/prod/1.120.1.3/Arc.x64.msix"
+    },
+    {
+      "id": "telegram/windows-7.0.9-7.1.0",
+      "title": "Telegram 7.0.9 \u2192 7.1.0 (Windows)",
+      "event_type": "update",
+      "app": "Telegram",
+      "platform": "windows",
+      "version_from": "7.0.9",
+      "version_to": "7.1.0",
+      "timestamp": "2026-08-22T18:36:03+00:00",
+      "download_url": "https://github.com/telegramdesktop/tdesktop/releases/download/v7.1.0/tsetup-x64.7.1.0.exe"
+    },
     {
       "id": "popclip/darwin-2026.7.1-2026.8",
       "title": "PopClip 2026.7.1 \u2192 2026.8 (Mac)",
@@ -5274,26 +5307,15 @@
       "download_url": "https://beeper-desktop.download.beeper.com/builds/Beeper-4.3.34-arm64-mac.zip"
     },
     {
-      "id": "superhuman/darwin-1041.0.30-1041.0.31",
-      "title": "Superhuman 1041.0.30 \u2192 1041.0.31 (Mac)",
+      "id": "zed/darwin-1.14.2-1.15.0",
+      "title": "Zed 1.14.2 \u2192 1.15.0 (Mac)",
       "event_type": "update",
-      "app": "Superhuman",
+      "app": "Zed",
       "platform": "mac",
-      "version_from": "1041.0.30",
-      "version_to": "1041.0.31",
+      "version_from": "1.14.2",
+      "version_to": "1.15.0",
       "timestamp": "2026-08-13T02:06:56+00:00",
-      "download_url": "https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1041.0.31-arm64-latest-mac.zip"
-    },
-    {
-      "id": "marked-app/darwin-3.1.21-3.1.22",
-      "title": "Marked 3.1.21 \u2192 3.1.22 (Mac)",
-      "event_type": "update",
-      "app": "Marked",
-      "platform": "mac",
-      "version_from": "3.1.21",
-      "version_to": "3.1.22",
-      "timestamp": "2026-08-13T02:06:56+00:00",
-      "download_url": "https://updates.markedapp.com/updates/Marked%203.1.22-1206.zip"
+      "download_url": "https://zed.dev/api/releases/stable/1.15.0/Zed-aarch64.dmg"
     },
     {
       "id": "teamviewer-host/windows-15.80.4-15.80.6",
@@ -5439,6 +5461,17 @@
       "download_url": "https://download.wavebox.app/stable/macarm64/Wavebox_151.2.154.2.zip"
     },
     {
+      "id": "superhuman/darwin-1041.0.30-1041.0.31",
+      "title": "Superhuman 1041.0.30 \u2192 1041.0.31 (Mac)",
+      "event_type": "update",
+      "app": "Superhuman",
+      "platform": "mac",
+      "version_from": "1041.0.30",
+      "version_to": "1041.0.31",
+      "timestamp": "2026-08-13T02:06:56+00:00",
+      "download_url": "https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-1041.0.31-arm64-latest-mac.zip"
+    },
+    {
       "id": "wispr-flow/darwin-1.6.447-1.6.492",
       "title": "Wispr Flow 1.6.447 \u2192 1.6.492 (Mac)",
       "event_type": "update",
@@ -5461,48 +5494,15 @@
       "download_url": "https://dr2v7l5emb758.cloudfront.net/7.478.0/Granola-7.478.0-mac-universal.dmg"
     },
     {
-      "id": "zed/darwin-1.14.2-1.15.0",
-      "title": "Zed 1.14.2 \u2192 1.15.0 (Mac)",
+      "id": "firefox@developer-edition/darwin-154.0b9-154.0b10",
+      "title": "Mozilla Firefox Developer Edition 154.0b9 \u2192 154.0b10 (Mac)",
       "event_type": "update",
-      "app": "Zed",
+      "app": "Mozilla Firefox Developer Edition",
       "platform": "mac",
-      "version_from": "1.14.2",
-      "version_to": "1.15.0",
+      "version_from": "154.0b9",
+      "version_to": "154.0b10",
       "timestamp": "2026-08-13T02:06:56+00:00",
-      "download_url": "https://zed.dev/api/releases/stable/1.15.0/Zed-aarch64.dmg"
-    },
-    {
-      "id": "opencode-desktop/darwin-1.18.16-1.18.17",
-      "title": "OpenCode 1.18.16 \u2192 1.18.17 (Mac)",
-      "event_type": "update",
-      "app": "OpenCode",
-      "platform": "mac",
-      "version_from": "1.18.16",
-      "version_to": "1.18.17",
-      "timestamp": "2026-08-13T02:06:56+00:00",
-      "download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.17/opencode-desktop-mac-arm64.dmg"
-    },
-    {
-      "id": "cursor/darwin-3.15.6-3.15.19",
-      "title": "Cursor 3.15.6 \u2192 3.15.19 (Mac)",
-      "event_type": "update",
-      "app": "Cursor",
-      "platform": "mac",
-      "version_from": "3.15.6",
-      "version_to": "3.15.19",
-      "timestamp": "2026-08-13T02:06:56+00:00",
-      "download_url": "https://downloads.cursor.com/production/de07bee81cefe43461ebf4f40c3d2d78d15052aa/darwin/arm64/Cursor-darwin-arm64.zip"
-    },
-    {
-      "id": "electrum/windows-4.8.0-4.8.1",
-      "title": "Electrum 4.8.0 \u2192 4.8.1 (Windows)",
-      "event_type": "update",
-      "app": "Electrum",
-      "platform": "windows",
-      "version_from": "4.8.0",
-      "version_to": "4.8.1",
-      "timestamp": "2026-08-13T02:06:56+00:00",
-      "download_url": "https://download.electrum.org/4.8.1/electrum-4.8.1-setup.exe"
+      "download_url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/154.0b10/mac/en-US/Firefox%20154.0b10.dmg"
     }
   ]
 }
