@@ -1,5 +1,15 @@
 [
   {
+    "sha": "4c1d4a487e06ea6f03d2fd89ad10d3ec4ab77619",
+    "short_sha": "4c1d4a487e",
+    "author": "Noah Talerman",
+    "message": "New bookmark: #g-byod (#51790)",
+    "timestamp": "2026-08-25T09:27:48-04:00",
+    "files": [
+      "it-and-security/lib/macos/configuration-profiles/google-chrome-managed-bookmarks.mobileconfig"
+    ]
+  },
+  {
     "sha": "bf9989f11fdc7fe8ffa11fd7ee6eb5184d676df3",
     "short_sha": "bf9989f11f",
     "author": "Allen Houchins",
