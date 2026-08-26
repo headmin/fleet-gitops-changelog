@@ -1,9 +1,20 @@
 {
-  "generated": "2026-08-26T01:24:23Z",
+  "generated": "2026-08-26T06:52:30Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "imageglass/windows-10.0.4.819-10.0.819.0",
+      "title": "ImageGlass 10.0.4.819 \u2192 10.0.819.0 (Windows)",
+      "event_type": "update",
+      "app": "ImageGlass",
+      "platform": "windows",
+      "version_from": "10.0.4.819",
+      "version_to": "10.0.819.0",
+      "timestamp": "2026-08-26T03:08:29+00:00",
+      "download_url": "https://github.com/d2phap/ImageGlass/releases/download/10.0.4.819/ImageGlass_10.0.4.819_win-x64.msix"
+    },
     {
       "id": "intellij-idea/windows-2025.2.5-2026.2.1",
       "title": "IntelliJ IDEA 2025.2.5 \u2192 2026.2.1 (Windows)",
@@ -5296,37 +5307,15 @@
       "download_url": "https://files.tableplus.com/windows/26.9.5/TablePlusSetup.exe"
     },
     {
-      "id": "airtable/darwin-1.7.0-1.7.1",
-      "title": "Airtable 1.7.0 \u2192 1.7.1 (Mac)",
+      "id": "4k-youtube-to-mp3/darwin-26.2.1-26.3.0",
+      "title": "4K YouTube to MP3 26.2.1 \u2192 26.3.0 (Mac)",
       "event_type": "update",
-      "app": "Airtable",
+      "app": "4K YouTube to MP3",
       "platform": "mac",
-      "version_from": "1.7.0",
-      "version_to": "1.7.1",
+      "version_from": "26.2.1",
+      "version_to": "26.3.0",
       "timestamp": "2026-08-15T05:28:19+00:00",
-      "download_url": "https://static.airtable.com/download/macos/Airtable-1.7.1.dmg"
-    },
-    {
-      "id": "textexpander/windows-254.8.4.603-254.8.4.704",
-      "title": "TextExpander 254.8.4.603 \u2192 254.8.4.704 (Windows)",
-      "event_type": "update",
-      "app": "TextExpander",
-      "platform": "windows",
-      "version_from": "254.8.4.603",
-      "version_to": "254.8.4.704",
-      "timestamp": "2026-08-15T05:28:19+00:00",
-      "download_url": "https://cdn.textexpander.com/windows/847.4.0/TextExpander_x64.msi"
-    },
-    {
-      "id": "discord/darwin-0.0.407-0.0.408",
-      "title": "Discord 0.0.407 \u2192 0.0.408 (Mac)",
-      "event_type": "update",
-      "app": "Discord",
-      "platform": "mac",
-      "version_from": "0.0.407",
-      "version_to": "0.0.408",
-      "timestamp": "2026-08-15T05:28:19+00:00",
-      "download_url": "https://dl.discordapp.net/apps/osx/0.0.408/Discord.dmg"
+      "download_url": "https://dl.4kdownload.com/app/4kyoutubetomp3_26.3.0_arm64.dmg"
     },
     {
       "id": "microsoft-edge/darwin-151.0.4129.78-151.0.4129.86",
@@ -5494,15 +5483,26 @@
       "download_url": "https://download.royalapps.com/royalts/royaltsinstaller_7.04.50814.0_x64.msi"
     },
     {
-      "id": "chatgpt/darwin-26.803.81509-26.810.50856",
-      "title": "ChatGPT Desktop 26.803.81509 \u2192 26.810.50856 (Mac)",
+      "id": "airtable/darwin-1.7.0-1.7.1",
+      "title": "Airtable 1.7.0 \u2192 1.7.1 (Mac)",
       "event_type": "update",
-      "app": "ChatGPT Desktop",
+      "app": "Airtable",
       "platform": "mac",
-      "version_from": "26.803.81509",
-      "version_to": "26.810.50856",
+      "version_from": "1.7.0",
+      "version_to": "1.7.1",
       "timestamp": "2026-08-15T05:28:19+00:00",
-      "download_url": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.810.50856.zip"
+      "download_url": "https://static.airtable.com/download/macos/Airtable-1.7.1.dmg"
+    },
+    {
+      "id": "discord/darwin-0.0.407-0.0.408",
+      "title": "Discord 0.0.407 \u2192 0.0.408 (Mac)",
+      "event_type": "update",
+      "app": "Discord",
+      "platform": "mac",
+      "version_from": "0.0.407",
+      "version_to": "0.0.408",
+      "timestamp": "2026-08-15T05:28:19+00:00",
+      "download_url": "https://dl.discordapp.net/apps/osx/0.0.408/Discord.dmg"
     }
   ]
 }
