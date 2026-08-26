@@ -1,9 +1,20 @@
 {
-  "generated": "2026-08-25T18:41:34Z",
+  "generated": "2026-08-26T01:24:23Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "intellij-idea/windows-2025.2.5-2026.2.1",
+      "title": "IntelliJ IDEA 2025.2.5 \u2192 2026.2.1 (Windows)",
+      "event_type": "update",
+      "app": "IntelliJ IDEA",
+      "platform": "windows",
+      "version_from": "2025.2.5",
+      "version_to": "2026.2.1",
+      "timestamp": "2026-08-25T18:43:08+00:00",
+      "download_url": "https://download.jetbrains.com/idea/idea-2026.2.1.exe"
+    },
     {
       "id": "evernote/darwin-11.30.6-11.31.5",
       "title": "Evernote 11.30.6 \u2192 11.31.5 (Mac)",
@@ -5285,37 +5296,15 @@
       "download_url": "https://files.tableplus.com/windows/26.9.5/TablePlusSetup.exe"
     },
     {
-      "id": "royal-tsx/windows-7.4.50721.0-7.4.50814.0",
-      "title": "Royal TSX 7.4.50721.0 \u2192 7.4.50814.0 (Windows)",
+      "id": "airtable/darwin-1.7.0-1.7.1",
+      "title": "Airtable 1.7.0 \u2192 1.7.1 (Mac)",
       "event_type": "update",
-      "app": "Royal TSX",
-      "platform": "windows",
-      "version_from": "7.4.50721.0",
-      "version_to": "7.4.50814.0",
-      "timestamp": "2026-08-15T05:28:19+00:00",
-      "download_url": "https://download.royalapps.com/royalts/royaltsinstaller_7.04.50814.0_x64.msi"
-    },
-    {
-      "id": "ollama/windows-0.32.9-0.32.13",
-      "title": "Ollama 0.32.9 \u2192 0.32.13 (Windows)",
-      "event_type": "update",
-      "app": "Ollama",
-      "platform": "windows",
-      "version_from": "0.32.9",
-      "version_to": "0.32.13",
-      "timestamp": "2026-08-15T05:28:19+00:00",
-      "download_url": "https://github.com/ollama/ollama/releases/download/v0.32.13/OllamaSetup.exe"
-    },
-    {
-      "id": "chatgpt/darwin-26.803.81509-26.810.50856",
-      "title": "ChatGPT Desktop 26.803.81509 \u2192 26.810.50856 (Mac)",
-      "event_type": "update",
-      "app": "ChatGPT Desktop",
+      "app": "Airtable",
       "platform": "mac",
-      "version_from": "26.803.81509",
-      "version_to": "26.810.50856",
+      "version_from": "1.7.0",
+      "version_to": "1.7.1",
       "timestamp": "2026-08-15T05:28:19+00:00",
-      "download_url": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.810.50856.zip"
+      "download_url": "https://static.airtable.com/download/macos/Airtable-1.7.1.dmg"
     },
     {
       "id": "textexpander/windows-254.8.4.603-254.8.4.704",
@@ -5494,15 +5483,26 @@
       "download_url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v6.0.1/Beekeeper-Studio-6.0.1-arm64.dmg"
     },
     {
-      "id": "postman/darwin-12.23.5-12.23.8",
-      "title": "Postman 12.23.5 \u2192 12.23.8 (Mac)",
+      "id": "royal-tsx/windows-7.4.50721.0-7.4.50814.0",
+      "title": "Royal TSX 7.4.50721.0 \u2192 7.4.50814.0 (Windows)",
       "event_type": "update",
-      "app": "Postman",
-      "platform": "mac",
-      "version_from": "12.23.5",
-      "version_to": "12.23.8",
+      "app": "Royal TSX",
+      "platform": "windows",
+      "version_from": "7.4.50721.0",
+      "version_to": "7.4.50814.0",
       "timestamp": "2026-08-15T05:28:19+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.23.8/osx_arm64"
+      "download_url": "https://download.royalapps.com/royalts/royaltsinstaller_7.04.50814.0_x64.msi"
+    },
+    {
+      "id": "chatgpt/darwin-26.803.81509-26.810.50856",
+      "title": "ChatGPT Desktop 26.803.81509 \u2192 26.810.50856 (Mac)",
+      "event_type": "update",
+      "app": "ChatGPT Desktop",
+      "platform": "mac",
+      "version_from": "26.803.81509",
+      "version_to": "26.810.50856",
+      "timestamp": "2026-08-15T05:28:19+00:00",
+      "download_url": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.810.50856.zip"
     }
   ]
 }
