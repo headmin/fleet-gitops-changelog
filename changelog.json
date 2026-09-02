@@ -1,5 +1,15 @@
 [
   {
+    "sha": "403cc4495e67af48991eba9c08239135aae66351",
+    "short_sha": "403cc4495e",
+    "author": "Mike Thomas",
+    "message": "Update macs-excluded-from-external-storage-restrictions.yml (#52341)",
+    "timestamp": "2026-09-02T12:07:24+09:00",
+    "files": [
+      "it-and-security/lib/all/labels/macs-excluded-from-external-storage-restrictions.yml"
+    ]
+  },
+  {
     "sha": "4c1d4a487e06ea6f03d2fd89ad10d3ec4ab77619",
     "short_sha": "4c1d4a487e",
     "author": "Noah Talerman",
