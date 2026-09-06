@@ -1,5 +1,18 @@
 [
   {
+    "sha": "658ea38af1869b98024584c89844233bd79ccd46",
+    "short_sha": "658ea38af1",
+    "author": "claude[bot]",
+    "message": "Bump Linux Zoom to 7.1.5.4332 and Slack to 4.52.155 in Workstations gitops config (#52637)",
+    "timestamp": "2026-09-05T22:28:35-05:00",
+    "files": [
+      "it-and-security/lib/linux/software/slack-deb.yml",
+      "it-and-security/lib/linux/software/slack-rpm.yml",
+      "it-and-security/lib/linux/software/zoom-deb.yml",
+      "it-and-security/lib/linux/software/zoom-rpm.yml"
+    ]
+  },
+  {
     "sha": "403cc4495e67af48991eba9c08239135aae66351",
     "short_sha": "403cc4495e",
     "author": "Mike Thomas",
