@@ -1,9 +1,20 @@
 {
-  "generated": "2026-09-06T20:07:40Z",
+  "generated": "2026-09-07T03:30:21Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "firealpaca/darwin-2.15.2-2.16.2",
+      "title": "Fire Alpaca 2.15.2 \u2192 2.16.2 (Mac)",
+      "event_type": "update",
+      "app": "Fire Alpaca",
+      "platform": "mac",
+      "version_from": "2.15.2",
+      "version_to": "2.16.2",
+      "timestamp": "2026-09-07T03:25:18+00:00",
+      "download_url": "https://firealpaca.com/download/mac"
+    },
     {
       "id": "vivaldi/darwin-8.2.4133.45-8.2.4133.47",
       "title": "Vivaldi 8.2.4133.45 \u2192 8.2.4133.47 (Mac)",
@@ -5461,6 +5472,17 @@
       "download_url": "https://win.desktop.evernote.com/builds/Evernote-11.31.5-win-ddl-stage-20260824131837-bda79c641c972b8aa180a811518dfc06eba6ffd1-setup.exe"
     },
     {
+      "id": "loom/windows-0.370.1-0.371.1",
+      "title": "Loom 0.370.1 \u2192 0.371.1 (Windows)",
+      "event_type": "update",
+      "app": "Loom",
+      "platform": "windows",
+      "version_from": "0.370.1",
+      "version_to": "0.371.1",
+      "timestamp": "2026-08-27T16:13:50+00:00",
+      "download_url": "https://cdn.loom.com/desktop-packages/Loom%20Setup%200.371.1.exe"
+    },
+    {
       "id": "datagrip/windows-2026.2.3-2026.2.4",
       "title": "DataGrip 2026.2.3 \u2192 2026.2.4 (Windows)",
       "event_type": "update",
@@ -5472,17 +5494,6 @@
       "download_url": "https://download.jetbrains.com/datagrip/datagrip-2026.2.4.exe"
     },
     {
-      "id": "notion/darwin-7.31.2-7.31.3",
-      "title": "Notion 7.31.2 \u2192 7.31.3 (Mac)",
-      "event_type": "update",
-      "app": "Notion",
-      "platform": "mac",
-      "version_from": "7.31.2",
-      "version_to": "7.31.3",
-      "timestamp": "2026-08-27T16:13:50+00:00",
-      "download_url": "https://desktop-release.notion-static.com/Notion-7.31.3-arm64.dmg"
-    },
-    {
       "id": "chatgpt/darwin-26.820.60940-26.820.71523",
       "title": "ChatGPT Desktop 26.820.60940 \u2192 26.820.71523 (Mac)",
       "event_type": "update",
@@ -5492,17 +5503,6 @@
       "version_to": "26.820.71523",
       "timestamp": "2026-08-27T16:13:50+00:00",
       "download_url": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.820.71523.zip"
-    },
-    {
-      "id": "grammarly-desktop/windows--1.2.289.1946",
-      "title": "New App: Grammarly Desktop 1.2.289.1946 (Windows)",
-      "event_type": "added",
-      "app": "Grammarly Desktop",
-      "platform": "windows",
-      "version_from": null,
-      "version_to": "1.2.289.1946",
-      "timestamp": "2026-08-27T16:13:50+00:00",
-      "download_url": "https://download-windows.grammarly.com/versions/1.2.289.1946/GrammarlyInstaller.exe"
     }
   ]
 }
