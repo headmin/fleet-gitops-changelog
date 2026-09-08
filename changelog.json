@@ -1,5 +1,32 @@
 [
   {
+    "sha": "2ad70261986c844dece8c23c531d8ceb19a4db6a",
+    "short_sha": "2ad7026198",
+    "author": "Allen Houchins",
+    "message": "Add Claude Desktop for Debian-based Linux to Workstations (script-only package + patch policy) (#52651)",
+    "timestamp": "2026-09-08T13:24:23-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/icons/claude-logo.png",
+      "it-and-security/lib/linux/policies/update-claude.yml",
+      "it-and-security/lib/linux/scripts/install-claude-desktop.sh",
+      "it-and-security/lib/linux/scripts/uninstall-claude-desktop.sh",
+      "it-and-security/lib/linux/scripts/update-claude-desktop.sh",
+      "it-and-security/lib/linux/scripts/verify-claude-desktop.sh"
+    ]
+  },
+  {
+    "sha": "2092ac70f600c08d609d9ad20b0e322eb7ff5188",
+    "short_sha": "2092ac70f6",
+    "author": "Noah Talerman",
+    "message": "Install updates when apps are closed (#51789)",
+    "timestamp": "2026-09-08T13:06:14-04:00",
+    "files": [
+      "it-and-security/lib/macos/policies/patch-fleet-maintained-apps.yml",
+      "it-and-security/lib/windows/policies/patch-fleet-maintained-apps.yml"
+    ]
+  },
+  {
     "sha": "7f2f4ab063a449369974bdcfd3aaa433bdb2de64",
     "short_sha": "7f2f4ab063",
     "author": "Noah Talerman",
