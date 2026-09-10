@@ -1,5 +1,15 @@
 [
   {
+    "sha": "bf90eb9f9986e6cc539f7ae81a4258e238a7bad3",
+    "short_sha": "bf90eb9f99",
+    "author": "Allen Houchins",
+    "message": "Replace ID 275 with 815 in exclusion list (#52934)",
+    "timestamp": "2026-09-10T08:46:26-05:00",
+    "files": [
+      "it-and-security/lib/all/labels/macs-excluded-from-external-storage-restrictions.yml"
+    ]
+  },
+  {
     "sha": "d9b635a14d9019fbb894c15721c5894dc6047d78",
     "short_sha": "d9b635a14d",
     "author": "Allen Houchins",
