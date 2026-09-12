@@ -1,9 +1,20 @@
 {
-  "generated": "2026-09-11T20:38:42Z",
+  "generated": "2026-09-12T03:40:40Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "masscode/darwin-5.10.0-5.11.0",
+      "title": "massCode 5.10.0 \u2192 5.11.0 (Mac)",
+      "event_type": "update",
+      "app": "massCode",
+      "platform": "mac",
+      "version_from": "5.10.0",
+      "version_to": "5.11.0",
+      "timestamp": "2026-09-11T20:40:58+00:00",
+      "download_url": "https://github.com/massCodeIO/massCode/releases/download/v5.11.0/massCode-5.11.0-arm64.dmg"
+    },
     {
       "id": "firefox@nightly/windows-157.2609.908.0-158.2609.1014.0",
       "title": "Mozilla Firefox Nightly 157.2609.908.0 \u2192 158.2609.1014.0 (Windows)",
@@ -5439,37 +5450,15 @@
       "download_url": "https://github.com/mullvad/mullvad-browser/releases/download/15.0.21/mullvad-browser-windows-x86_64-15.0.21.exe"
     },
     {
-      "id": "opencode-desktop/darwin-1.18.26-1.18.27",
-      "title": "OpenCode 1.18.26 \u2192 1.18.27 (Mac)",
+      "id": "egnyte/windows-4.5.1.201-4.6.1.204",
+      "title": "Egnyte 4.5.1.201 \u2192 4.6.1.204 (Windows)",
       "event_type": "update",
-      "app": "OpenCode",
-      "platform": "mac",
-      "version_from": "1.18.26",
-      "version_to": "1.18.27",
-      "timestamp": "2026-09-03T03:27:54+00:00",
-      "download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.27/opencode-desktop-mac-arm64.dmg"
-    },
-    {
-      "id": "zed/darwin-1.17.2-1.18.0",
-      "title": "Zed 1.17.2 \u2192 1.18.0 (Mac)",
-      "event_type": "update",
-      "app": "Zed",
-      "platform": "mac",
-      "version_from": "1.17.2",
-      "version_to": "1.18.0",
-      "timestamp": "2026-09-03T03:27:54+00:00",
-      "download_url": "https://zed.dev/api/releases/stable/1.18.0/Zed-aarch64.dmg"
-    },
-    {
-      "id": "advanced-installer/windows-23.9-24.0",
-      "title": "Advanced Installer 23.9 \u2192 24.0 (Windows)",
-      "event_type": "update",
-      "app": "Advanced Installer",
+      "app": "Egnyte",
       "platform": "windows",
-      "version_from": "23.9",
-      "version_to": "24.0",
+      "version_from": "4.5.1.201",
+      "version_to": "4.6.1.204",
       "timestamp": "2026-09-03T03:27:54+00:00",
-      "download_url": "https://storage.advancedupdater.cloud/downloads/24.0/advinst.msi"
+      "download_url": "https://egnyte-cdn.egnyte.com/egnytedrive/win/en-us/4.6.1/EgnyteDesktopApp_4.6.1_204.msi"
     },
     {
       "id": "claude/darwin-1.44121.1-1.44121.2",
@@ -5494,15 +5483,26 @@
       "download_url": "https://folivora.ai/releases/btt6.771-2026090202.zip"
     },
     {
-      "id": "thunderbird/windows-154.0-155.0",
-      "title": "Thunderbird 154.0 \u2192 155.0 (Windows)",
+      "id": "opencode-desktop/darwin-1.18.26-1.18.27",
+      "title": "OpenCode 1.18.26 \u2192 1.18.27 (Mac)",
       "event_type": "update",
-      "app": "Thunderbird",
-      "platform": "windows",
-      "version_from": "154.0",
-      "version_to": "155.0",
+      "app": "OpenCode",
+      "platform": "mac",
+      "version_from": "1.18.26",
+      "version_to": "1.18.27",
       "timestamp": "2026-09-03T03:27:54+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0/win64/en-US/Thunderbird%20Setup%20155.0.exe"
+      "download_url": "https://github.com/anomalyco/opencode/releases/download/v1.18.27/opencode-desktop-mac-arm64.dmg"
+    },
+    {
+      "id": "advanced-installer/windows-23.9-24.0",
+      "title": "Advanced Installer 23.9 \u2192 24.0 (Windows)",
+      "event_type": "update",
+      "app": "Advanced Installer",
+      "platform": "windows",
+      "version_from": "23.9",
+      "version_to": "24.0",
+      "timestamp": "2026-09-03T03:27:54+00:00",
+      "download_url": "https://storage.advancedupdater.cloud/downloads/24.0/advinst.msi"
     }
   ]
 }
