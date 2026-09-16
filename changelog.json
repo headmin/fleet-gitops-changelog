@@ -1,5 +1,36 @@
 [
   {
+    "sha": "cd77b96c6f47a6944a05f72ed1b248d65f902a1b",
+    "short_sha": "cd77b96c6f",
+    "author": "Harrison Ravazzolo",
+    "message": "Modify DEX query (#53332)",
+    "timestamp": "2026-09-16T07:14:50-07:00",
+    "files": [
+      "it-and-security/lib/all/reports/dex-queries.yml"
+    ]
+  },
+  {
+    "sha": "78ff45d6349044a506d72d354e3ba3dbff349a9b",
+    "short_sha": "78ff45d634",
+    "author": "Harrison Ravazzolo",
+    "message": "add `ai_tools` query to DEX pack (#53328)",
+    "timestamp": "2026-09-16T06:58:05-07:00",
+    "files": [
+      "it-and-security/lib/all/reports/dex-queries.yml"
+    ]
+  },
+  {
+    "sha": "6a40efaf178f7c4388b3abdf54794ae24c4e15d8",
+    "short_sha": "6a40efaf17",
+    "author": "Allen Houchins",
+    "message": "Add Linux OS up-to-date policy to Workstations (dogfood) (#53292)",
+    "timestamp": "2026-09-16T08:45:25-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/linux/policies/latest-linux.yml"
+    ]
+  },
+  {
     "sha": "15f8c31d9b473c3282b12e8950a9aa0e7bf935c0",
     "short_sha": "15f8c31d9b",
     "author": "Allen Houchins",
