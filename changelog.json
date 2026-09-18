@@ -1,5 +1,15 @@
 [
   {
+    "sha": "c0e33e7a21c57ed3afa761945ff69aec10092124",
+    "short_sha": "c0e33e7a21",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 2.2553.1 (#53504)",
+    "timestamp": "2026-09-18T09:32:30-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "55d6663f3fccfbc192592d8480c7c9d9fd4b8123",
     "short_sha": "55d6663f3f",
     "author": "claude[bot]",
