@@ -1,5 +1,18 @@
 [
   {
+    "sha": "55d6663f3fccfbc192592d8480c7c9d9fd4b8123",
+    "short_sha": "55d6663f3f",
+    "author": "claude[bot]",
+    "message": "Add ARM/x86 labels for Linux workstations (#53477)",
+    "timestamp": "2026-09-17T21:52:30-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/arm-based-linux-hosts.yml",
+      "it-and-security/lib/all/labels/x86-based-linux-hosts.yml"
+    ]
+  },
+  {
     "sha": "d061c8e58d8462afde3f55531d2b130c16c24cab",
     "short_sha": "d061c8e58d",
     "author": "Allen Houchins",
