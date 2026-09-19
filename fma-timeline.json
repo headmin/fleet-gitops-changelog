@@ -1,9 +1,141 @@
 {
-  "generated": "2026-09-19T15:33:52Z",
+  "generated": "2026-09-19T20:12:34Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "microsoft-word/darwin-16.113-16.113.1",
+      "title": "Microsoft Word 16.113 \u2192 16.113.1 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft Word",
+      "platform": "mac",
+      "version_from": "16.113",
+      "version_to": "16.113.1",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.113.26091740_Installer.pkg"
+    },
+    {
+      "id": "microsoft-outlook/darwin-16.113-16.113.1",
+      "title": "Microsoft Outlook 16.113 \u2192 16.113.1 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft Outlook",
+      "platform": "mac",
+      "version_from": "16.113",
+      "version_to": "16.113.1",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.113.26091740_Installer.pkg"
+    },
+    {
+      "id": "clop/darwin-3.4.2-3.4.3",
+      "title": "Clop 3.4.2 \u2192 3.4.3 (Mac)",
+      "event_type": "update",
+      "app": "Clop",
+      "platform": "mac",
+      "version_from": "3.4.2",
+      "version_to": "3.4.3",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://files.lowtechguys.com/releases/Clop-3.4.3.dmg"
+    },
+    {
+      "id": "microsoft-powerpoint/darwin-16.113-16.113.1",
+      "title": "Microsoft PowerPoint 16.113 \u2192 16.113.1 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft PowerPoint",
+      "platform": "mac",
+      "version_from": "16.113",
+      "version_to": "16.113.1",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.113.26091740_Installer.pkg"
+    },
+    {
+      "id": "microsoft-auto-update/darwin-4.84-4.85",
+      "title": "Microsoft Auto Update 4.84 \u2192 4.85 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft Auto Update",
+      "platform": "mac",
+      "version_from": "4.84",
+      "version_to": "4.85",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.85.26091737_Updater.pkg"
+    },
+    {
+      "id": "logi-options+/darwin-2.7.961922-2.7.970334",
+      "title": "Logi Options+ 2.7.961922 \u2192 2.7.970334 (Mac)",
+      "event_type": "update",
+      "app": "Logi Options+",
+      "platform": "mac",
+      "version_from": "2.7.961922",
+      "version_to": "2.7.970334",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.zip"
+    },
+    {
+      "id": "slab/darwin-1.7.2-1.8.0",
+      "title": "Slab 1.7.2 \u2192 1.8.0 (Mac)",
+      "event_type": "update",
+      "app": "Slab",
+      "platform": "mac",
+      "version_from": "1.7.2",
+      "version_to": "1.8.0",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://github.com/slab/desktop-releases/releases/download/v1.8.0/Slab-1.8.0-darwin-arm64.dmg"
+    },
+    {
+      "id": "netron/darwin-9.2.8-9.2.9",
+      "title": "Netron 9.2.8 \u2192 9.2.9 (Mac)",
+      "event_type": "update",
+      "app": "Netron",
+      "platform": "mac",
+      "version_from": "9.2.8",
+      "version_to": "9.2.9",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://github.com/lutzroeder/netron/releases/download/v9.2.9/Netron-9.2.9-mac.zip"
+    },
+    {
+      "id": "fork/darwin-2.66.7-2.70.2",
+      "title": "Fork 2.66.7 \u2192 2.70.2 (Mac)",
+      "event_type": "update",
+      "app": "Fork",
+      "platform": "mac",
+      "version_from": "2.66.7",
+      "version_to": "2.70.2",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://cdn.fork.dev/mac/Fork-2.70.2.dmg"
+    },
+    {
+      "id": "microsoft-excel/darwin-16.113-16.113.1",
+      "title": "Microsoft Excel 16.113 \u2192 16.113.1 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft Excel",
+      "platform": "mac",
+      "version_from": "16.113",
+      "version_to": "16.113.1",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.113.26091740_Installer.pkg"
+    },
+    {
+      "id": "voiceink/darwin-2.13-2.20",
+      "title": "VoiceInk 2.13 \u2192 2.20 (Mac)",
+      "event_type": "update",
+      "app": "VoiceInk",
+      "platform": "mac",
+      "version_from": "2.13",
+      "version_to": "2.20",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://github.com/Beingpax/VoiceInk/releases/download/v2.20/VoiceInk.dmg"
+    },
+    {
+      "id": "microsoft-onenote/darwin-16.113-16.113.1",
+      "title": "Microsoft OneNote 16.113 \u2192 16.113.1 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft OneNote",
+      "platform": "mac",
+      "version_from": "16.113",
+      "version_to": "16.113.1",
+      "timestamp": "2026-09-19T19:17:26+00:00",
+      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.113.26091740_Updater.pkg"
+    },
     {
       "id": "cursor/darwin-3.21.9-3.21.13",
       "title": "Cursor 3.21.9 \u2192 3.21.13 (Mac)",
@@ -5340,149 +5472,6 @@
       "download_url": "https://github.com/steipete/CodexBar/releases/download/v0.59.0/CodexBar-macos-universal-0.59.0.zip"
     },
     {
-      "id": "acorn/darwin-8.6.2-8.6.3",
-      "title": "Acorn 8.6.2 \u2192 8.6.3 (Mac)",
-      "event_type": "update",
-      "app": "Acorn",
-      "platform": "mac",
-      "version_from": "8.6.2",
-      "version_to": "8.6.3",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://flyingmeat.com/download/Acorn-8.6.3.zip"
-    },
-    {
-      "id": "gimp/darwin-3.2.4-3.2.6",
-      "title": "GIMP 3.2.4 \u2192 3.2.6 (Mac)",
-      "event_type": "update",
-      "app": "GIMP",
-      "platform": "mac",
-      "version_from": "3.2.4",
-      "version_to": "3.2.6",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://download.gimp.org/gimp/v3.2/macos/gimp-3.2.6-arm64.dmg"
-    },
-    {
-      "id": "antinote/darwin-2.1.0-2.1.1",
-      "title": "Antinote 2.1.0 \u2192 2.1.1 (Mac)",
-      "event_type": "update",
-      "app": "Antinote",
-      "platform": "mac",
-      "version_from": "2.1.0",
-      "version_to": "2.1.1",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://antinote.io/updates/Antinote_2.1.1.dmg"
-    },
-    {
-      "id": "microsoft-edge/darwin-152.0.4191.66-153.0.4234.32",
-      "title": "Microsoft Edge 152.0.4191.66 \u2192 153.0.4234.32 (Mac)",
-      "event_type": "update",
-      "app": "Microsoft Edge",
-      "platform": "mac",
-      "version_from": "152.0.4191.66",
-      "version_to": "153.0.4234.32",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/74938451-0c0a-49b3-afb5-052d7622a222/MicrosoftEdge-153.0.4234.32.dmg"
-    },
-    {
-      "id": "claude/darwin-1.49585.0-1.52386.0",
-      "title": "Claude 1.49585.0 \u2192 1.52386.0 (Mac)",
-      "event_type": "update",
-      "app": "Claude",
-      "platform": "mac",
-      "version_from": "1.49585.0",
-      "version_to": "1.52386.0",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://downloads.claude.ai/releases/darwin/universal/1.52386.0/Claude-1003ca8d443708006c167ffbd0f9695343643af1.zip"
-    },
-    {
-      "id": "workflowy/darwin-4.3.2609101857-4.3.2609102104",
-      "title": "WorkFlowy 4.3.2609101857 \u2192 4.3.2609102104 (Mac)",
-      "event_type": "update",
-      "app": "WorkFlowy",
-      "platform": "mac",
-      "version_from": "4.3.2609101857",
-      "version_to": "4.3.2609102104",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://github.com/workflowy/desktop/releases/download/v4.3.2609102104/WorkFlowy.zip"
-    },
-    {
-      "id": "notesnook/windows-3.4.6-3.4.7",
-      "title": "Notesnook 3.4.6 \u2192 3.4.7 (Windows)",
-      "event_type": "update",
-      "app": "Notesnook",
-      "platform": "windows",
-      "version_from": "3.4.6",
-      "version_to": "3.4.7",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://github.com/streetwriters/notesnook/releases/download/v3.4.7/notesnook_win_x64.exe"
-    },
-    {
-      "id": "iterm2/darwin-3.7.0-3.7.1",
-      "title": "iTerm2 3.7.0 \u2192 3.7.1 (Mac)",
-      "event_type": "update",
-      "app": "iTerm2",
-      "platform": "mac",
-      "version_from": "3.7.0",
-      "version_to": "3.7.1",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://iterm2.com/downloads/stable/iTerm2-3_7_1.zip"
-    },
-    {
-      "id": "bettertouchtool/darwin-6.804-6.806",
-      "title": "BetterTouchTool 6.804 \u2192 6.806 (Mac)",
-      "event_type": "update",
-      "app": "BetterTouchTool",
-      "platform": "mac",
-      "version_from": "6.804",
-      "version_to": "6.806",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://folivora.ai/releases/btt6.806-2026091005.zip"
-    },
-    {
-      "id": "tailscale-app/darwin-1.102.3-1.102.4",
-      "title": "Tailscale 1.102.3 \u2192 1.102.4 (Mac)",
-      "event_type": "update",
-      "app": "Tailscale",
-      "platform": "mac",
-      "version_from": "1.102.3",
-      "version_to": "1.102.4",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://pkgs.tailscale.com/stable/Tailscale-1.102.4-macos.pkg"
-    },
-    {
-      "id": "chatgpt/darwin-26.903.71938-26.908.31457",
-      "title": "ChatGPT Desktop 26.903.71938 \u2192 26.908.31457 (Mac)",
-      "event_type": "update",
-      "app": "ChatGPT Desktop",
-      "platform": "mac",
-      "version_from": "26.903.71938",
-      "version_to": "26.908.31457",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://persistent.oaistatic.com/codex-app-prod/ChatGPT-darwin-arm64-26.908.31457.zip"
-    },
-    {
-      "id": "tailscale/windows-1.102.3-1.102.4",
-      "title": "Tailscale 1.102.3 \u2192 1.102.4 (Windows)",
-      "event_type": "update",
-      "app": "Tailscale",
-      "platform": "windows",
-      "version_from": "1.102.3",
-      "version_to": "1.102.4",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://pkgs.tailscale.com/stable/tailscale-setup-1.102.4-amd64.msi"
-    },
-    {
-      "id": "warp/darwin-0.2026.09.02.08.27.01-0.2026.09.09.08.26.02",
-      "title": "Warp 0.2026.09.02.08.27.01 \u2192 0.2026.09.09.08.26.02 (Mac)",
-      "event_type": "update",
-      "app": "Warp",
-      "platform": "mac",
-      "version_from": "0.2026.09.02.08.27.01",
-      "version_to": "0.2026.09.09.08.26.02",
-      "timestamp": "2026-09-11T08:44:58+00:00",
-      "download_url": "https://releases.warp.dev/stable/v0.2026.09.09.08.26.stable_02/Warp.dmg"
-    },
-    {
       "id": "kiro-cli/darwin-2.21.2-2.21.3",
       "title": "Kiro CLI 2.21.2 \u2192 2.21.3 (Mac)",
       "event_type": "update",
@@ -5503,6 +5492,17 @@
       "version_to": "5.12.4",
       "timestamp": "2026-09-11T08:44:58+00:00",
       "download_url": "https://slicer-packages.kitware.com/api/v1/item/6aa2063bce9de556d30132d8/download"
+    },
+    {
+      "id": "gimp/darwin-3.2.4-3.2.6",
+      "title": "GIMP 3.2.4 \u2192 3.2.6 (Mac)",
+      "event_type": "update",
+      "app": "GIMP",
+      "platform": "mac",
+      "version_from": "3.2.4",
+      "version_to": "3.2.6",
+      "timestamp": "2026-09-11T08:44:58+00:00",
+      "download_url": "https://download.gimp.org/gimp/v3.2/macos/gimp-3.2.6-arm64.dmg"
     }
   ]
 }
