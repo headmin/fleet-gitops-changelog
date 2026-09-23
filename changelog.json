@@ -1,5 +1,27 @@
 [
   {
+    "sha": "610979239a14b8f0ef8aaba154c20942e1b2abc7",
+    "short_sha": "610979239a",
+    "author": "Allen Houchins",
+    "message": "Set app icon for Okta Verify for Linux (#53807)",
+    "timestamp": "2026-09-22T21:08:24-05:00",
+    "files": [
+      "it-and-security/lib/all/icons/okta-verify-logo.png",
+      "it-and-security/lib/linux/software/okta-verify-deb.yml"
+    ]
+  },
+  {
+    "sha": "632d1b8cde292bc5dcbffff3a04cd534b61c5653",
+    "short_sha": "632d1b8cde",
+    "author": "Allen Houchins",
+    "message": "Add Okta Verify for Linux to Workstations (#53783)",
+    "timestamp": "2026-09-22T16:11:30-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/linux/software/okta-verify-deb.yml"
+    ]
+  },
+  {
     "sha": "c0e33e7a21c57ed3afa761945ff69aec10092124",
     "short_sha": "c0e33e7a21",
     "author": "Allen Houchins",
