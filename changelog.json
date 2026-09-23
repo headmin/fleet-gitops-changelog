@@ -1,5 +1,37 @@
 [
   {
+    "sha": "64dbfa494141df19d9a2a92dbbaf9de2abb421a8",
+    "short_sha": "64dbfa4941",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 2.7032.0 (#53831)",
+    "timestamp": "2026-09-23T10:24:12-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
+    "sha": "ed9102892258eb87dc8ee3f0cc1a319a05d20b58",
+    "short_sha": "ed91028922",
+    "author": "Allen Houchins",
+    "message": "Set Okta Verify OrgUrl on Linux workstations (#53838)",
+    "timestamp": "2026-09-23T10:22:30-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/linux/scripts/configure-okta-verify-org-url.sh",
+      "it-and-security/lib/linux/software/okta-verify-deb.yml"
+    ]
+  },
+  {
+    "sha": "4d2fc0223259c56e2c9643735fe67ae742899c59",
+    "short_sha": "4d2fc02232",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 2.2553.13 (#53778)",
+    "timestamp": "2026-09-23T09:00:06-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "610979239a14b8f0ef8aaba154c20942e1b2abc7",
     "short_sha": "610979239a",
     "author": "Allen Houchins",
