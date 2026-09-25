@@ -1,9 +1,20 @@
 {
-  "generated": "2026-09-24T21:16:33Z",
+  "generated": "2026-09-25T03:58:26Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "intune-company-portal/darwin-5.2606.0-5.2608.0",
+      "title": "Company Portal 5.2606.0 \u2192 5.2608.0 (Mac)",
+      "event_type": "update",
+      "app": "Company Portal",
+      "platform": "mac",
+      "version_from": "5.2606.0",
+      "version_to": "5.2608.0",
+      "timestamp": "2026-09-24T22:06:40+00:00",
+      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_5.2608.0-Upgrade.pkg"
+    },
     {
       "id": "chatgpt/darwin-26.917.62051-26.917.71314",
       "title": "ChatGPT Desktop 26.917.62051 \u2192 26.917.71314 (Mac)",
@@ -5492,17 +5503,6 @@
       "version_to": "0.8.5879",
       "timestamp": "2026-09-16T18:48:52+00:00",
       "download_url": "https://releases.rive.app/macos/0.8.5879/Rive.dmg"
-    },
-    {
-      "id": "wavebox/darwin-153.2.196.2-153.2.204.2",
-      "title": "Wavebox 153.2.196.2 \u2192 153.2.204.2 (Mac)",
-      "event_type": "update",
-      "app": "Wavebox",
-      "platform": "mac",
-      "version_from": "153.2.196.2",
-      "version_to": "153.2.204.2",
-      "timestamp": "2026-09-16T18:48:52+00:00",
-      "download_url": "https://download.wavebox.app/stable/macarm64/Wavebox_153.2.204.2.zip"
     }
   ]
 }
