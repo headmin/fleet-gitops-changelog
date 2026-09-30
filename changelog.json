@@ -1,5 +1,26 @@
 [
   {
+    "sha": "f150dae420dbf7c4742f3567cbedecff0e53a8cd",
+    "short_sha": "f150dae420",
+    "author": "Allen Houchins",
+    "message": "Add Linux OS update remediation script (docs/solutions + dogfood) (#53439)",
+    "timestamp": "2026-09-30T14:19:37-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/linux/scripts/update-linux-os.sh"
+    ]
+  },
+  {
+    "sha": "ce69b60cac2cd9ba4c454c658bf10cea5a30d791",
+    "short_sha": "ce69b60cac",
+    "author": "Terry",
+    "message": "Add host 1798 to excluded storage restrictions (#54333)",
+    "timestamp": "2026-09-30T14:46:54-04:00",
+    "files": [
+      "it-and-security/lib/all/labels/macs-excluded-from-external-storage-restrictions.yml"
+    ]
+  },
+  {
     "sha": "90c8fb9cfb8b17316ffd12cd4ef662673b73ac9c",
     "short_sha": "90c8fb9cfb",
     "author": "Allen Houchins",
