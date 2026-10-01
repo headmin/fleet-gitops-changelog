@@ -1,5 +1,15 @@
 [
   {
+    "sha": "fdef384f13f3f5d526742f76ebd5cfc5db44a7d4",
+    "short_sha": "fdef384f13",
+    "author": "Luke Heath",
+    "message": "Handbook: Point usage statistics references to the automatically updated sheet (#54546)",
+    "timestamp": "2026-10-01T11:58:37-05:00",
+    "files": [
+      "it-and-security/lib/macos/configuration-profiles/google-chrome-managed-bookmarks.mobileconfig"
+    ]
+  },
+  {
     "sha": "f150dae420dbf7c4742f3567cbedecff0e53a8cd",
     "short_sha": "f150dae420",
     "author": "Allen Houchins",
