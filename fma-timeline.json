@@ -1,9 +1,20 @@
 {
-  "generated": "2026-10-02T04:37:37Z",
+  "generated": "2026-10-02T12:04:14Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "blender/windows-5.2.1-5.2.2",
+      "title": "Blender 5.2.1 \u2192 5.2.2 (Windows)",
+      "event_type": "update",
+      "app": "Blender",
+      "platform": "windows",
+      "version_from": "5.2.1",
+      "version_to": "5.2.2",
+      "timestamp": "2026-10-02T08:06:32+00:00",
+      "download_url": "https://download.blender.org/release/Blender5.2/blender-5.2.2-windows-x64.msi"
+    },
     {
       "id": "grammarly-desktop/windows-1.2.299.1961-1.2.300.1965",
       "title": "Grammarly Desktop 1.2.299.1961 \u2192 1.2.300.1965 (Windows)",
@@ -5373,37 +5384,15 @@
       "download_url": "https://github.com/CherryHQ/cherry-studio/releases/download/v2.1.3/Cherry-Studio-2.1.3-mac-arm64.dmg"
     },
     {
-      "id": "firefox@developer-edition/darwin-157.0b4-157.0b5",
-      "title": "Mozilla Firefox Developer Edition 157.0b4 \u2192 157.0b5 (Mac)",
+      "id": "bruno/windows-4.1.0-4.2.0",
+      "title": "Bruno 4.1.0 \u2192 4.2.0 (Windows)",
       "event_type": "update",
-      "app": "Mozilla Firefox Developer Edition",
-      "platform": "mac",
-      "version_from": "157.0b4",
-      "version_to": "157.0b5",
+      "app": "Bruno",
+      "platform": "windows",
+      "version_from": "4.1.0",
+      "version_to": "4.2.0",
       "timestamp": "2026-09-24T07:23:54+00:00",
-      "download_url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/157.0b5/mac/en-US/Firefox%20157.0b5.dmg"
-    },
-    {
-      "id": "blip/darwin-1.2.0-1.2.2",
-      "title": "blip 1.2.0 \u2192 1.2.2 (Mac)",
-      "event_type": "update",
-      "app": "blip",
-      "platform": "mac",
-      "version_from": "1.2.0",
-      "version_to": "1.2.2",
-      "timestamp": "2026-09-24T07:23:54+00:00",
-      "download_url": "https://f000.backblazeb2.com/file/push-mac/Blip-20260923163338.zip"
-    },
-    {
-      "id": "teleport-suite/darwin-18.11.1-18.11.2",
-      "title": "Teleport Suite 18.11.1 \u2192 18.11.2 (Mac)",
-      "event_type": "update",
-      "app": "Teleport Suite",
-      "platform": "mac",
-      "version_from": "18.11.1",
-      "version_to": "18.11.2",
-      "timestamp": "2026-09-24T07:23:54+00:00",
-      "download_url": "https://cdn.teleport.dev/teleport-18.11.2.pkg"
+      "download_url": "https://github.com/usebruno/bruno/releases/download/v4.2.0/bruno_4.2.0_x64_win.msi"
     },
     {
       "id": "wireshark-app/darwin-4.6.8-4.6.9",
@@ -5494,15 +5483,26 @@
       "download_url": "https://cdn.textexpander.com/mac/848.4/TextExpander_8.4.8.dmg"
     },
     {
-      "id": "crisisgo/windows-6.36.0.12489-6.36.2.12515",
-      "title": "CrisisGo 6.36.0.12489 \u2192 6.36.2.12515 (Windows)",
+      "id": "firefox@developer-edition/darwin-157.0b4-157.0b5",
+      "title": "Mozilla Firefox Developer Edition 157.0b4 \u2192 157.0b5 (Mac)",
       "event_type": "update",
-      "app": "CrisisGo",
-      "platform": "windows",
-      "version_from": "6.36.0.12489",
-      "version_to": "6.36.2.12515",
+      "app": "Mozilla Firefox Developer Edition",
+      "platform": "mac",
+      "version_from": "157.0b4",
+      "version_to": "157.0b5",
       "timestamp": "2026-09-24T07:23:54+00:00",
-      "download_url": "https://crisisgoapp.s3.amazonaws.com/Windows/CrisisGo_6.36.2.msi"
+      "download_url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/157.0b5/mac/en-US/Firefox%20157.0b5.dmg"
+    },
+    {
+      "id": "teleport-suite/darwin-18.11.1-18.11.2",
+      "title": "Teleport Suite 18.11.1 \u2192 18.11.2 (Mac)",
+      "event_type": "update",
+      "app": "Teleport Suite",
+      "platform": "mac",
+      "version_from": "18.11.1",
+      "version_to": "18.11.2",
+      "timestamp": "2026-09-24T07:23:54+00:00",
+      "download_url": "https://cdn.teleport.dev/teleport-18.11.2.pkg"
     }
   ]
 }
