@@ -1,5 +1,25 @@
 [
   {
+    "sha": "d62adc46a902675d5a820166c2ef2f72de132cc5",
+    "short_sha": "d62adc46a9",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 2.26454.2 (#55034)",
+    "timestamp": "2026-10-07T17:30:06-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
+    "sha": "72b2755fc53ed50d141ed353eb5957be61f49d2b",
+    "short_sha": "72b2755fc5",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 2.26454.0 (#54979)",
+    "timestamp": "2026-10-07T09:29:20-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "f2717e84ab4989f28b524663bb12c6c78565ff71",
     "short_sha": "f2717e84ab",
     "author": "Allen Houchins",
