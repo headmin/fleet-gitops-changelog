@@ -1,9 +1,20 @@
 {
-  "generated": "2026-10-08T13:00:38Z",
+  "generated": "2026-10-08T23:03:40Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "willow-voice/darwin--2.6.0",
+      "title": "New App: Willow Voice 2.6.0 (Mac)",
+      "event_type": "added",
+      "app": "Willow Voice",
+      "platform": "mac",
+      "version_from": null,
+      "version_to": "2.6.0",
+      "timestamp": "2026-10-08T18:36:09+00:00",
+      "download_url": "https://github.com/LiuLawrence45/stt-sparkle-update/releases/download/v2.6.0/Willow.Installer.dmg"
+    },
     {
       "id": "superhuman/darwin-1041.0.68-1041.0.69",
       "title": "Superhuman 1041.0.68 \u2192 1041.0.69 (Mac)",
@@ -5098,37 +5109,15 @@
       "download_url": "https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.2026.3.12.0.msi"
     },
     {
-      "id": "boltai/darwin-2.17.1-2.17.2",
-      "title": "BoltAI 2 2.17.1 \u2192 2.17.2 (Mac)",
+      "id": "dropbox/darwin-270.4.3312-272.4.3798",
+      "title": "Dropbox 270.4.3312 \u2192 272.4.3798 (Mac)",
       "event_type": "update",
-      "app": "BoltAI 2",
+      "app": "Dropbox",
       "platform": "mac",
-      "version_from": "2.17.1",
-      "version_to": "2.17.2",
+      "version_from": "270.4.3312",
+      "version_to": "272.4.3798",
       "timestamp": "2026-09-30T19:50:20+00:00",
-      "download_url": "https://updates.boltai.com/dmg/BoltAI-2.17.2.dmg"
-    },
-    {
-      "id": "mullvad-browser/windows-15.0.23-15.0.24",
-      "title": "Mullvad Browser 15.0.23 \u2192 15.0.24 (Windows)",
-      "event_type": "update",
-      "app": "Mullvad Browser",
-      "platform": "windows",
-      "version_from": "15.0.23",
-      "version_to": "15.0.24",
-      "timestamp": "2026-09-30T19:50:20+00:00",
-      "download_url": "https://github.com/mullvad/mullvad-browser/releases/download/15.0.24/mullvad-browser-windows-x86_64-15.0.24.exe"
-    },
-    {
-      "id": "microsoft-word/darwin-16.113.2-16.113.3",
-      "title": "Microsoft Word 16.113.2 \u2192 16.113.3 (Mac)",
-      "event_type": "update",
-      "app": "Microsoft Word",
-      "platform": "mac",
-      "version_from": "16.113.2",
-      "version_to": "16.113.3",
-      "timestamp": "2026-09-30T19:50:20+00:00",
-      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.113.26092714_Installer.pkg"
+      "download_url": "https://edge.dropboxstatic.com/dbx-releng/client/Dropbox%20272.4.3798.arm64.dmg"
     },
     {
       "id": "forklift/darwin-4.7.5-4.7.6",
@@ -5494,15 +5483,26 @@
       "download_url": "https://download.anydesk.com/AnyDesk.exe"
     },
     {
-      "id": "framer/darwin-2026.34.0-2026.39.0",
-      "title": "Framer 2026.34.0 \u2192 2026.39.0 (Mac)",
+      "id": "boltai/darwin-2.17.1-2.17.2",
+      "title": "BoltAI 2 2.17.1 \u2192 2.17.2 (Mac)",
       "event_type": "update",
-      "app": "Framer",
+      "app": "BoltAI 2",
       "platform": "mac",
-      "version_from": "2026.34.0",
-      "version_to": "2026.39.0",
+      "version_from": "2.17.1",
+      "version_to": "2.17.2",
       "timestamp": "2026-09-30T19:50:20+00:00",
-      "download_url": "https://updates.framer.com/electron/darwin/arm64/Framer-2026.39.0.zip"
+      "download_url": "https://updates.boltai.com/dmg/BoltAI-2.17.2.dmg"
+    },
+    {
+      "id": "microsoft-word/darwin-16.113.2-16.113.3",
+      "title": "Microsoft Word 16.113.2 \u2192 16.113.3 (Mac)",
+      "event_type": "update",
+      "app": "Microsoft Word",
+      "platform": "mac",
+      "version_from": "16.113.2",
+      "version_to": "16.113.3",
+      "timestamp": "2026-09-30T19:50:20+00:00",
+      "download_url": "https://res.public.onecdn.static.microsoft/mro1cdnstorage/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.113.26092714_Installer.pkg"
     }
   ]
 }
