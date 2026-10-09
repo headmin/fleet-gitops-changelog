@@ -1,5 +1,25 @@
 [
   {
+    "sha": "76fd71df78228b6a9bbed6df6519edc7d9d54e34",
+    "short_sha": "76fd71df78",
+    "author": "Allen Houchins",
+    "message": "Nudge postinstall: load LaunchAgent into the logged-in user's GUI domain (#55279)",
+    "timestamp": "2026-10-09T14:40:27-05:00",
+    "files": [
+      "it-and-security/lib/macos/scripts/nudge-postinstall.sh"
+    ]
+  },
+  {
+    "sha": "d5ba6b04e6fb5d054f05d63dc38cbc2ff9312304",
+    "short_sha": "d5ba6b04e6",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 2.31226.0 (#55243)",
+    "timestamp": "2026-10-09T09:11:44-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "d9fa7d4026878fcd240bd656586321657533a58f",
     "short_sha": "d9fa7d4026",
     "author": "Allen Houchins",
