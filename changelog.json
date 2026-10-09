@@ -1,5 +1,26 @@
 [
   {
+    "sha": "d9fa7d4026878fcd240bd656586321657533a58f",
+    "short_sha": "d9fa7d4026",
+    "author": "Allen Houchins",
+    "message": "Dogfood: make sshd PermitRootLogin policy see directives in drop-in files (#55218)",
+    "timestamp": "2026-10-09T00:56:19-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/sshd-permitrootlogin-restricted.yml"
+    ]
+  },
+  {
+    "sha": "d517b1dd56b04f505f12a2322cb83c4782929ca1",
+    "short_sha": "d517b1dd56",
+    "author": "Allen Houchins",
+    "message": "Shorten two dogfood label descriptions to fit the 255-character limit (#55216)",
+    "timestamp": "2026-10-09T00:54:11-05:00",
+    "files": [
+      "it-and-security/lib/all/labels/linux-excluded-from-external-storage-restrictions.yml",
+      "it-and-security/lib/all/labels/macos-screen-lock-exclusions.yml"
+    ]
+  },
+  {
     "sha": "f5e3f413c779839375154c76b6284491eceab834",
     "short_sha": "f5e3f413c7",
     "author": "Marko Lisica",
