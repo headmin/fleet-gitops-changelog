@@ -1,5 +1,15 @@
 [
   {
+    "sha": "f1d5fa2931232c7423b0c0ebd80624271e96e772",
+    "short_sha": "f1d5fa2931",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 2.42304.0 (#55705)",
+    "timestamp": "2026-10-15T16:15:03-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "e9a355878b0419bc1a8df742d843d9d5b4238e52",
     "short_sha": "e9a355878b",
     "author": "Allen Houchins",
