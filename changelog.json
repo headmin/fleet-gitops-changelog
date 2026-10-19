@@ -1,5 +1,25 @@
 [
   {
+    "sha": "8689a5cf26f1fba216a7ebc26e70b1eb313225c5",
+    "short_sha": "8689a5cf26",
+    "author": "Lucas Manuel Rodriguez",
+    "message": "Workstations back to osquery `stable` (#55934)",
+    "timestamp": "2026-10-19T17:24:12-03:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
+    "sha": "7fcbf666f6e5008fcaeb31cf4a5c63d00bb51ec7",
+    "short_sha": "7fcbf666f6",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 2.42304.2 (#55891)",
+    "timestamp": "2026-10-19T12:10:43-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "f23f0671af4a1582a0b2b1f3621600b5fc3107c2",
     "short_sha": "f23f0671af",
     "author": "Allen Houchins",

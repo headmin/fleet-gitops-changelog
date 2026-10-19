@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-19T12:28:56Z",
+  "generated": "2026-10-19T22:06:28Z",
   "source_repo": "fleetdm/fleet",
   "source_path": "it-and-security/",
   "source_url": "https://github.com/fleetdm/fleet/tree/main/it-and-security",
   "latest_commit": {
-    "sha": "f23f0671af4a1582a0b2b1f3621600b5fc3107c2",
-    "short_sha": "f23f0671af",
-    "message": "Add a per-host AI governance report to dogfood (#55867)",
-    "timestamp": "2026-10-18T18:12:55-05:00",
-    "commit_url": "https://github.com/fleetdm/fleet/commit/f23f0671af4a1582a0b2b1f3621600b5fc3107c2"
+    "sha": "8689a5cf26f1fba216a7ebc26e70b1eb313225c5",
+    "short_sha": "8689a5cf26",
+    "message": "Workstations back to osquery `stable` (#55934)",
+    "timestamp": "2026-10-19T17:24:12-03:00",
+    "commit_url": "https://github.com/fleetdm/fleet/commit/8689a5cf26f1fba216a7ebc26e70b1eb313225c5"
   },
   "fleets": [
     {
