@@ -1,5 +1,45 @@
 [
   {
+    "sha": "53523d19470beb9eb63aa849674f710e09fec336",
+    "short_sha": "53523d1947",
+    "author": "fleetdm-bot",
+    "message": "Fix inner payload name in disable-internet-sharing profile (#55943)",
+    "timestamp": "2026-10-20T09:42:32-05:00",
+    "files": [
+      "it-and-security/lib/macos/configuration-profiles/disable-internet-sharing.mobileconfig"
+    ]
+  },
+  {
+    "sha": "e3e6682af3de59e40737797daba09ae44dd035b0",
+    "short_sha": "e3e6682af3",
+    "author": "Allen Houchins",
+    "message": "Only show Nudge once an update is prepared (#51546)",
+    "timestamp": "2026-10-20T09:29:48-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macos-15-and-older-hosts.yml",
+      "it-and-security/lib/all/labels/macs-not-enrolled-through-ade.yml",
+      "it-and-security/lib/macos/configuration-profiles/nudge-background-task.mobileconfig",
+      "it-and-security/lib/macos/configuration-profiles/nudge-preferences-ungated.mobileconfig",
+      "it-and-security/lib/macos/configuration-profiles/nudge-preferences.mobileconfig",
+      "it-and-security/lib/macos/declaration-profiles/Nudge activation.json",
+      "it-and-security/lib/macos/declaration-profiles/Nudge settings.json"
+    ]
+  },
+  {
+    "sha": "179e1c02cd7efbb3609a688c603d7e9e7e707bdc",
+    "short_sha": "179e1c02cd",
+    "author": "Magnus Jensen",
+    "message": "fix typo in software update declaration it-and-security (#55995)",
+    "timestamp": "2026-10-20T21:09:33+07:00",
+    "files": [
+      "it-and-security/lib/ios/declaration-profiles/Software Update settings.json",
+      "it-and-security/lib/ipados/declaration-profiles/Software Update settings.json",
+      "it-and-security/lib/macos/declaration-profiles/Software Update settings.json"
+    ]
+  },
+  {
     "sha": "8689a5cf26f1fba216a7ebc26e70b1eb313225c5",
     "short_sha": "8689a5cf26",
     "author": "Lucas Manuel Rodriguez",
