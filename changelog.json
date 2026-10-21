@@ -1,5 +1,21 @@
 [
   {
+    "sha": "0357b530718676974d7aa2a8ff094bac4ac950a2",
+    "short_sha": "0357b53071",
+    "author": "Allen Houchins",
+    "message": "Dogfood: add eMudhra CA compromise policies and remediation scripts (#56187)",
+    "timestamp": "2026-10-21T13:06:16-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/testing-and-qa.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/policies/emudhra-compromised-intermediate-cas.yml",
+      "it-and-security/lib/all/scripts/remove-emudhra-roots-fleetd.sh",
+      "it-and-security/lib/macos/scripts/remove-emudhra-roots-macos-system.sh",
+      "it-and-security/lib/windows/scripts/remove-emudhra-roots-fleetd.ps1"
+    ]
+  },
+  {
     "sha": "418a65db3edf75354f6dab857cbd9f4f3f367098",
     "short_sha": "418a65db3e",
     "author": "Allen Houchins",
