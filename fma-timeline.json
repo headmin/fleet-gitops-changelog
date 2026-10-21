@@ -1,9 +1,130 @@
 {
-  "generated": "2026-10-20T21:22:21Z",
+  "generated": "2026-10-21T03:46:08Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "cursor/darwin-3.25.9-3.26.13",
+      "title": "Cursor 3.25.9 \u2192 3.26.13 (Mac)",
+      "event_type": "update",
+      "app": "Cursor",
+      "platform": "mac",
+      "version_from": "3.25.9",
+      "version_to": "3.26.13",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://downloads.cursor.com/production/3bfec373749d3d4a53a151283022d49743ab50ba/darwin/arm64/Cursor-darwin-arm64.zip"
+    },
+    {
+      "id": "focusrite-control-2/darwin-1.1139.0.0-1.1210.0.0",
+      "title": "Focusrite Control 2 1.1139.0.0 \u2192 1.1210.0.0 (Mac)",
+      "event_type": "update",
+      "app": "Focusrite Control 2",
+      "platform": "mac",
+      "version_from": "1.1139.0.0",
+      "version_to": "1.1210.0.0",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://releases.focusrite.com/com.focusrite.focusrite-control/release/Focusrite-Control-2-1.1210.0.0.dmg"
+    },
+    {
+      "id": "etrecheckpro/darwin-6.8.16-6.8.17",
+      "title": "EtreCheck 6.8.16 \u2192 6.8.17 (Mac)",
+      "event_type": "update",
+      "app": "EtreCheck",
+      "platform": "mac",
+      "version_from": "6.8.16",
+      "version_to": "6.8.17",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://cdn.etrecheck.com/EtreCheckPro.zip"
+    },
+    {
+      "id": "gitkraken/darwin-12.6.0-12.6.1",
+      "title": "GitKraken 12.6.0 \u2192 12.6.1 (Mac)",
+      "event_type": "update",
+      "app": "GitKraken",
+      "platform": "mac",
+      "version_from": "12.6.0",
+      "version_to": "12.6.1",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://api.gitkraken.dev/releases/production/darwin/arm64/12.6.1/GitKraken-v12.6.1.zip"
+    },
+    {
+      "id": "boltai/darwin-2.18.1-2.18.2",
+      "title": "BoltAI 2 2.18.1 \u2192 2.18.2 (Mac)",
+      "event_type": "update",
+      "app": "BoltAI 2",
+      "platform": "mac",
+      "version_from": "2.18.1",
+      "version_to": "2.18.2",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://updates.boltai.com/dmg/BoltAI-2.18.2.dmg"
+    },
+    {
+      "id": "virtualbox/darwin-7.2.20-7.2.22",
+      "title": "VirtualBox 7.2.20 \u2192 7.2.22 (Mac)",
+      "event_type": "update",
+      "app": "VirtualBox",
+      "platform": "mac",
+      "version_from": "7.2.20",
+      "version_to": "7.2.22",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://download.virtualbox.org/virtualbox/7.2.22/VirtualBox-7.2.22-175245-macOSArm64.dmg"
+    },
+    {
+      "id": "firefox@esr/darwin-153.5.0-153.5.1",
+      "title": "Mozilla Firefox ESR 153.5.0 \u2192 153.5.1 (Mac)",
+      "event_type": "update",
+      "app": "Mozilla Firefox ESR",
+      "platform": "mac",
+      "version_from": "153.5.0",
+      "version_to": "153.5.1",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.5.1esr/mac/en-US/Firefox%20153.5.1esr.dmg"
+    },
+    {
+      "id": "cardhop/darwin-2.5-2.5.1",
+      "title": "Cardhop 2.5 \u2192 2.5.1 (Mac)",
+      "event_type": "update",
+      "app": "Cardhop",
+      "platform": "mac",
+      "version_from": "2.5",
+      "version_to": "2.5.1",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://cdn.flexibits.com/Cardhop_2.5.1.zip"
+    },
+    {
+      "id": "emclient/darwin-11.0.1201-11.0.1267",
+      "title": "eM Client 11.0.1201 \u2192 11.0.1267 (Mac)",
+      "event_type": "update",
+      "app": "eM Client",
+      "platform": "mac",
+      "version_from": "11.0.1201",
+      "version_to": "11.0.1267",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://cdn-dist.emclient.com/dist/v11.0.1267_Mac/setup.pkg"
+    },
+    {
+      "id": "virtualbox/windows-7.2.20-7.2.22",
+      "title": "VirtualBox 7.2.20 \u2192 7.2.22 (Windows)",
+      "event_type": "update",
+      "app": "VirtualBox",
+      "platform": "windows",
+      "version_from": "7.2.20",
+      "version_to": "7.2.22",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://download.virtualbox.org/virtualbox/7.2.22/VirtualBox-7.2.22-175245-Win.exe"
+    },
+    {
+      "id": "firefox/darwin-158.0-158.0.1",
+      "title": "Mozilla Firefox 158.0 \u2192 158.0.1 (Mac)",
+      "event_type": "update",
+      "app": "Mozilla Firefox",
+      "platform": "mac",
+      "version_from": "158.0",
+      "version_to": "158.0.1",
+      "timestamp": "2026-10-20T22:17:27+00:00",
+      "download_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/158.0.1/mac/en-US/Firefox%20158.0.1.dmg"
+    },
     {
       "id": "fellow/windows-5.7.14-5.7.19",
       "title": "Fellow 5.7.14 \u2192 5.7.19 (Windows)",
@@ -4757,6 +4878,17 @@
       "download_url": "https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-darwin-arm64-1.140.06880.zip"
     },
     {
+      "id": "opencode-desktop/darwin-2.0.27-2.0.28",
+      "title": "OpenCode 2.0.27 \u2192 2.0.28 (Mac)",
+      "event_type": "update",
+      "app": "OpenCode",
+      "platform": "mac",
+      "version_from": "2.0.27",
+      "version_to": "2.0.28",
+      "timestamp": "2026-10-13T22:39:06+00:00",
+      "download_url": "https://opencode.ai/files/bin/2.0.28/opencode-desktop-mac-arm64.dmg"
+    },
+    {
       "id": "mongodb-compass/darwin-1.52.0-1.53.0",
       "title": "MongoDB Compass 1.52.0 \u2192 1.53.0 (Mac)",
       "event_type": "update",
@@ -4977,26 +5109,59 @@
       "download_url": "https://github.com/session-foundation/session-desktop/releases/download/v1.18.2/session-desktop-mac-arm64-1.18.2.dmg"
     },
     {
-      "id": "opencode-desktop/darwin-2.0.27-2.0.28",
-      "title": "OpenCode 2.0.27 \u2192 2.0.28 (Mac)",
+      "id": "miro/windows-0.11.168-0.11.187",
+      "title": "Miro 0.11.168 \u2192 0.11.187 (Windows)",
       "event_type": "update",
-      "app": "OpenCode",
-      "platform": "mac",
-      "version_from": "2.0.27",
-      "version_to": "2.0.28",
-      "timestamp": "2026-10-13T22:39:06+00:00",
-      "download_url": "https://opencode.ai/files/bin/2.0.28/opencode-desktop-mac-arm64.dmg"
+      "app": "Miro",
+      "platform": "windows",
+      "version_from": "0.11.168",
+      "version_to": "0.11.187",
+      "timestamp": "2026-10-13T18:04:11+00:00",
+      "download_url": "https://desktop.miro.com/platforms/win32-nsis-pu/Miro-setup.exe"
     },
     {
-      "id": "spokenly/darwin-2.31.0-2.31.1",
-      "title": "Spokenly 2.31.0 \u2192 2.31.1 (Mac)",
+      "id": "genesys-cloud/darwin-2.55.50-2.56.55",
+      "title": "Genesys Cloud 2.55.50 \u2192 2.56.55 (Mac)",
       "event_type": "update",
-      "app": "Spokenly",
+      "app": "Genesys Cloud",
       "platform": "mac",
-      "version_from": "2.31.0",
-      "version_to": "2.31.1",
+      "version_from": "2.55.50",
+      "version_to": "2.56.55",
       "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://cdn.spokenly.app/releases/macos/Spokenly-2.31.1.dmg"
+      "download_url": "https://app.mypurecloud.com/directory-mac/build-assets/2.56.55-211/genesys-cloud-mac-2.56.55.dmg"
+    },
+    {
+      "id": "onedrive/darwin-26.153.0809-26.173.0906",
+      "title": "OneDrive 26.153.0809 \u2192 26.173.0906 (Mac)",
+      "event_type": "update",
+      "app": "OneDrive",
+      "platform": "mac",
+      "version_from": "26.153.0809",
+      "version_to": "26.173.0906",
+      "timestamp": "2026-10-13T18:04:11+00:00",
+      "download_url": "https://oneclient.sfx.ms/Mac/Installers/26.173.0906.0008/universal/OneDrive.pkg"
+    },
+    {
+      "id": "aws-cli/windows-2.37.12-2.37.13",
+      "title": "AWS Command Line Interface v2 2.37.12 \u2192 2.37.13 (Windows)",
+      "event_type": "update",
+      "app": "AWS Command Line Interface v2",
+      "platform": "windows",
+      "version_from": "2.37.12",
+      "version_to": "2.37.13",
+      "timestamp": "2026-10-13T18:04:11+00:00",
+      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.37.13.msi"
+    },
+    {
+      "id": "willow-voice/darwin-2.6.2-2.6.3",
+      "title": "Willow Voice 2.6.2 \u2192 2.6.3 (Mac)",
+      "event_type": "update",
+      "app": "Willow Voice",
+      "platform": "mac",
+      "version_from": "2.6.2",
+      "version_to": "2.6.3",
+      "timestamp": "2026-10-13T18:04:11+00:00",
+      "download_url": "https://github.com/LiuLawrence45/stt-sparkle-update/releases/download/v2.6.3/Willow.Installer.dmg"
     },
     {
       "id": "webex/darwin-46.9.0.35800-46.10.0.36042",
@@ -5252,6 +5417,17 @@
       "download_url": "https://binaries.webex.com/WebexDesktop-Win-64-Gold/20261012153007/Webex.msi"
     },
     {
+      "id": "spokenly/darwin-2.31.0-2.31.1",
+      "title": "Spokenly 2.31.0 \u2192 2.31.1 (Mac)",
+      "event_type": "update",
+      "app": "Spokenly",
+      "platform": "mac",
+      "version_from": "2.31.0",
+      "version_to": "2.31.1",
+      "timestamp": "2026-10-13T18:04:11+00:00",
+      "download_url": "https://cdn.spokenly.app/releases/macos/Spokenly-2.31.1.dmg"
+    },
+    {
       "id": "firefox@developer-edition/darwin-158.0b5-159.0b1",
       "title": "Mozilla Firefox Developer Edition 158.0b5 \u2192 159.0b1 (Mac)",
       "event_type": "update",
@@ -5261,6 +5437,17 @@
       "version_to": "159.0b1",
       "timestamp": "2026-10-13T18:04:11+00:00",
       "download_url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/159.0b1/mac/en-US/Firefox%20159.0b1.dmg"
+    },
+    {
+      "id": "amazon-workspaces/windows-5.34.1.2887-5.35.0.3249",
+      "title": "Amazon WorkSpaces 5.34.1.2887 \u2192 5.35.0.3249 (Windows)",
+      "event_type": "update",
+      "app": "Amazon WorkSpaces",
+      "platform": "windows",
+      "version_from": "5.34.1.2887",
+      "version_to": "5.35.0.3249",
+      "timestamp": "2026-10-13T18:04:11+00:00",
+      "download_url": "https://d2td7dqidlhjx7.cloudfront.net/prod/global/windows/Amazon+WorkSpaces.msi"
     },
     {
       "id": "reqable/windows-3.2.23-3.3.1",
@@ -5316,193 +5503,6 @@
       "version_to": "8.5.1",
       "timestamp": "2026-10-13T18:04:11+00:00",
       "download_url": "https://github.com/cyanfish/naps2/releases/download/v8.5.1/naps2-8.5.1-win-x64.msi"
-    },
-    {
-      "id": "genesys-cloud/darwin-2.55.50-2.56.55",
-      "title": "Genesys Cloud 2.55.50 \u2192 2.56.55 (Mac)",
-      "event_type": "update",
-      "app": "Genesys Cloud",
-      "platform": "mac",
-      "version_from": "2.55.50",
-      "version_to": "2.56.55",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://app.mypurecloud.com/directory-mac/build-assets/2.56.55-211/genesys-cloud-mac-2.56.55.dmg"
-    },
-    {
-      "id": "sequel-ace/darwin-6.0.2-6.0.3",
-      "title": "Sequel Ace 6.0.2 \u2192 6.0.3 (Mac)",
-      "event_type": "update",
-      "app": "Sequel Ace",
-      "platform": "mac",
-      "version_from": "6.0.2",
-      "version_to": "6.0.3",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://github.com/Sequel-Ace/Sequel-Ace/releases/download/production/6.0.3-20116/Sequel-Ace-6.0.3.zip"
-    },
-    {
-      "id": "hazeover/darwin-1.9.8-1.9.9",
-      "title": "HazeOver 1.9.8 \u2192 1.9.9 (Mac)",
-      "event_type": "update",
-      "app": "HazeOver",
-      "platform": "mac",
-      "version_from": "1.9.8",
-      "version_to": "1.9.9",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://hazeover.com/HazeOver.dmg"
-    },
-    {
-      "id": "advanced-installer/windows-24.0-24.1",
-      "title": "Advanced Installer 24.0 \u2192 24.1 (Windows)",
-      "event_type": "update",
-      "app": "Advanced Installer",
-      "platform": "windows",
-      "version_from": "24.0",
-      "version_to": "24.1",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://storage.advancedupdater.cloud/downloads/24.1/advinst.msi"
-    },
-    {
-      "id": "zed/darwin-1.23.2-1.23.3",
-      "title": "Zed 1.23.2 \u2192 1.23.3 (Mac)",
-      "event_type": "update",
-      "app": "Zed",
-      "platform": "mac",
-      "version_from": "1.23.2",
-      "version_to": "1.23.3",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://github.com/zed-industries/zed/releases/download/v1.23.3/Zed-aarch64.dmg"
-    },
-    {
-      "id": "cloudflare-warp/darwin-2026.8.2100.0-2026.8.2110.0",
-      "title": "Cloudflare One 2026.8.2100.0 \u2192 2026.8.2110.0 (Mac)",
-      "event_type": "update",
-      "app": "Cloudflare One",
-      "platform": "mac",
-      "version_from": "2026.8.2100.0",
-      "version_to": "2026.8.2110.0",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://downloads.cloudflareclient.com/v1/download/macos/version/2026.8.2110.0"
-    },
-    {
-      "id": "miro/windows-0.11.168-0.11.187",
-      "title": "Miro 0.11.168 \u2192 0.11.187 (Windows)",
-      "event_type": "update",
-      "app": "Miro",
-      "platform": "windows",
-      "version_from": "0.11.168",
-      "version_to": "0.11.187",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://desktop.miro.com/platforms/win32-nsis-pu/Miro-setup.exe"
-    },
-    {
-      "id": "amazon-workspaces/windows-5.34.1.2887-5.35.0.3249",
-      "title": "Amazon WorkSpaces 5.34.1.2887 \u2192 5.35.0.3249 (Windows)",
-      "event_type": "update",
-      "app": "Amazon WorkSpaces",
-      "platform": "windows",
-      "version_from": "5.34.1.2887",
-      "version_to": "5.35.0.3249",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://d2td7dqidlhjx7.cloudfront.net/prod/global/windows/Amazon+WorkSpaces.msi"
-    },
-    {
-      "id": "willow-voice/darwin-2.6.2-2.6.3",
-      "title": "Willow Voice 2.6.2 \u2192 2.6.3 (Mac)",
-      "event_type": "update",
-      "app": "Willow Voice",
-      "platform": "mac",
-      "version_from": "2.6.2",
-      "version_to": "2.6.3",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://github.com/LiuLawrence45/stt-sparkle-update/releases/download/v2.6.3/Willow.Installer.dmg"
-    },
-    {
-      "id": "aws-cli/windows-2.37.12-2.37.13",
-      "title": "AWS Command Line Interface v2 2.37.12 \u2192 2.37.13 (Windows)",
-      "event_type": "update",
-      "app": "AWS Command Line Interface v2",
-      "platform": "windows",
-      "version_from": "2.37.12",
-      "version_to": "2.37.13",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://awscli.amazonaws.com/AWSCLIV2-2.37.13.msi"
-    },
-    {
-      "id": "onedrive/darwin-26.153.0809-26.173.0906",
-      "title": "OneDrive 26.153.0809 \u2192 26.173.0906 (Mac)",
-      "event_type": "update",
-      "app": "OneDrive",
-      "platform": "mac",
-      "version_from": "26.153.0809",
-      "version_to": "26.173.0906",
-      "timestamp": "2026-10-13T18:04:11+00:00",
-      "download_url": "https://oneclient.sfx.ms/Mac/Installers/26.173.0906.0008/universal/OneDrive.pkg"
-    },
-    {
-      "id": "postman/windows-12.31.7-12.32.0",
-      "title": "Postman 12.31.7 \u2192 12.32.0 (Windows)",
-      "event_type": "update",
-      "app": "Postman",
-      "platform": "windows",
-      "version_from": "12.31.7",
-      "version_to": "12.32.0",
-      "timestamp": "2026-10-12T20:13:47+00:00",
-      "download_url": "https://dl.pstmn.io/download/version/12.32.0/windows_64"
-    },
-    {
-      "id": "nextcloud/darwin-34.0.5-35.0.0",
-      "title": "Nextcloud 34.0.5 \u2192 35.0.0 (Mac)",
-      "event_type": "update",
-      "app": "Nextcloud",
-      "platform": "mac",
-      "version_from": "34.0.5",
-      "version_to": "35.0.0",
-      "timestamp": "2026-10-12T20:13:47+00:00",
-      "download_url": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.0/Nextcloud-35.0.0.pkg"
-    },
-    {
-      "id": "snagit/darwin-2026.4.1-2026.4.2",
-      "title": "Snagit 2026.4.1 \u2192 2026.4.2 (Mac)",
-      "event_type": "update",
-      "app": "Snagit",
-      "platform": "mac",
-      "version_from": "2026.4.1",
-      "version_to": "2026.4.2",
-      "timestamp": "2026-10-12T20:13:47+00:00",
-      "download_url": "https://download.techsmith.com/snagitmac/releases/2026.4.2/snagit.dmg"
-    },
-    {
-      "id": "naps2/darwin-8.4.1-8.5.0",
-      "title": "NAPS2 8.4.1 \u2192 8.5.0 (Mac)",
-      "event_type": "update",
-      "app": "NAPS2",
-      "platform": "mac",
-      "version_from": "8.4.1",
-      "version_to": "8.5.0",
-      "timestamp": "2026-10-12T20:13:47+00:00",
-      "download_url": "https://github.com/cyanfish/naps2/releases/download/v8.5.0/naps2-8.5.0-mac-arm64.pkg"
-    },
-    {
-      "id": "bettertouchtool/darwin-6.885-6.920",
-      "title": "BetterTouchTool 6.885 \u2192 6.920 (Mac)",
-      "event_type": "update",
-      "app": "BetterTouchTool",
-      "platform": "mac",
-      "version_from": "6.885",
-      "version_to": "6.920",
-      "timestamp": "2026-10-12T20:13:47+00:00",
-      "download_url": "https://folivora.ai/releases/btt6.920-2026101205.zip"
-    },
-    {
-      "id": "spokenly/darwin-2.30.9-2.31.0",
-      "title": "Spokenly 2.30.9 \u2192 2.31.0 (Mac)",
-      "event_type": "update",
-      "app": "Spokenly",
-      "platform": "mac",
-      "version_from": "2.30.9",
-      "version_to": "2.31.0",
-      "timestamp": "2026-10-12T20:13:47+00:00",
-      "download_url": "https://cdn.spokenly.app/releases/macos/Spokenly-2.31.0.dmg"
     }
   ]
 }
