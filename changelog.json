@@ -1,5 +1,15 @@
 [
   {
+    "sha": "9a0f353c925fed60a5ac23a030d042fd0db427d4",
+    "short_sha": "9a0f353c92",
+    "author": "Allen Houchins",
+    "message": "Add sustainability DEX reports to dogfood (#56279)",
+    "timestamp": "2026-10-21T23:27:55-05:00",
+    "files": [
+      "it-and-security/lib/all/reports/dex-queries.yml"
+    ]
+  },
+  {
     "sha": "0357b530718676974d7aa2a8ff094bac4ac950a2",
     "short_sha": "0357b53071",
     "author": "Allen Houchins",
