@@ -1,5 +1,62 @@
 [
   {
+    "sha": "2211b736ad7714ddd0a05f33721140eb6ace011d",
+    "short_sha": "2211b736ad",
+    "author": "Allen Houchins",
+    "message": "Keep Fleet Desktop.app installed and hide the menu bar icon on Workstations (#56597)",
+    "timestamp": "2026-10-26T13:57:04-05:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/labels/macs-with-fleet-desktop-installed.yml",
+      "it-and-security/lib/macos/policies/fleet-desktop-installed.yml",
+      "it-and-security/lib/macos/policies/fleet-desktop-menu-bar-hidden.yml",
+      "it-and-security/lib/macos/scripts/hide-fleet-desktop-menu-bar.sh"
+    ]
+  },
+  {
+    "sha": "e37c50b6d61e5c2be73db39a01821f2713f36fc1",
+    "short_sha": "e37c50b6d6",
+    "author": "Allen Houchins",
+    "message": "Add Tailworm (Tailscale SSH forwarding) guide, article, policies, reports, scripts, and dogfood (#56598)",
+    "timestamp": "2026-10-26T13:40:25-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/servers.yml",
+      "it-and-security/fleets/testing-and-qa.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/policies/tailscale-ssh-forwarding-disabled.yml",
+      "it-and-security/lib/linux/scripts/disable-tailscale-ssh-forwarding-linux.sh",
+      "it-and-security/lib/macos/scripts/disable-tailscale-ssh-forwarding-macos.sh"
+    ]
+  },
+  {
+    "sha": "f8a90ab5c9ff92fd0e94308b9ce01526e99be30b",
+    "short_sha": "f8a90ab5c9",
+    "author": "Allen Houchins",
+    "message": "Dogfood: add PHP2Shell policies and remediation scripts (#56545)",
+    "timestamp": "2026-10-26T09:39:43-05:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/fleets/servers.yml",
+      "it-and-security/fleets/testing-and-qa.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/policies/php2shell-php-patched.yml",
+      "it-and-security/lib/linux/scripts/remediate-php2shell-linux.sh",
+      "it-and-security/lib/macos/scripts/remediate-php2shell-macos.sh",
+      "it-and-security/lib/windows/scripts/mitigate-php2shell-windows.ps1"
+    ]
+  },
+  {
+    "sha": "151cdbbed7609b6c55c4e1d1b8df5c60522b8720",
+    "short_sha": "151cdbbed7",
+    "author": "Allen Houchins",
+    "message": "Managed bookmarks: add DEX overview dashboard (#56555)",
+    "timestamp": "2026-10-26T09:31:22-05:00",
+    "files": [
+      "it-and-security/lib/macos/configuration-profiles/google-chrome-managed-bookmarks.mobileconfig"
+    ]
+  },
+  {
     "sha": "773dd6b1eb71089723d8d2ff19b24530b4e34d30",
     "short_sha": "773dd6b1eb",
     "author": "Allen Houchins",
