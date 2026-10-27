@@ -1,5 +1,15 @@
 [
   {
+    "sha": "b4921601ac7e28dff16110c3f1efa9793589f690",
+    "short_sha": "b4921601ac",
+    "author": "Billy Bryant",
+    "message": "Fix Windows eMudhra report and policy certificate matching (#56657)",
+    "timestamp": "2026-10-26T23:41:06-04:00",
+    "files": [
+      "it-and-security/lib/all/policies/emudhra-compromised-intermediate-cas.yml"
+    ]
+  },
+  {
     "sha": "2211b736ad7714ddd0a05f33721140eb6ace011d",
     "short_sha": "2211b736ad",
     "author": "Allen Houchins",
