@@ -1,9 +1,20 @@
 {
-  "generated": "2026-10-28T12:20:07Z",
+  "generated": "2026-10-28T22:19:18Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "evernote/darwin-11.39.2-11.40.2",
+      "title": "Evernote 11.39.2 \u2192 11.40.2 (Mac)",
+      "event_type": "update",
+      "app": "Evernote",
+      "platform": "mac",
+      "version_from": "11.39.2",
+      "version_to": "11.40.2",
+      "timestamp": "2026-10-28T18:01:48+00:00",
+      "download_url": "https://mac.desktop.evernote.com/builds/Evernote-10.105.4-mac-ddl-stage-20240910164757-a2e60a8d876a07eded5d212fa56ba45214114ad0.dmg"
+    },
     {
       "id": "aws-cli/windows-2.38.6-2.39.0",
       "title": "AWS Command Line Interface v2 2.38.6 \u2192 2.39.0 (Windows)",
@@ -5263,26 +5274,26 @@
       "download_url": "https://github.com/vorssaint/vorssaint-utils/releases/download/v3.4.2/Vorssaint-3.4.2.dmg"
     },
     {
-      "id": "memory-cleaner/darwin-5.5.3-5.5.4",
-      "title": "Memory Cleaner 5.5.3 \u2192 5.5.4 (Mac)",
+      "id": "aptakube/windows-1.21.5-1.21.6",
+      "title": "Aptakube 1.21.5 \u2192 1.21.6 (Windows)",
       "event_type": "update",
-      "app": "Memory Cleaner",
-      "platform": "mac",
-      "version_from": "5.5.3",
-      "version_to": "5.5.4",
+      "app": "Aptakube",
+      "platform": "windows",
+      "version_from": "1.21.5",
+      "version_to": "1.21.6",
       "timestamp": "2026-10-21T18:28:44+00:00",
-      "download_url": "https://download.nektony.com/download/memory-cleaner/dmg/memory-cleaner.dmg?build=276"
+      "download_url": "https://releases.aptakube.com/Aptakube_1.21.6_x64_en-US.msi"
     },
     {
-      "id": "reqable/darwin-3.3.3-3.3.4",
-      "title": "Reqable 3.3.3 \u2192 3.3.4 (Mac)",
+      "id": "screen-studio/darwin-4.0.4-4926-4.1.0-4994",
+      "title": "Screen Studio 4.0.4-4926 \u2192 4.1.0-4994 (Mac)",
       "event_type": "update",
-      "app": "Reqable",
+      "app": "Screen Studio",
       "platform": "mac",
-      "version_from": "3.3.3",
-      "version_to": "3.3.4",
+      "version_from": "4.0.4-4926",
+      "version_to": "4.1.0-4994",
       "timestamp": "2026-10-21T18:28:44+00:00",
-      "download_url": "https://github.com/reqable/reqable-app/releases/download/3.3.4/reqable-app-macos-arm64.dmg"
+      "download_url": "https://screenstudioassets.com/releases/4.1.0-4994/Screen%20Studio-4.1.0-4994-arm64-mac.zip"
     },
     {
       "id": "qgis/darwin--4.2.3",
@@ -5296,15 +5307,15 @@
       "download_url": "https://download.qgis.org/downloads/macos/pr/qgis_pr_final-4_2_3.dmg"
     },
     {
-      "id": "aptakube/windows-1.21.5-1.21.6",
-      "title": "Aptakube 1.21.5 \u2192 1.21.6 (Windows)",
+      "id": "memory-cleaner/darwin-5.5.3-5.5.4",
+      "title": "Memory Cleaner 5.5.3 \u2192 5.5.4 (Mac)",
       "event_type": "update",
-      "app": "Aptakube",
-      "platform": "windows",
-      "version_from": "1.21.5",
-      "version_to": "1.21.6",
+      "app": "Memory Cleaner",
+      "platform": "mac",
+      "version_from": "5.5.3",
+      "version_to": "5.5.4",
       "timestamp": "2026-10-21T18:28:44+00:00",
-      "download_url": "https://releases.aptakube.com/Aptakube_1.21.6_x64_en-US.msi"
+      "download_url": "https://download.nektony.com/download/memory-cleaner/dmg/memory-cleaner.dmg?build=276"
     },
     {
       "id": "qgis@ltr/darwin--3.44.15",
@@ -5492,17 +5503,6 @@
       "version_to": "5.6.285",
       "timestamp": "2026-10-21T18:28:44+00:00",
       "download_url": "https://github.com/4ian/GDevelop/releases/download/v5.6.285/GDevelop-5-Setup-5.6.285.exe"
-    },
-    {
-      "id": "screen-studio/darwin-4.0.4-4926-4.1.0-4994",
-      "title": "Screen Studio 4.0.4-4926 \u2192 4.1.0-4994 (Mac)",
-      "event_type": "update",
-      "app": "Screen Studio",
-      "platform": "mac",
-      "version_from": "4.0.4-4926",
-      "version_to": "4.1.0-4994",
-      "timestamp": "2026-10-21T18:28:44+00:00",
-      "download_url": "https://screenstudioassets.com/releases/4.1.0-4994/Screen%20Studio-4.1.0-4994-arm64-mac.zip"
     }
   ]
 }
