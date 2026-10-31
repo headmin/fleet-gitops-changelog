@@ -1,5 +1,15 @@
 [
   {
+    "sha": "842126ec075f6e0bbd3c74f105edc04222854558",
+    "short_sha": "842126ec07",
+    "author": "Allen Houchins",
+    "message": "Bump Linux OS up-to-date policy: Fedora 44->45 (#57075)",
+    "timestamp": "2026-10-31T10:23:28-05:00",
+    "files": [
+      "it-and-security/lib/linux/policies/latest-linux.yml"
+    ]
+  },
+  {
     "sha": "4b5a04281035545a3e0212011b1176e9758d9fd8",
     "short_sha": "4b5a042810",
     "author": "Allen Houchins",
