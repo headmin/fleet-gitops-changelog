@@ -1,5 +1,22 @@
 [
   {
+    "sha": "e08d145f04c036602b11de0ba213ba38ecc89ed5",
+    "short_sha": "e08d145f04",
+    "author": "Allen Houchins",
+    "message": "Install the Inter font on dogfood workstations and iPhones (#58136)",
+    "timestamp": "2026-11-09T12:57:48-06:00",
+    "files": [
+      "it-and-security/fleets/company-owned-mobile-devices.yml",
+      "it-and-security/fleets/personal-mobile-devices.yml",
+      "it-and-security/fleets/workstations.yml",
+      "it-and-security/lib/all/configuration-profiles/inter-font.mobileconfig",
+      "it-and-security/lib/all/declaration-profiles/Inter font.json",
+      "it-and-security/lib/all/policies/inter-font-installed.yml",
+      "it-and-security/lib/all/scripts/install-inter-font.ps1",
+      "it-and-security/lib/all/scripts/install-inter-font.sh"
+    ]
+  },
+  {
     "sha": "7d88e032e73f3253854e4486457d1141d051240c",
     "short_sha": "7d88e032e7",
     "author": "Allen Houchins",
