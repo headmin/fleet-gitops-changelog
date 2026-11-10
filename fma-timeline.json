@@ -1,9 +1,42 @@
 {
-  "generated": "2026-11-10T14:30:24Z",
+  "generated": "2026-11-10T22:57:34Z",
   "source": "https://fmalibrary.com/feed.xml",
   "source_title": "Fleet-maintained apps",
   "count": 500,
   "items": [
+    {
+      "id": "evernote/darwin-11.41.9-11.42.3",
+      "title": "Evernote 11.41.9 \u2192 11.42.3 (Mac)",
+      "event_type": "update",
+      "app": "Evernote",
+      "platform": "mac",
+      "version_from": "11.41.9",
+      "version_to": "11.42.3",
+      "timestamp": "2026-11-10T20:19:29+00:00",
+      "download_url": "https://mac.desktop.evernote.com/builds/Evernote-latest.dmg"
+    },
+    {
+      "id": "read-ai/windows--1.45.1",
+      "title": "New App: Read AI 1.45.1 (Windows)",
+      "event_type": "added",
+      "app": "Read AI",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "1.45.1",
+      "timestamp": "2026-11-10T20:19:29+00:00",
+      "download_url": "https://desktop.read.ai/updates/windows/x86_64/1.45.1/Read%20AI_1.45.1_x64-setup.exe"
+    },
+    {
+      "id": "sonicwall-global-vpn-client/windows--5.0.0.2008",
+      "title": "New App: SonicWall Global VPN Client 5.0.0.2008 (Windows)",
+      "event_type": "added",
+      "app": "SonicWall Global VPN Client",
+      "platform": "windows",
+      "version_from": null,
+      "version_to": "5.0.0.2008",
+      "timestamp": "2026-11-10T20:19:29+00:00",
+      "download_url": "https://software.sonicwall.com/GlobalVPNClient/GVCSetup-x64_5.0.0.2008.exe"
+    },
     {
       "id": "shottr/darwin-1.9.3-1.10.0",
       "title": "Shottr 1.9.3 \u2192 1.10.0 (Mac)",
@@ -5076,6 +5109,17 @@
       "download_url": "https://egnyte-cdn.egnyte.com/desktopapp/mac/en-us/1.22.0/Egnyte_1.22.0_2405.dmg"
     },
     {
+      "id": "todoist-app/darwin-9.36.1-9.36.2",
+      "title": "Todoist 9.36.1 \u2192 9.36.2 (Mac)",
+      "event_type": "update",
+      "app": "Todoist",
+      "platform": "mac",
+      "version_from": "9.36.1",
+      "version_to": "9.36.2",
+      "timestamp": "2026-11-03T16:59:41+00:00",
+      "download_url": "https://electron-dl.todoist.com/mac/Todoist-darwin-9.36.2-arm64-latest.dmg"
+    },
+    {
       "id": "worksheet-crafter/darwin-2026.3.4-2026.3.5",
       "title": "Worksheet Crafter 2026.3.4 \u2192 2026.3.5 (Mac)",
       "event_type": "update",
@@ -5208,15 +5252,15 @@
       "download_url": "https://plentycom.jp/ctrl/files_sm/SteerMouse5.8.2.dmg"
     },
     {
-      "id": "todoist-app/darwin-9.36.1-9.36.2",
-      "title": "Todoist 9.36.1 \u2192 9.36.2 (Mac)",
+      "id": "gdevelop/windows-5.6.285-5.6.286",
+      "title": "GDevelop 5.6.285 \u2192 5.6.286 (Windows)",
       "event_type": "update",
-      "app": "Todoist",
-      "platform": "mac",
-      "version_from": "9.36.1",
-      "version_to": "9.36.2",
-      "timestamp": "2026-11-03T16:59:41+00:00",
-      "download_url": "https://electron-dl.todoist.com/mac/Todoist-darwin-9.36.2-arm64-latest.dmg"
+      "app": "GDevelop",
+      "platform": "windows",
+      "version_from": "5.6.285",
+      "version_to": "5.6.286",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://github.com/4ian/GDevelop/releases/download/v5.6.286/GDevelop-5-Setup-5.6.286.exe"
     },
     {
       "id": "gdevelop/darwin-5.6.285-5.6.286",
@@ -5230,6 +5274,94 @@
       "download_url": "https://github.com/4ian/GDevelop/releases/download/v5.6.286/GDevelop-5-5.6.286-universal.dmg"
     },
     {
+      "id": "bitwarden/darwin-2026.10.2-2026.10.3",
+      "title": "Bitwarden 2026.10.2 \u2192 2026.10.3 (Mac)",
+      "event_type": "update",
+      "app": "Bitwarden",
+      "platform": "mac",
+      "version_from": "2026.10.2",
+      "version_to": "2026.10.3",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.3/Bitwarden-2026.10.3-universal.dmg"
+    },
+    {
+      "id": "clockify/windows-2.3.4-2.4.1",
+      "title": "Clockify Desktop 2.3.4 \u2192 2.4.1 (Windows)",
+      "event_type": "update",
+      "app": "Clockify Desktop",
+      "platform": "windows",
+      "version_from": "2.3.4",
+      "version_to": "2.4.1",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://clockify.me/downloads/clockify-setup.msi"
+    },
+    {
+      "id": "digiseal-reader/windows-8.0.0.5-8.0.0.6",
+      "title": "digiSeal Reader 8.0.0.5 \u2192 8.0.0.6 (Windows)",
+      "event_type": "update",
+      "app": "digiSeal Reader",
+      "platform": "windows",
+      "version_from": "8.0.0.5",
+      "version_to": "8.0.0.6",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://www.secrypt.de/downloads/setup_digiSeal_reader.exe"
+    },
+    {
+      "id": "nosql-workbench/darwin-3.20.4-3.20.5",
+      "title": "NoSQL Workbench 3.20.4 \u2192 3.20.5 (Mac)",
+      "event_type": "update",
+      "app": "NoSQL Workbench",
+      "platform": "mac",
+      "version_from": "3.20.4",
+      "version_to": "3.20.5",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://nosql-workbench.s3.amazonaws.com/NoSQL%20Workbench-mac-arm64-3.20.5.dmg"
+    },
+    {
+      "id": "middle/darwin-1.14-1.15",
+      "title": "Middle 1.14 \u2192 1.15 (Mac)",
+      "event_type": "update",
+      "app": "Middle",
+      "platform": "mac",
+      "version_from": "1.14",
+      "version_to": "1.15",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://middleclick.app/downloads/Middle1.15.dmg"
+    },
+    {
+      "id": "8x8-work/windows-8.37.2-8.38.4",
+      "title": "8x8 Work 8.37.2 \u2192 8.38.4 (Windows)",
+      "event_type": "update",
+      "app": "8x8 Work",
+      "platform": "windows",
+      "version_from": "8.37.2",
+      "version_to": "8.38.4",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://work-desktop-assets.8x8.com/prod-publish/ga/work-64-msi-v8.38.4-1.msi"
+    },
+    {
+      "id": "discord/darwin-0.0.420-0.0.421",
+      "title": "Discord 0.0.420 \u2192 0.0.421 (Mac)",
+      "event_type": "update",
+      "app": "Discord",
+      "platform": "mac",
+      "version_from": "0.0.420",
+      "version_to": "0.0.421",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://dl.discordapp.net/apps/osx/0.0.421/Discord.dmg"
+    },
+    {
+      "id": "bitwarden/windows-2026.10.2-2026.10.3",
+      "title": "Bitwarden 2026.10.2 \u2192 2026.10.3 (Windows)",
+      "event_type": "update",
+      "app": "Bitwarden",
+      "platform": "windows",
+      "version_from": "2026.10.2",
+      "version_to": "2026.10.3",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.3/Bitwarden-Installer-2026.10.3.exe"
+    },
+    {
       "id": "grammarly-desktop/darwin-1.205.1-1.206.0",
       "title": "Grammarly Desktop 1.205.1 \u2192 1.206.0 (Mac)",
       "event_type": "update",
@@ -5239,6 +5371,17 @@
       "version_to": "1.206.0",
       "timestamp": "2026-11-03T07:42:09+00:00",
       "download_url": "https://download-mac.grammarly.com/versions/1.206.0.0/Grammarly.dmg"
+    },
+    {
+      "id": "tuple/darwin-3.3.17-3.3.18",
+      "title": "Tuple 3.3.17 \u2192 3.3.18 (Mac)",
+      "event_type": "update",
+      "app": "Tuple",
+      "platform": "mac",
+      "version_from": "3.3.17",
+      "version_to": "3.3.18",
+      "timestamp": "2026-11-03T07:42:09+00:00",
+      "download_url": "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-3.3.18-2026-11-02-bd745dc83e.zip"
     },
     {
       "id": "granola/windows-7.722.1-7.726.2",
@@ -5360,149 +5503,6 @@
       "version_to": "1.15.0",
       "timestamp": "2026-11-03T07:42:09+00:00",
       "download_url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.0/Obsidian-1.15.0.dmg"
-    },
-    {
-      "id": "tuple/darwin-3.3.17-3.3.18",
-      "title": "Tuple 3.3.17 \u2192 3.3.18 (Mac)",
-      "event_type": "update",
-      "app": "Tuple",
-      "platform": "mac",
-      "version_from": "3.3.17",
-      "version_to": "3.3.18",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-3.3.18-2026-11-02-bd745dc83e.zip"
-    },
-    {
-      "id": "bitwarden/windows-2026.10.2-2026.10.3",
-      "title": "Bitwarden 2026.10.2 \u2192 2026.10.3 (Windows)",
-      "event_type": "update",
-      "app": "Bitwarden",
-      "platform": "windows",
-      "version_from": "2026.10.2",
-      "version_to": "2026.10.3",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.3/Bitwarden-Installer-2026.10.3.exe"
-    },
-    {
-      "id": "discord/darwin-0.0.420-0.0.421",
-      "title": "Discord 0.0.420 \u2192 0.0.421 (Mac)",
-      "event_type": "update",
-      "app": "Discord",
-      "platform": "mac",
-      "version_from": "0.0.420",
-      "version_to": "0.0.421",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://dl.discordapp.net/apps/osx/0.0.421/Discord.dmg"
-    },
-    {
-      "id": "8x8-work/windows-8.37.2-8.38.4",
-      "title": "8x8 Work 8.37.2 \u2192 8.38.4 (Windows)",
-      "event_type": "update",
-      "app": "8x8 Work",
-      "platform": "windows",
-      "version_from": "8.37.2",
-      "version_to": "8.38.4",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://work-desktop-assets.8x8.com/prod-publish/ga/work-64-msi-v8.38.4-1.msi"
-    },
-    {
-      "id": "middle/darwin-1.14-1.15",
-      "title": "Middle 1.14 \u2192 1.15 (Mac)",
-      "event_type": "update",
-      "app": "Middle",
-      "platform": "mac",
-      "version_from": "1.14",
-      "version_to": "1.15",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://middleclick.app/downloads/Middle1.15.dmg"
-    },
-    {
-      "id": "nosql-workbench/darwin-3.20.4-3.20.5",
-      "title": "NoSQL Workbench 3.20.4 \u2192 3.20.5 (Mac)",
-      "event_type": "update",
-      "app": "NoSQL Workbench",
-      "platform": "mac",
-      "version_from": "3.20.4",
-      "version_to": "3.20.5",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://nosql-workbench.s3.amazonaws.com/NoSQL%20Workbench-mac-arm64-3.20.5.dmg"
-    },
-    {
-      "id": "digiseal-reader/windows-8.0.0.5-8.0.0.6",
-      "title": "digiSeal Reader 8.0.0.5 \u2192 8.0.0.6 (Windows)",
-      "event_type": "update",
-      "app": "digiSeal Reader",
-      "platform": "windows",
-      "version_from": "8.0.0.5",
-      "version_to": "8.0.0.6",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://www.secrypt.de/downloads/setup_digiSeal_reader.exe"
-    },
-    {
-      "id": "clockify/windows-2.3.4-2.4.1",
-      "title": "Clockify Desktop 2.3.4 \u2192 2.4.1 (Windows)",
-      "event_type": "update",
-      "app": "Clockify Desktop",
-      "platform": "windows",
-      "version_from": "2.3.4",
-      "version_to": "2.4.1",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://clockify.me/downloads/clockify-setup.msi"
-    },
-    {
-      "id": "bitwarden/darwin-2026.10.2-2026.10.3",
-      "title": "Bitwarden 2026.10.2 \u2192 2026.10.3 (Mac)",
-      "event_type": "update",
-      "app": "Bitwarden",
-      "platform": "mac",
-      "version_from": "2026.10.2",
-      "version_to": "2026.10.3",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.3/Bitwarden-2026.10.3-universal.dmg"
-    },
-    {
-      "id": "gdevelop/windows-5.6.285-5.6.286",
-      "title": "GDevelop 5.6.285 \u2192 5.6.286 (Windows)",
-      "event_type": "update",
-      "app": "GDevelop",
-      "platform": "windows",
-      "version_from": "5.6.285",
-      "version_to": "5.6.286",
-      "timestamp": "2026-11-03T07:42:09+00:00",
-      "download_url": "https://github.com/4ian/GDevelop/releases/download/v5.6.286/GDevelop-5-Setup-5.6.286.exe"
-    },
-    {
-      "id": "scribus/darwin-1.6.6-1.6.7",
-      "title": "Scribus 1.6.6 \u2192 1.6.7 (Mac)",
-      "event_type": "update",
-      "app": "Scribus",
-      "platform": "mac",
-      "version_from": "1.6.6",
-      "version_to": "1.6.7",
-      "timestamp": "2026-11-03T00:43:45+00:00",
-      "download_url": "https://downloads.sourceforge.net/scribus/scribus/1.6.7/scribus-1.6.7-arm64.dmg"
-    },
-    {
-      "id": "affinity/windows-3.3.1.4940-3.3.3.5004",
-      "title": "Affinity 3.3.1.4940 \u2192 3.3.3.5004 (Windows)",
-      "event_type": "update",
-      "app": "Affinity",
-      "platform": "windows",
-      "version_from": "3.3.1.4940",
-      "version_to": "3.3.3.5004",
-      "timestamp": "2026-11-03T00:43:45+00:00",
-      "download_url": "https://affinity-update.serif.com/windows/3/studio/retail/Affinity-Affinity-Store-x64-5004-20596bdfdd242bf0f3a45a6fd4ce4f845132454e.msix"
-    },
-    {
-      "id": "grok-bot/darwin-0.78.1-0.78.3",
-      "title": "Grok Bot 0.78.1 \u2192 0.78.3 (Mac)",
-      "event_type": "update",
-      "app": "Grok Bot",
-      "platform": "mac",
-      "version_from": "0.78.1",
-      "version_to": "0.78.3",
-      "timestamp": "2026-11-03T00:43:45+00:00",
-      "download_url": "https://downloads.cursor.com/sand/stable/darwin-arm64/0.78.3/Grok_Bot_0.78.3.dmg"
     }
   ]
 }
