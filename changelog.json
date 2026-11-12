@@ -1,5 +1,15 @@
 [
   {
+    "sha": "2e9133d935689f68f4e41b20a4bb9bbd1e5bc1fd",
+    "short_sha": "2e9133d935",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 5.1231.2 (#58397)",
+    "timestamp": "2026-11-11T20:19:22-06:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "11d89476e4e174c992602c927725a116e2bd8cba",
     "short_sha": "11d89476e4",
     "author": "Allen Houchins",
