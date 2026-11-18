@@ -1,5 +1,16 @@
 [
   {
+    "sha": "a5d6eb0e383ef4a4671586300df70e9c5a5e8801",
+    "short_sha": "a5d6eb0e38",
+    "author": "fleetdm-bot",
+    "message": "Add global policy for November 2026 Java SE patches (Java4Shell) (#59102)",
+    "timestamp": "2026-11-17T21:19:13-06:00",
+    "files": [
+      "it-and-security/default.yml",
+      "it-and-security/lib/all/policies/java-november-2026-patched.yml"
+    ]
+  },
+  {
     "sha": "4fe8d269623aa460d244ad6c7039a0e31974f3e9",
     "short_sha": "4fe8d26962",
     "author": "Allen Houchins",
