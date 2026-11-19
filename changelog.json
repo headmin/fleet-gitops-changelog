@@ -1,5 +1,15 @@
 [
   {
+    "sha": "38756a7983e64fb517f57242d972a15d01eeb27d",
+    "short_sha": "38756a7983",
+    "author": "Allen Houchins",
+    "message": "Dogfood: display Zoom for Windows FMA as \"Zoom\" (#59206)",
+    "timestamp": "2026-11-18T15:34:46-06:00",
+    "files": [
+      "it-and-security/fleets/workstations.yml"
+    ]
+  },
+  {
     "sha": "a5d6eb0e383ef4a4671586300df70e9c5a5e8801",
     "short_sha": "a5d6eb0e38",
     "author": "fleetdm-bot",
