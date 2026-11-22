@@ -1,5 +1,15 @@
 [
   {
+    "sha": "91bcc926b0823af9edfb6b53a174f9d81b04e58e",
+    "short_sha": "91bcc926b0",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 6.28899.2 (#59529)",
+    "timestamp": "2026-11-21T22:27:34-06:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "946ac22f332647be1c6ee17fda7862fb8bba4078",
     "short_sha": "946ac22f33",
     "author": "Arend Peter Castelein",
