@@ -1,5 +1,25 @@
 [
   {
+    "sha": "a57b918c0e3e2c3648a8d2691ba11105b9d68211",
+    "short_sha": "a57b918c0e",
+    "author": "Allen Houchins",
+    "message": "Bump Linux OS up-to-date policy: Debian 13.8+deb13u7->13.8+deb13u8 (#59551)",
+    "timestamp": "2026-11-22T23:00:23-06:00",
+    "files": [
+      "it-and-security/lib/linux/policies/latest-linux.yml"
+    ]
+  },
+  {
+    "sha": "3a6ae1454cc537c4112fa4b6806a97048ccde66c",
+    "short_sha": "3a6ae1454c",
+    "author": "Allen Houchins",
+    "message": "Bump Linux Claude Desktop patch policy to 6.28899.6 (#59550)",
+    "timestamp": "2026-11-22T23:00:03-06:00",
+    "files": [
+      "it-and-security/lib/linux/policies/update-claude.yml"
+    ]
+  },
+  {
     "sha": "91bcc926b0823af9edfb6b53a174f9d81b04e58e",
     "short_sha": "91bcc926b0",
     "author": "Allen Houchins",
